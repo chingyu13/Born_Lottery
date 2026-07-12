@@ -1,10 +1,7 @@
-// API + backup mode config
-//
-// apiBase = address of your backend (the "API").
-//   ""  = local (python3 server/app.py on same machine)
-//   "https://xxxx.awsapprunner.com" = paste the URL AWS App Runner shows you
-//
-// After changing apiBase, redeploy the Netlify `public/` folder.
+// apiBase = "" → browser calls same-origin /api/* , which Netlify's _redirects
+// proxy forwards to the EB backend over HTTP (avoids HTTPS→HTTP mixed content).
+// Do NOT put the http(s)://…elasticbeanstalk.com URL here directly: EB has no
+// TLS listener, so an https URL times out and the app drops to backup mode.
 window.BL_CONFIG = {
   apiBase: "",
   healthTimeoutMs: 2500,
