@@ -1,18 +1,24 @@
-# Local / pipeline ignores
+# Local / OS / Python
 .DS_Store
 __pycache__/
 *.pyc
 .venv/
 venv/
+.env
+.env.*
+!.env.example
 
-# Build tooling (optional to commit — keep local if you prefer)
+# Build tooling
 scripts/__pycache__/
 
-# Masters & full art library — do NOT ship on static hosts
+# Full art library & masters — keep local / S3 only (not GitHub, not Netlify)
+assests/icons/
+assests/flags/
 assests/original_images/
 private/original_images/
 private/icons/
 private/flags/
 
-# Legacy draft (optional). Prefer public/ + server/
-# born_lottery.html
+# Optional local notes
+*.pem
+*.key

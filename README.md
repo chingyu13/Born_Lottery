@@ -4,7 +4,7 @@
 
 Pick a year, spin the globe, and get a weighted random birth country based on historical birth counts — plus gender, a portrait, flag, and a life-event you might live through.
 
-Live demo ideas: Netlify (`public/`) for the UI · AWS for the full-country API & private art.
+**Live:** [https://bornlottery.chingyu.site/](https://bornlottery.chingyu.site/) (`public/` on Netlify) · AWS for the full-country API & private art.
 
 ---
 
@@ -80,7 +80,7 @@ Top‑10 backup countries: `data/top10.json` (by 2020 births).
 
 ## License / art
 
-Portrait & flag assets may be **licensed / paid**. Do **not** commit masters or the full icon set to a public static host. See [`private/README.md`](private/README.md).
+Portrait & flag assets may be **licensed / paid**. Full `assests/icons|flags|original_images` and `.env*` are **gitignored** — do not push them to a public GitHub repo or Netlify. See [`private/README.md`](private/README.md).
 
 ## Legacy
 
