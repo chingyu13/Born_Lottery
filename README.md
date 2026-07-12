@@ -69,9 +69,12 @@ python3 scripts/extract_data.py
 python3 scripts/build_backup_kit.py
 # or
 python3 scripts/build_all.py
+
+# resolve / refresh Wikipedia links for events (writes data/event_wiki.csv)
+python3 scripts/resolve_event_wiki.py
 ```
 
-Top‑10 backup countries: `data/top10.json` (by 2020 births).
+Top‑10 backup countries: `data/top10.json` (by 2020 births). Event Wikipedia URLs live in [`data/event_wiki.csv`](data/event_wiki.csv) — only events with a real page get a hyperlink.
 
 ## Data sources
 

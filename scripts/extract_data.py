@@ -58,6 +58,34 @@ def extract_events(js: str):
     return global_events, js_obj_to_py(_slice_balanced(js, m.start(1), "{", "}"))
 
 
+def merge_event_wiki(global_events, events):
+    """Attach Wikipedia titles from data/event_wiki.csv when present."""
+    import csv
+
+    wiki_csv = OUT / "event_wiki.csv"
+    if not wiki_csv.exists():
+        return global_events, events
+    by_key = {}
+    with wiki_csv.open(newline="", encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            if not row.get("wiki_title"):
+                continue
+            key = (row["iso3"], int(row["year"]), row["event_text"])
+            by_key[key] = row["wiki_title"]
+
+    def bake(iso_key, arr):
+        out = []
+        for e in arr:
+            year, text = e[0], e[1]
+            title = by_key.get((iso_key, int(year), text))
+            out.append([year, text, title] if title else [year, text])
+        return out
+
+    return bake("GLOBAL", global_events), {
+        iso: bake(iso, arr) for iso, arr in events.items()
+    }
+
+
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     html = HTML.read_text(encoding="utf-8")
@@ -81,6 +109,7 @@ def main():
 
     events_js = EVENTS_JS.read_text(encoding="utf-8")
     global_events, events = extract_events(events_js)
+    global_events, events = merge_event_wiki(global_events, events)
 
     (OUT / "world.json").write_text(
         json.dumps(world, ensure_ascii=False, separators=(",", ":")), encoding="utf-8"

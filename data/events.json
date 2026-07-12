@@ -2,39 +2,48 @@
   "global": [
     [
       1914,
+      "World War I",
       "World War I"
     ],
     [
       1918,
-      "the Spanish flu pandemic"
+      "the Spanish flu pandemic",
+      "Spanish flu"
     ],
     [
       1929,
-      "the Great Depression"
+      "the Great Depression",
+      "Great Depression"
     ],
     [
       1939,
+      "World War II",
       "World War II"
     ],
     [
       1969,
-      "the Moon landing"
+      "the Moon landing",
+      "Moon landing"
     ],
     [
       1991,
-      "the end of the Cold War"
+      "the end of the Cold War",
+      "Cold War (1985–1991)"
     ],
     [
       1995,
-      "the rise of the internet"
+      "the rise of the internet",
+      "History of the Internet"
     ],
     [
       2008,
-      "the global financial crisis"
+      "the global financial crisis",
+      "2008 financial crisis"
     ],
     [
       2020,
-      "the COVID-19 pandemic"
+      "the COVID-19 pandemic",
+      "COVID-19 pandemic"
     ]
   ],
   "countries": {
@@ -45,13 +54,15 @@
       ],
       [
         2010,
-        "the dissolution of the Netherlands Antilles"
+        "the dissolution of the Netherlands Antilles",
+        "Dissolution of the Netherlands Antilles"
       ]
     ],
     "AFG": [
       [
         1979,
-        "the Soviet invasion"
+        "the Soviet invasion",
+        "United States invasion of Afghanistan"
       ],
       [
         1996,
@@ -59,7 +70,8 @@
       ],
       [
         2001,
-        "the US invasion"
+        "the US invasion",
+        "United States invasion of Afghanistan"
       ],
       [
         2021,
@@ -69,11 +81,13 @@
     "AGO": [
       [
         1975,
-        "independence"
+        "independence",
+        "Angolan War of Independence"
       ],
       [
         2002,
-        "the end of the civil war"
+        "the end of the civil war",
+        "Angolan Civil War"
       ],
       [
         2017,
@@ -87,7 +101,8 @@
       ],
       [
         1991,
-        "the fall of communism"
+        "the fall of communism",
+        "Fall of communism in Albania"
       ],
       [
         1997,
@@ -97,95 +112,115 @@
     "ARE": [
       [
         1971,
-        "the founding of the UAE"
+        "the founding of the UAE",
+        "Foreign relations of the United Arab Emirates"
       ],
       [
         2009,
-        "the opening of Atlantis, The Palm"
+        "the opening of Atlantis, The Palm",
+        "Atlantis, The Palm"
       ],
       [
         2020,
-        "the Abraham Accords"
+        "the Abraham Accords",
+        "Abraham Accords"
       ]
     ],
     "ARG": [
       [
         1946,
-        "the Perón era"
+        "the Perón era",
+        "History of Argentina"
       ],
       [
         1982,
-        "the Falklands War"
+        "the Falklands War",
+        "Falklands War"
       ],
       [
         2001,
-        "the economic collapse"
+        "the economic collapse",
+        "Economic history of Argentina"
       ],
       [
         2022,
-        "Messi's World Cup"
+        "Messi's World Cup",
+        "Messi's World Cup: The Rise of a Legend"
       ]
     ],
     "ARM": [
       [
         1988,
-        "the Spitak earthquake"
+        "the Spitak earthquake",
+        "1988 Armenian earthquake"
       ],
       [
         1991,
-        "independence"
+        "independence",
+        "Declaration of State Sovereignty of Armenia"
       ],
       [
         2020,
-        "the Nagorno-Karabakh war"
+        "the Nagorno-Karabakh war",
+        "Nagorno-Karabakh war"
       ]
     ],
     "ATG": [
       [
         1981,
-        "independence"
+        "independence",
+        "Independence of Antigua and Barbuda"
       ],
       [
         2017,
+        "Hurricane Irma",
         "Hurricane Irma"
       ]
     ],
     "AUS": [
       [
         1956,
-        "the Melbourne Olympics"
+        "the Melbourne Olympics",
+        "1956 Summer Olympics"
       ],
       [
         2000,
-        "the Sydney Olympics"
+        "the Sydney Olympics",
+        "2000 Summer Olympics"
       ],
       [
         2019,
-        "the Black Summer bushfires"
+        "the Black Summer bushfires",
+        "2019–20 Australian bushfire season"
       ]
     ],
     "AUT": [
       [
         1938,
-        "the Anschluss"
+        "the Anschluss",
+        "1938 Austrian Anschluss referendum"
       ],
       [
         1955,
-        "the State Treaty and neutrality"
+        "the State Treaty and neutrality",
+        "Austrian State Treaty"
       ],
       [
         1995,
-        "joining the EU"
+        "joining the EU",
+        "Member state of the European Union"
       ]
     ],
     "AZE": [
       [
         1991,
-        "independence"
+        "independence",
+        "Independence Day (Azerbaijan)"
       ],
       [
         2020,
-        "the Nagorno-Karabakh war"
+        "the Nagorno-Karabakh war",
+        "Nagorno-Karabakh war"
       ],
       [
         2023,
@@ -195,24 +230,29 @@
     "BDI": [
       [
         1962,
-        "independence"
+        "independence",
+        "History of Burundi"
       ],
       [
         1993,
-        "the start of the civil war"
+        "the start of the civil war",
+        "Burundian Civil War"
       ],
       [
         2005,
-        "the end of the civil war"
+        "the end of the civil war",
+        "Burundian Civil War"
       ]
     ],
     "BEL": [
       [
         1940,
-        "the German occupation"
+        "the German occupation",
+        "German occupation of Belgium during World War II"
       ],
       [
         1958,
+        "Expo 58",
         "Expo 58"
       ],
       [
@@ -233,7 +273,8 @@
     "BFA": [
       [
         1960,
-        "independence"
+        "independence",
+        "African Independence Party (Burkina Faso)"
       ],
       [
         2014,
@@ -241,49 +282,59 @@
       ],
       [
         2022,
-        "the military coups"
+        "the military coups",
+        "Coup d'état"
       ]
     ],
     "BGD": [
       [
         1970,
-        "the Bhola cyclone"
+        "the Bhola cyclone",
+        "1970 Bhola cyclone"
       ],
       [
         1971,
-        "the Liberation War"
+        "the Liberation War",
+        "War of independence"
       ],
       [
         1998,
-        "the great flood"
+        "the great flood",
+        "Flood myth"
       ],
       [
         2024,
-        "the July Revolution"
+        "the July Revolution",
+        "Second Revolution (Bangladesh)"
       ]
     ],
     "BGR": [
       [
         1989,
-        "the end of communism"
+        "the end of communism",
+        "End of Communism"
       ],
       [
         2007,
-        "joining the EU"
+        "joining the EU",
+        "Adoption of the euro in Bulgaria"
       ],
       [
         2020,
-        "the anti-corruption protests"
+        "the anti-corruption protests",
+        "2025–2026 Bulgarian protests"
       ]
     ],
     "BHR": [
       [
         1971,
-        "independence"
+        "independence",
+        "Independence Day (Bahrain)"
       ],
       [
         2011,
-        "the Pearl Roundabout uprising"
+        "the Pearl Roundabout uprising",
+        "2011 Bahraini uprising"
       ]
     ],
     "BHS": [
@@ -293,17 +344,20 @@
       ],
       [
         2019,
+        "Hurricane Dorian",
         "Hurricane Dorian"
       ]
     ],
     "BIH": [
       [
         1992,
-        "the Bosnian War"
+        "the Bosnian War",
+        "Bosnian War"
       ],
       [
         1995,
-        "the Dayton peace"
+        "the Dayton peace",
+        "Dayton Literary Peace Prize"
       ],
       [
         2014,
@@ -313,21 +367,25 @@
     "BLR": [
       [
         1986,
-        "the Chernobyl fallout"
+        "the Chernobyl fallout",
+        "Effects of the Chernobyl disaster"
       ],
       [
         1991,
-        "independence"
+        "independence",
+        "Politics of Belarus"
       ],
       [
         2020,
-        "the mass protests"
+        "the mass protests",
+        "2020–2021 Belarusian protests"
       ]
     ],
     "BLZ": [
       [
         1981,
-        "independence"
+        "independence",
+        "History of Belize"
       ],
       [
         2000,
@@ -337,7 +395,8 @@
     "BMU": [
       [
         1968,
-        "the race riots"
+        "the race riots",
+        "List of ethnic riots"
       ],
       [
         1995,
@@ -347,59 +406,71 @@
     "BOL": [
       [
         1952,
-        "the National Revolution"
+        "the National Revolution",
+        "Bolivian National Revolution"
       ],
       [
         2006,
-        "the election of Evo Morales"
+        "the election of Evo Morales",
+        "2005 Bolivian general election"
       ],
       [
         2019,
-        "the political crisis"
+        "the political crisis",
+        "Cabinet crisis"
       ]
     ],
     "BRA": [
       [
         1958,
-        "Brazil's first World Cup win"
+        "Brazil's first World Cup win",
+        "Uruguay v Brazil (1950 FIFA World Cup)"
       ],
       [
         1964,
-        "the military coup"
+        "the military coup",
+        "1964 Brazilian coup d'état"
       ],
       [
         1985,
-        "the return to democracy"
+        "the return to democracy",
+        "Brazilian Social Democracy Party"
       ],
       [
         2016,
-        "the Rio Olympics"
+        "the Rio Olympics",
+        "2016 Summer Olympics"
       ]
     ],
     "BRB": [
       [
         1966,
-        "independence"
+        "independence",
+        "Barbados Independence Act 1966"
       ],
       [
         2021,
-        "becoming a republic"
+        "becoming a republic",
+        "1960 South African republic referendum"
       ]
     ],
     "BRN": [
       [
         1984,
-        "independence"
+        "independence",
+        "Brunei People's Independence Party"
       ],
       [
         1998,
-        "the Asian financial crisis"
+        "the Asian financial crisis",
+        "1997 Asian financial crisis"
       ]
     ],
     "BTN": [
       [
         2008,
-        "the first democratic elections"
+        "the first democratic elections",
+        "People's Democratic Party (Bhutan)"
       ],
       [
         2013,
@@ -409,7 +480,8 @@
     "BWA": [
       [
         1966,
-        "independence"
+        "independence",
+        "History of Botswana"
       ],
       [
         1996,
@@ -419,7 +491,8 @@
     "CAF": [
       [
         1960,
-        "independence"
+        "independence",
+        "History of the Central African Republic"
       ],
       [
         2013,
@@ -429,6 +502,7 @@
     "CAN": [
       [
         1967,
+        "Expo 67",
         "Expo 67"
       ],
       [
@@ -437,7 +511,8 @@
       ],
       [
         2010,
-        "the Vancouver Olympics"
+        "the Vancouver Olympics",
+        "2010 Winter Olympics"
       ]
     ],
     "CHE": [
@@ -451,7 +526,8 @@
       ],
       [
         2002,
-        "joining the United Nations"
+        "joining the United Nations",
+        "Permanent Representative of Switzerland to the United Nations"
       ]
     ],
     "CHL": [
@@ -461,11 +537,13 @@
       ],
       [
         1973,
-        "the Pinochet coup"
+        "the Pinochet coup",
+        "1973 Chilean coup d'état"
       ],
       [
         1990,
-        "the return to democracy"
+        "the return to democracy",
+        "Chilean transition to democracy"
       ],
       [
         2010,
@@ -475,15 +553,18 @@
     "CHN": [
       [
         1937,
-        "the Japanese invasion"
+        "the Japanese invasion",
+        "Japanese invasion of French Indochina"
       ],
       [
         1959,
-        "the Great Famine"
+        "the Great Famine",
+        "Great Famine"
       ],
       [
         1978,
-        "the Reform and Opening-up"
+        "the Reform and Opening-up",
+        "Reform and opening up"
       ],
       [
         2008,
@@ -507,15 +588,18 @@
     "CMR": [
       [
         1960,
-        "independence"
+        "independence",
+        "Cameroon"
       ],
       [
         1986,
-        "the Lake Nyos disaster"
+        "the Lake Nyos disaster",
+        "Lake Nyos disaster"
       ],
       [
         2016,
-        "the Anglophone crisis"
+        "the Anglophone crisis",
+        "Anglophone Crisis"
       ]
     ],
     "COD": [
@@ -525,35 +609,42 @@
       ],
       [
         1997,
-        "the fall of Mobutu"
+        "the fall of Mobutu",
+        "Mobutu Sese Seko"
       ],
       [
         1998,
-        "the Great African War"
+        "the Great African War",
+        "Second Congo War"
       ]
     ],
     "COG": [
       [
         1960,
-        "independence"
+        "independence",
+        "Congolese Independence Speech"
       ],
       [
         1997,
-        "the return of Sassou Nguesso"
+        "the return of Sassou Nguesso",
+        "Denis Sassou Nguesso"
       ]
     ],
     "COL": [
       [
         1948,
+        "La Violencia",
         "La Violencia"
       ],
       [
         1985,
-        "the Armero tragedy"
+        "the Armero tragedy",
+        "Armero tragedy"
       ],
       [
         2016,
-        "the FARC peace deal"
+        "the FARC peace deal",
+        "Colombian peace process"
       ]
     ],
     "COM": [
@@ -563,13 +654,15 @@
       ],
       [
         2001,
-        "the Fomboni Accords"
+        "the Fomboni Accords",
+        "Fomboni"
       ]
     ],
     "CPV": [
       [
         1975,
-        "independence"
+        "independence",
+        "African Party for the Independence of Cape Verde"
       ],
       [
         1991,
@@ -579,7 +672,8 @@
     "CRI": [
       [
         1948,
-        "abolishing the army"
+        "abolishing the army",
+        "Article 12 of the Constitution of Costa Rica"
       ],
       [
         1987,
@@ -589,21 +683,25 @@
     "CUB": [
       [
         1959,
-        "the Cuban Revolution"
+        "the Cuban Revolution",
+        "Cuban Revolution"
       ],
       [
         1962,
-        "the Missile Crisis"
+        "the Missile Crisis",
+        "Cuban Missile Crisis"
       ],
       [
         1991,
-        "the Special Period"
+        "the Special Period",
+        "Special Period"
       ]
     ],
     "CYP": [
       [
         1960,
-        "independence"
+        "independence",
+        "Independence Day (Cyprus)"
       ],
       [
         1974,
@@ -611,13 +709,15 @@
       ],
       [
         2004,
-        "joining the EU"
+        "joining the EU",
+        "Cyprus and the European Union"
       ]
     ],
     "CZE": [
       [
         1968,
-        "the Prague Spring"
+        "the Prague Spring",
+        "Prague Spring"
       ],
       [
         1989,
@@ -625,7 +725,8 @@
       ],
       [
         1993,
-        "the split of Czechoslovakia"
+        "the split of Czechoslovakia",
+        "History of Czechoslovakia"
       ]
     ],
     "DEU": [
@@ -635,31 +736,37 @@
       ],
       [
         1945,
-        "the fall of Berlin"
+        "the fall of Berlin",
+        "Fall of Berlin"
       ],
       [
         1989,
-        "the fall of the Berlin Wall"
+        "the fall of the Berlin Wall",
+        "Fall of the Berlin Wall"
       ],
       [
         1990,
+        "German reunification",
         "German reunification"
       ]
     ],
     "DJI": [
       [
         1977,
-        "independence"
+        "independence",
+        "Independence Day (Djibouti)"
       ],
       [
         2008,
-        "the border conflict with Eritrea"
+        "the border conflict with Eritrea",
+        "Djiboutian–Eritrean border conflict"
       ]
     ],
     "DNK": [
       [
         1940,
-        "the German occupation"
+        "the German occupation",
+        "German invasion of Denmark (1940)"
       ],
       [
         1973,
@@ -673,35 +780,42 @@
     "DOM": [
       [
         1930,
-        "the Trujillo era"
+        "the Trujillo era",
+        "Rafael Trujillo"
       ],
       [
         1965,
-        "the civil war and US intervention"
+        "the civil war and US intervention",
+        "Dominican Civil War"
       ],
       [
         1998,
+        "Hurricane Georges",
         "Hurricane Georges"
       ]
     ],
     "DZA": [
       [
         1962,
-        "independence"
+        "independence",
+        "Independence Day (Algeria)"
       ],
       [
         1992,
-        "the civil war"
+        "the civil war",
+        "Algerian Civil War"
       ],
       [
         2019,
-        "the Hirak protests"
+        "the Hirak protests",
+        "Hirak (Algeria)"
       ]
     ],
     "ECU": [
       [
         1941,
-        "the war with Peru"
+        "the war with Peru",
+        "Colombia–Peru War"
       ],
       [
         2000,
@@ -709,39 +823,47 @@
       ],
       [
         2016,
-        "the coastal earthquake"
+        "the coastal earthquake",
+        "1906 Ecuador–Colombia earthquake"
       ]
     ],
     "EGY": [
       [
         1952,
-        "the revolution"
+        "the revolution",
+        "Egyptian revolution of 1952"
       ],
       [
         1956,
-        "the Suez Crisis"
+        "the Suez Crisis",
+        "Suez Crisis"
       ],
       [
         1967,
-        "the Six-Day War"
+        "the Six-Day War",
+        "Six-Day War"
       ],
       [
         2011,
-        "the Tahrir Square revolution"
+        "the Tahrir Square revolution",
+        "2011 Egyptian revolution"
       ]
     ],
     "ERI": [
       [
         1993,
-        "independence"
+        "independence",
+        "History of Eritrea"
       ],
       [
         1998,
-        "the war with Ethiopia"
+        "the war with Ethiopia",
+        "Eritrean–Ethiopian War"
       ],
       [
         2018,
-        "the peace deal with Ethiopia"
+        "the peace deal with Ethiopia",
+        "Ethiopia–Tigray peace agreement"
       ]
     ],
     "ESH": [
@@ -751,7 +873,8 @@
       ],
       [
         1991,
-        "the UN-brokered ceasefire"
+        "the UN-brokered ceasefire",
+        "Ceasefire"
       ]
     ],
     "ESP": [
@@ -761,21 +884,25 @@
       ],
       [
         1975,
-        "the transition to democracy"
+        "the transition to democracy",
+        "Democratization"
       ],
       [
         1992,
-        "the Barcelona Olympics"
+        "the Barcelona Olympics",
+        "1992 Summer Olympics"
       ],
       [
         2010,
-        "Spain winning the World Cup"
+        "Spain winning the World Cup",
+        "Spain at the FIFA World Cup"
       ]
     ],
     "EST": [
       [
         1991,
-        "the restoration of independence"
+        "the restoration of independence",
+        "Estonian Restoration of Independence"
       ],
       [
         2004,
@@ -783,39 +910,47 @@
       ],
       [
         2011,
-        "adopting the euro"
+        "adopting the euro",
+        "History of the euro"
       ]
     ],
     "ETH": [
       [
         1935,
-        "the Italian invasion"
+        "the Italian invasion",
+        "De Bono's invasion of Ethiopia"
       ],
       [
         1974,
-        "the revolution"
+        "the revolution",
+        "Ethiopian Revolution"
       ],
       [
         1984,
-        "the great famine"
+        "the great famine",
+        "Great Famine"
       ],
       [
         2020,
-        "the Tigray war"
+        "the Tigray war",
+        "Tigray war"
       ]
     ],
     "FIN": [
       [
         1917,
-        "independence"
+        "independence",
+        "Independence of Finland"
       ],
       [
         1939,
-        "the Winter War"
+        "the Winter War",
+        "Winter War"
       ],
       [
         1995,
-        "joining the EU"
+        "joining the EU",
+        "Member state of the European Union"
       ]
     ],
     "FJI": [
@@ -825,17 +960,20 @@
       ],
       [
         1987,
-        "the coups"
+        "the coups",
+        "Fijian coup d'etat"
       ],
       [
         2006,
-        "the Bainimarama coup"
+        "the Bainimarama coup",
+        "2006 Fijian coup d'état"
       ]
     ],
     "FLK": [
       [
         1982,
-        "the Falklands War"
+        "the Falklands War",
+        "Falklands War"
       ],
       [
         2013,
@@ -845,19 +983,23 @@
     "FRA": [
       [
         1940,
-        "the German occupation"
+        "the German occupation",
+        "German military administration in occupied France during World War II"
       ],
       [
         1968,
-        "the May 68 protests"
+        "the May 68 protests",
+        "2006 youth protests in France"
       ],
       [
         1998,
-        "France winning the World Cup"
+        "France winning the World Cup",
+        "France at the FIFA World Cup"
       ],
       [
         2015,
-        "the Paris attacks"
+        "the Paris attacks",
+        "Paris attacks"
       ]
     ],
     "FSM": [
@@ -867,13 +1009,15 @@
       ],
       [
         2004,
+        "Typhoon Sudal",
         "Typhoon Sudal"
       ]
     ],
     "GAB": [
       [
         1960,
-        "independence"
+        "independence",
+        "History of Gabon"
       ],
       [
         2023,
@@ -887,11 +1031,13 @@
       ],
       [
         1966,
-        "England winning the World Cup"
+        "England winning the World Cup",
+        "England at the FIFA World Cup"
       ],
       [
         2012,
-        "the London Olympics"
+        "the London Olympics",
+        "London Olympics"
       ],
       [
         2016,
@@ -901,7 +1047,8 @@
     "GEO": [
       [
         1991,
-        "independence"
+        "independence",
+        "History of Georgia (country)"
       ],
       [
         2003,
@@ -909,7 +1056,8 @@
       ],
       [
         2008,
-        "the war with Russia"
+        "the war with Russia",
+        "Russo-Georgian War"
       ]
     ],
     "GHA": [
@@ -919,7 +1067,8 @@
       ],
       [
         1981,
-        "the Rawlings era"
+        "the Rawlings era",
+        "Rawlings government"
       ],
       [
         1992,
@@ -929,11 +1078,13 @@
     "GIN": [
       [
         1958,
-        "independence"
+        "independence",
+        "History of Guinea"
       ],
       [
         2021,
-        "the military coup"
+        "the military coup",
+        "2025 Guinea-Bissau coup d'état"
       ]
     ],
     "GLP": [
@@ -943,13 +1094,15 @@
       ],
       [
         2009,
-        "the general strike"
+        "the general strike",
+        "General strike"
       ]
     ],
     "GMB": [
       [
         1965,
-        "independence"
+        "independence",
+        "Gambia Independence Act 1964"
       ],
       [
         2017,
@@ -959,11 +1112,13 @@
     "GNB": [
       [
         1973,
-        "the declaration of independence"
+        "the declaration of independence",
+        "Guinea-Bissau War of Independence"
       ],
       [
         1998,
-        "the civil war"
+        "the civil war",
+        "Guinea-Bissau Civil War"
       ]
     ],
     "GNQ": [
@@ -973,7 +1128,8 @@
       ],
       [
         1995,
-        "the start of the oil boom"
+        "the start of the oil boom",
+        "Texas oil boom"
       ]
     ],
     "GRC": [
@@ -983,7 +1139,8 @@
       ],
       [
         1974,
-        "the return of democracy"
+        "the return of democracy",
+        "Democratization"
       ],
       [
         2004,
@@ -991,41 +1148,49 @@
       ],
       [
         2010,
-        "the debt crisis"
+        "the debt crisis",
+        "Debt crisis"
       ]
     ],
     "GRD": [
       [
         1974,
-        "independence"
+        "independence",
+        "History of Grenada"
       ],
       [
         1983,
-        "the US invasion"
+        "the US invasion",
+        "United States invasion of Grenada"
       ]
     ],
     "GRL": [
       [
         1979,
-        "home rule"
+        "home rule",
+        "Home rule"
       ],
       [
         2009,
-        "self-government expansion"
+        "self-government expansion",
+        "2008 Greenlandic self-government referendum"
       ]
     ],
     "GTM": [
       [
         1954,
-        "the coup"
+        "the coup",
+        "1954 Guatemalan coup d'état"
       ],
       [
         1976,
-        "the great earthquake"
+        "the great earthquake",
+        "Lists of earthquakes"
       ],
       [
         1996,
-        "the end of the civil war"
+        "the end of the civil war",
+        "Guatemalan Civil War"
       ]
     ],
     "GUF": [
@@ -1041,11 +1206,13 @@
     "GUM": [
       [
         1950,
-        "the Organic Act"
+        "the Organic Act",
+        "Organic act"
       ],
       [
         1997,
-        "the Asian financial crisis tourism shock"
+        "the Asian financial crisis tourism shock",
+        "1997 Asian financial crisis"
       ]
     ],
     "GUY": [
@@ -1055,117 +1222,142 @@
       ],
       [
         1978,
-        "the Jonestown tragedy"
+        "the Jonestown tragedy",
+        "Guyana Tragedy: The Story of Jim Jones"
       ],
       [
         2015,
-        "the major offshore oil discovery"
+        "the major offshore oil discovery",
+        "Offshore oil and gas in the Gulf of Mexico (United States)"
       ]
     ],
     "HKG": [
       [
         1941,
-        "the Japanese occupation of Hong Kong"
+        "the Japanese occupation of Hong Kong",
+        "Japanese occupation of Hong Kong"
       ],
       [
         1997,
-        "the Handover of Hong Kong"
+        "the Handover of Hong Kong",
+        "Handover of Hong Kong"
       ],
       [
         2014,
-        "the Umbrella Movement"
+        "the Umbrella Movement",
+        "Umbrella Movement"
       ],
       [
         2019,
-        "the anti-extradition protests"
+        "the anti-extradition protests",
+        "2019–2020 Hong Kong protests"
       ]
     ],
     "HND": [
       [
         1969,
-        "the Football War with El Salvador"
+        "the Football War with El Salvador",
+        "El Salvador–Honduras football rivalry"
       ],
       [
         1998,
+        "Hurricane Mitch",
         "Hurricane Mitch"
       ],
       [
         2009,
-        "the coup"
+        "the coup",
+        "Honduran coup d'état"
       ]
     ],
     "HRV": [
       [
         1991,
-        "the Croatian War of Independence"
+        "the Croatian War of Independence",
+        "Croatian War of Independence"
       ],
       [
         2013,
-        "joining the EU"
+        "joining the EU",
+        "2013 enlargement of the European Union"
       ],
       [
         2018,
-        "reaching the World Cup final"
+        "reaching the World Cup final",
+        "Croatia at the FIFA World Cup"
       ]
     ],
     "HTI": [
       [
         1957,
-        "the Duvalier era"
+        "the Duvalier era",
+        "François Duvalier"
       ],
       [
         2010,
-        "the great earthquake"
+        "the great earthquake",
+        "Lists of earthquakes"
       ],
       [
         2021,
-        "the assassination of President Moïse"
+        "the assassination of President Moïse",
+        "Assassination of Jovenel Moïse"
       ]
     ],
     "HUN": [
       [
         1956,
-        "the Hungarian uprising"
+        "the Hungarian uprising",
+        "Uprising in West Hungary"
       ],
       [
         1989,
-        "the end of communism"
+        "the end of communism",
+        "End of Communism"
       ],
       [
         2004,
-        "joining the EU"
+        "joining the EU",
+        "Accession of Montenegro to the European Union"
       ]
     ],
     "IDN": [
       [
         1945,
-        "Indonesian independence"
+        "Indonesian independence",
+        "Proclamation of Indonesian Independence"
       ],
       [
         1998,
-        "the Reformasi"
+        "the Reformasi",
+        "Reform era in Indonesia"
       ],
       [
         2004,
-        "the Indian Ocean tsunami"
+        "the Indian Ocean tsunami",
+        "2004 Indian Ocean earthquake and tsunami"
       ]
     ],
     "IND": [
       [
         1947,
-        "Independence and Partition"
+        "Independence and Partition",
+        "Jinnah: India, Partition, Independence"
       ],
       [
         1975,
-        "the Emergency"
+        "the Emergency",
+        "The Emergency (India)"
       ],
       [
         1991,
-        "economic liberalization"
+        "economic liberalization",
+        "Economic liberalisation in India"
       ],
       [
         2004,
-        "the Indian Ocean tsunami"
+        "the Indian Ocean tsunami",
+        "2004 Indian Ocean earthquake and tsunami"
       ]
     ],
     "IRL": [
@@ -1175,25 +1367,30 @@
       ],
       [
         1998,
-        "the Good Friday Agreement"
+        "the Good Friday Agreement",
+        "Good Friday Agreement"
       ],
       [
         2008,
-        "the financial crash"
+        "the financial crash",
+        "Wall Street crash of 1929"
       ]
     ],
     "IRN": [
       [
         1953,
-        "the coup"
+        "the coup",
+        "Iran coup"
       ],
       [
         1979,
-        "the Islamic Revolution"
+        "the Islamic Revolution",
+        "Iranian Revolution"
       ],
       [
         1980,
-        "the Iran-Iraq War"
+        "the Iran-Iraq War",
+        "Iran–Iraq War"
       ],
       [
         2022,
@@ -1203,25 +1400,30 @@
     "IRQ": [
       [
         1980,
-        "the Iran-Iraq War"
+        "the Iran-Iraq War",
+        "Iran–Iraq War"
       ],
       [
         1991,
-        "the Gulf War"
+        "the Gulf War",
+        "Gulf War"
       ],
       [
         2003,
-        "the US invasion"
+        "the US invasion",
+        "2003 invasion of Iraq"
       ],
       [
         2014,
-        "the war against ISIS"
+        "the war against ISIS",
+        "War against the Islamic State"
       ]
     ],
     "ISL": [
       [
         1944,
-        "becoming a republic"
+        "becoming a republic",
+        "Czech Republic national football team"
       ],
       [
         2008,
@@ -1229,123 +1431,149 @@
       ],
       [
         2010,
-        "the Eyjafjallajökull eruption"
+        "the Eyjafjallajökull eruption",
+        "Air travel disruption after the 2010 Eyjafjallajökull eruption"
       ]
     ],
     "ISR": [
       [
         1948,
-        "the founding of Israel"
+        "the founding of Israel",
+        "Israeli Declaration of Independence"
       ],
       [
         1967,
-        "the Six-Day War"
+        "the Six-Day War",
+        "Six-Day War"
       ],
       [
         1973,
-        "the Yom Kippur War"
+        "the Yom Kippur War",
+        "Yom Kippur War"
       ],
       [
         2023,
-        "the October 7 war"
+        "the October 7 war",
+        "Timeline of the Gaza war (7 October 2023 – 27 October 2023)"
       ]
     ],
     "ITA": [
       [
         1943,
-        "the WWII armistice"
+        "the WWII armistice",
+        "Armistice Day"
       ],
       [
         1980,
-        "the Irpinia earthquake"
+        "the Irpinia earthquake",
+        "List of earthquakes in Irpinia"
       ],
       [
         2006,
-        "Italy winning the World Cup"
+        "Italy winning the World Cup",
+        "Italy v West Germany (1970 FIFA World Cup)"
       ]
     ],
     "JAM": [
       [
         1962,
-        "independence"
+        "independence",
+        "Independence of Jamaica"
       ],
       [
         1980,
-        "the election violence"
+        "the election violence",
+        "1997 Jamaican general election"
       ],
       [
         2012,
-        "Usain Bolt's London Olympics"
+        "Usain Bolt's London Olympics",
+        "Usain Bolt"
       ]
     ],
     "JOR": [
       [
         1970,
+        "Black September",
         "Black September"
       ],
       [
         1994,
-        "the peace treaty with Israel"
+        "the peace treaty with Israel",
+        "Israel–Jordan peace treaty"
       ],
       [
         2011,
-        "the Arab Spring protests"
+        "the Arab Spring protests",
+        "2018 Jordanian protests"
       ]
     ],
     "JPN": [
       [
         1923,
-        "the Great Kantō earthquake"
+        "the Great Kantō earthquake",
+        "Great Kantō Earthquake"
       ],
       [
         1945,
-        "the atomic bombings and Japan's surrender"
+        "the atomic bombings and Japan's surrender",
+        "Atomic bombings of Hiroshima and Nagasaki"
       ],
       [
         1995,
-        "the Kobe earthquake"
+        "the Kobe earthquake",
+        "1995 Hanshin earthquake"
       ],
       [
         2011,
-        "the 311 Tōhoku earthquake and tsunami"
+        "the 311 Tōhoku earthquake and tsunami",
+        "2011 Tōhoku earthquake and tsunami"
       ]
     ],
     "KAZ": [
       [
         1991,
-        "independence from the USSR"
+        "independence from the USSR",
+        "On the State Independence of the Republic of Kazakhstan"
       ],
       [
         2019,
-        "Nazarbayev's resignation"
+        "Nazarbayev's resignation",
+        "Resignation of Nursultan Nazarbayev"
       ],
       [
         2022,
-        "the January unrest"
+        "the January unrest",
+        "2022 Kazakh unrest"
       ]
     ],
     "KEN": [
       [
         1963,
-        "independence"
+        "independence",
+        "History of Kenya"
       ],
       [
         2007,
-        "the post-election crisis"
+        "the post-election crisis",
+        "2007–2008 Kenyan crisis"
       ],
       [
         2010,
-        "the new constitution"
+        "the new constitution",
+        "Constitution of New York"
       ]
     ],
     "KGZ": [
       [
         1991,
-        "independence"
+        "independence",
+        "Independence Day (Kyrgyzstan)"
       ],
       [
         2005,
-        "the Tulip Revolution"
+        "the Tulip Revolution",
+        "2010 Kyrgyz Revolution"
       ],
       [
         2010,
@@ -1355,15 +1583,18 @@
     "KHM": [
       [
         1975,
-        "the Khmer Rouge era"
+        "the Khmer Rouge era",
+        "Khmer Rouge"
       ],
       [
         1979,
-        "the fall of the Khmer Rouge"
+        "the fall of the Khmer Rouge",
+        "Khmer Rouge"
       ],
       [
         1993,
-        "the restoration of the monarchy"
+        "the restoration of the monarchy",
+        "Restoration"
       ]
     ],
     "KIR": [
@@ -1379,7 +1610,8 @@
     "KOR": [
       [
         1950,
-        "the Korean War"
+        "the Korean War",
+        "Korean War"
       ],
       [
         1980,
@@ -1387,11 +1619,13 @@
       ],
       [
         1997,
-        "the IMF crisis"
+        "the IMF crisis",
+        "1997 Asian financial crisis"
       ],
       [
         2002,
-        "the Korea-Japan World Cup"
+        "the Korea-Japan World Cup",
+        "South Korea at the FIFA World Cup"
       ]
     ],
     "KWT": [
@@ -1401,31 +1635,37 @@
       ],
       [
         1990,
-        "the Iraqi invasion"
+        "the Iraqi invasion",
+        "Iraqi invasion of Kuwait"
       ],
       [
         1991,
-        "liberation"
+        "liberation",
+        "Kuwait Liberation Medal (Kuwait)"
       ]
     ],
     "LAO": [
       [
         1975,
-        "the communist takeover"
+        "the communist takeover",
+        "Communist takeover"
       ],
       [
         1997,
-        "joining ASEAN"
+        "joining ASEAN",
+        "Enlargement of ASEAN"
       ],
       [
         2018,
-        "the Xe Pian-Xe Namnoy dam collapse"
+        "the Xe Pian-Xe Namnoy dam collapse",
+        "2018 Laos dam collapse"
       ]
     ],
     "LBN": [
       [
         1975,
-        "the Lebanese civil war"
+        "the Lebanese civil war",
+        "Syrian civil war spillover in Lebanon"
       ],
       [
         2005,
@@ -1433,79 +1673,95 @@
       ],
       [
         2020,
-        "the Beirut port explosion"
+        "the Beirut port explosion",
+        "2020 Beirut explosion"
       ]
     ],
     "LBR": [
       [
         1980,
-        "the Doe coup"
+        "the Doe coup",
+        "1980 Liberian coup d'état"
       ],
       [
         1989,
-        "the start of the civil wars"
+        "the start of the civil wars",
+        "The Civil Wars"
       ],
       [
         2003,
-        "the end of the civil war"
+        "the end of the civil war",
+        "Second Liberian Civil War"
       ]
     ],
     "LBY": [
       [
         1969,
-        "Gaddafi's coup"
+        "Gaddafi's coup",
+        "History of Libya under Muammar Gaddafi"
       ],
       [
         2011,
-        "the fall of Gaddafi"
+        "the fall of Gaddafi",
+        "History of Libya under Muammar Gaddafi"
       ],
       [
         2023,
-        "the Derna flood"
+        "the Derna flood",
+        "Derna, Libya"
       ]
     ],
     "LCA": [
       [
         1979,
-        "independence"
+        "independence",
+        "History of Saint Lucia"
       ],
       [
         2010,
+        "Hurricane Tomas",
         "Hurricane Tomas"
       ]
     ],
     "LKA": [
       [
         2004,
-        "the Indian Ocean tsunami"
+        "the Indian Ocean tsunami",
+        "2004 Indian Ocean earthquake and tsunami"
       ],
       [
         2009,
-        "the end of the civil war"
+        "the end of the civil war",
+        "War crimes during the final stages of the Sri Lankan civil war"
       ],
       [
         2022,
-        "the economic crisis protests"
+        "the economic crisis protests",
+        "Sri Lankan economic crisis (2019–2024)"
       ]
     ],
     "LSO": [
       [
         1966,
-        "independence"
+        "independence",
+        "Lesotho Independence Cup"
       ],
       [
         1998,
-        "the political crisis and SADC intervention"
+        "the political crisis and SADC intervention",
+        "2014 Lesotho political crisis"
       ]
     ],
     "LTU": [
       [
         1990,
-        "the restoration of independence"
+        "the restoration of independence",
+        "Lithuania Independence Restoration Day"
       ],
       [
         1991,
-        "the January Events"
+        "the January Events",
+        "January Events"
       ],
       [
         2004,
@@ -1515,17 +1771,20 @@
     "LUX": [
       [
         1944,
-        "liberation in WWII"
+        "liberation in WWII",
+        "The National WWII Museum"
       ],
       [
         2002,
-        "adopting the euro"
+        "adopting the euro",
+        "Adoption of the euro in Luxembourg"
       ]
     ],
     "LVA": [
       [
         1991,
-        "the restoration of independence"
+        "the restoration of independence",
+        "On the Restoration of Independence of the Republic of Latvia"
       ],
       [
         2004,
@@ -1533,17 +1792,20 @@
       ],
       [
         2014,
-        "adopting the euro"
+        "adopting the euro",
+        "Adoption of the euro in Latvia"
       ]
     ],
     "MAC": [
       [
         1999,
-        "the Handover of Macao"
+        "the Handover of Macao",
+        "Handover of Macau"
       ],
       [
         2003,
-        "the SARS outbreak"
+        "the SARS outbreak",
+        "2002–2004 SARS outbreak"
       ],
       [
         2019,
@@ -1553,53 +1815,64 @@
     "MAR": [
       [
         1956,
-        "independence"
+        "independence",
+        "History of Morocco"
       ],
       [
         1975,
-        "the Green March"
+        "the Green March",
+        "Green March"
       ],
       [
         2023,
-        "the Al Haouz earthquake"
+        "the Al Haouz earthquake",
+        "2023 Al Haouz earthquake"
       ]
     ],
     "MDA": [
       [
         1991,
-        "independence"
+        "independence",
+        "Independence of Moldova"
       ],
       [
         1992,
-        "the Transnistria war"
+        "the Transnistria war",
+        "Transnistrian War"
       ],
       [
         2022,
-        "the refugee crisis from Ukraine"
+        "the refugee crisis from Ukraine",
+        "Ukrainian refugee crisis"
       ]
     ],
     "MDG": [
       [
         1960,
-        "independence"
+        "independence",
+        "History of Madagascar"
       ],
       [
         2009,
-        "the political crisis"
+        "the political crisis",
+        "Cabinet crisis"
       ],
       [
         2013,
-        "the return to elections"
+        "the return to elections",
+        "Return"
       ]
     ],
     "MDV": [
       [
         1965,
-        "independence"
+        "independence",
+        "Independence of the Maldives"
       ],
       [
         2004,
-        "the Indian Ocean tsunami"
+        "the Indian Ocean tsunami",
+        "2004 Indian Ocean earthquake and tsunami"
       ],
       [
         2008,
@@ -1609,29 +1882,35 @@
     "MEX": [
       [
         1910,
-        "the Mexican Revolution"
+        "the Mexican Revolution",
+        "Mexican Revolution"
       ],
       [
         1968,
-        "the Tlatelolco massacre"
+        "the Tlatelolco massacre",
+        "Tlatelolco massacre"
       ],
       [
         1985,
-        "the Mexico City earthquake"
+        "the Mexico City earthquake",
+        "1985 Mexico City earthquake"
       ],
       [
         1994,
-        "NAFTA"
+        "NAFTA",
+        "North American Free Trade Agreement"
       ]
     ],
     "MKD": [
       [
         1991,
-        "independence"
+        "independence",
+        "Independence Day (North Macedonia)"
       ],
       [
         2001,
-        "the Ohrid Agreement"
+        "the Ohrid Agreement",
+        "Ohrid Agreement (2001)"
       ],
       [
         2019,
@@ -1649,13 +1928,15 @@
       ],
       [
         2020,
-        "the military coup"
+        "the military coup",
+        "2012 Malian coup d'état"
       ]
     ],
     "MLT": [
       [
         1964,
-        "independence"
+        "independence",
+        "History of Malta"
       ],
       [
         1979,
@@ -1663,13 +1944,15 @@
       ],
       [
         2004,
-        "joining the EU"
+        "joining the EU",
+        "Accession of Albania to the European Union"
       ]
     ],
     "MMR": [
       [
         1962,
-        "the military coup"
+        "the military coup",
+        "2021 Myanmar coup d'état"
       ],
       [
         1988,
@@ -1677,21 +1960,25 @@
       ],
       [
         2008,
+        "Cyclone Nargis",
         "Cyclone Nargis"
       ],
       [
         2021,
-        "the military coup"
+        "the military coup",
+        "2021 Myanmar coup d'état"
       ]
     ],
     "MNE": [
       [
         2006,
-        "independence from Serbia"
+        "independence from Serbia",
+        "Serbia and Montenegro"
       ],
       [
         2017,
-        "joining NATO"
+        "joining NATO",
+        "Montenegro–NATO relations"
       ]
     ],
     "MNG": [
@@ -1701,7 +1988,8 @@
       ],
       [
         1990,
-        "the democratic revolution"
+        "the democratic revolution",
+        "Mongolian Revolution of 1990"
       ],
       [
         2013,
@@ -1715,31 +2003,37 @@
       ],
       [
         1992,
-        "the end of the civil war"
+        "the end of the civil war",
+        "Mozambican Civil War"
       ],
       [
         2000,
-        "the great floods"
+        "the great floods",
+        "Flood myth"
       ]
     ],
     "MRT": [
       [
         1960,
-        "independence"
+        "independence",
+        "History of Mauritania (1960–1978)"
       ],
       [
         2005,
-        "the military coup"
+        "the military coup",
+        "2008 Mauritanian coup d'état"
       ],
       [
         2008,
-        "another coup"
+        "another coup",
+        "2005 Mauritanian coup d'état"
       ]
     ],
     "MTQ": [
       [
         1902,
-        "the Mount Pelée eruption"
+        "the Mount Pelée eruption",
+        "Mount Pelée"
       ],
       [
         1946,
@@ -1749,35 +2043,42 @@
     "MUS": [
       [
         1968,
-        "independence"
+        "independence",
+        "Independence of Mauritius"
       ],
       [
         1992,
-        "becoming a republic"
+        "becoming a republic",
+        "Parliamentary republic"
       ]
     ],
     "MWI": [
       [
         1964,
-        "independence"
+        "independence",
+        "History of Malawi"
       ],
       [
         1994,
-        "the end of one-party rule"
+        "the end of one-party rule",
+        "One-party rule in Seychelles"
       ]
     ],
     "MYS": [
       [
         1957,
-        "independence"
+        "independence",
+        "Independence Day (Malaysia)"
       ],
       [
         1997,
-        "the Asian financial crisis"
+        "the Asian financial crisis",
+        "1997 Asian financial crisis"
       ],
       [
         2014,
-        "the disappearance of MH370"
+        "the disappearance of MH370",
+        "Malaysia Airlines Flight 370"
       ]
     ],
     "MYT": [
@@ -1793,7 +2094,8 @@
     "NAM": [
       [
         1990,
-        "independence"
+        "independence",
+        "Independence Memorial Museum (Namibia)"
       ],
       [
         2004,
@@ -1803,89 +2105,108 @@
     "NCL": [
       [
         1988,
-        "the Matignon Accords"
+        "the Matignon Accords",
+        "Matignon Agreements"
       ],
       [
         1998,
-        "the Nouméa Accord"
+        "the Nouméa Accord",
+        "Nouméa Accord"
       ],
       [
         2018,
-        "the independence referendum"
+        "the independence referendum",
+        "2021 New Caledonian independence referendum"
       ]
     ],
     "NER": [
       [
         1960,
-        "independence"
+        "independence",
+        "Independence Day (Niger)"
       ],
       [
         1974,
-        "the military coup"
+        "the military coup",
+        "2023 Nigerien coup d'état"
       ],
       [
         2023,
-        "the coup"
+        "the coup",
+        "Nigerien coup d'état"
       ]
     ],
     "NGA": [
       [
         1960,
-        "independence"
+        "independence",
+        "Independence Day (Nigeria)"
       ],
       [
         1967,
-        "the Biafran War"
+        "the Biafran War",
+        "Nigerian Civil War"
       ],
       [
         1999,
-        "the return to democracy"
+        "the return to democracy",
+        "Democracy Day"
       ],
       [
         2014,
-        "the Chibok kidnappings"
+        "the Chibok kidnappings",
+        "Chibok schoolgirls kidnapping"
       ]
     ],
     "NIC": [
       [
         1972,
-        "the Managua earthquake"
+        "the Managua earthquake",
+        "Managua earthquake"
       ],
       [
         1979,
-        "the Sandinista revolution"
+        "the Sandinista revolution",
+        "Nicaraguan Revolution"
       ],
       [
         2018,
-        "the protests"
+        "the protests",
+        "2018 Nicaraguan protests"
       ]
     ],
     "NLD": [
       [
         1953,
-        "the North Sea flood"
+        "the North Sea flood",
+        "North Sea flood"
       ],
       [
         1974,
-        "the Total Football era"
+        "the Total Football era",
+        "Total Football"
       ],
       [
         2013,
-        "the abdication of Queen Beatrix"
+        "the abdication of Queen Beatrix",
+        "Beatrix of the Netherlands"
       ]
     ],
     "NOR": [
       [
         1905,
-        "independence from Sweden"
+        "independence from Sweden",
+        "Dissolution of the union between Norway and Sweden"
       ],
       [
         1940,
-        "the German occupation"
+        "the German occupation",
+        "German occupation of Norway"
       ],
       [
         1969,
-        "the discovery of North Sea oil"
+        "the discovery of North Sea oil",
+        "North Sea oil"
       ]
     ],
     "NPL": [
@@ -1895,25 +2216,30 @@
       ],
       [
         2001,
-        "the royal massacre"
+        "the royal massacre",
+        "List of regicides"
       ],
       [
         2015,
-        "the Gorkha earthquake"
+        "the Gorkha earthquake",
+        "April 2015 Nepal earthquake"
       ]
     ],
     "NZL": [
       [
         1985,
-        "the Rainbow Warrior bombing"
+        "the Rainbow Warrior bombing",
+        "Sinking of the Rainbow Warrior"
       ],
       [
         2011,
-        "the Christchurch earthquake"
+        "the Christchurch earthquake",
+        "2011 Christchurch earthquake"
       ],
       [
         2019,
-        "the Christchurch mosque attacks"
+        "the Christchurch mosque attacks",
+        "Christchurch mosque shootings"
       ]
     ],
     "OMN": [
@@ -1923,7 +2249,8 @@
       ],
       [
         2020,
-        "the succession of Sultan Haitham"
+        "the succession of Sultan Haitham",
+        "Succession to the Omani throne"
       ]
     ],
     "PAK": [
@@ -1933,49 +2260,59 @@
       ],
       [
         1971,
-        "the Bangladesh war"
+        "the Bangladesh war",
+        "Bangladesh Liberation War"
       ],
       [
         2010,
-        "the great floods"
+        "the great floods",
+        "Flood myth"
       ],
       [
         2022,
-        "the mega floods"
+        "the mega floods",
+        "2010 Pakistan floods"
       ]
     ],
     "PAN": [
       [
         1977,
-        "the Canal treaties"
+        "the Canal treaties",
+        "Panama Canal Zone"
       ],
       [
         1989,
-        "the US invasion"
+        "the US invasion",
+        "United States invasion of Panama"
       ],
       [
         1999,
-        "the handover of the Canal"
+        "the handover of the Canal",
+        "History of the Panama Canal"
       ]
     ],
     "PER": [
       [
         1970,
-        "the Ancash earthquake"
+        "the Ancash earthquake",
+        "1970 Ancash earthquake"
       ],
       [
         1980,
-        "the Shining Path insurgency"
+        "the Shining Path insurgency",
+        "Internal conflict in Peru"
       ],
       [
         2000,
-        "the fall of Fujimori"
+        "the fall of Fujimori",
+        "The Fall of Fujimori"
       ]
     ],
     "PHL": [
       [
         1972,
-        "martial law"
+        "martial law",
+        "Martial law"
       ],
       [
         1986,
@@ -1983,67 +2320,81 @@
       ],
       [
         1991,
-        "the Mount Pinatubo eruption"
+        "the Mount Pinatubo eruption",
+        "1991 eruption of Mount Pinatubo"
       ],
       [
         2013,
+        "Typhoon Haiyan",
         "Typhoon Haiyan"
       ]
     ],
     "PNG": [
       [
         1975,
-        "independence"
+        "independence",
+        "Papua New Guinea Independence Act 1975"
       ],
       [
         1989,
-        "the Bougainville conflict"
+        "the Bougainville conflict",
+        "Bougainville conflict"
       ],
       [
         1998,
-        "the Aitape tsunami"
+        "the Aitape tsunami",
+        "1998 Papua New Guinea earthquake"
       ]
     ],
     "POL": [
       [
         1939,
-        "the German invasion"
+        "the German invasion",
+        "Invasion of Poland"
       ],
       [
         1980,
-        "the Solidarity movement"
+        "the Solidarity movement",
+        "Solidarity"
       ],
       [
         1989,
-        "the end of communism"
+        "the end of communism",
+        "End of Communism"
       ],
       [
         2004,
-        "joining the EU"
+        "joining the EU",
+        "Migrations from Poland since accession to the European Union"
       ]
     ],
     "PRI": [
       [
         1952,
-        "becoming a US commonwealth"
+        "becoming a US commonwealth",
+        "Member states of the Commonwealth of Nations"
       ],
       [
         2017,
+        "Hurricane Maria",
         "Hurricane Maria"
       ]
     ],
     "PRK": [
       [
         1950,
-        "the Korean War"
+        "the Korean War",
+        "Korean War"
       ],
       [
         1994,
-        "the death of Kim Il-sung"
+        "the death of Kim Il-sung",
+        "Death and state funeral of Kim Il Sung"
       ],
       [
         1995,
-        "the Arduous March famine"
+        "the Arduous March famine",
+        "1990s North Korean famine"
       ]
     ],
     "PRT": [
@@ -2057,17 +2408,20 @@
       ],
       [
         2016,
-        "Portugal winning the Euro"
+        "Portugal winning the Euro",
+        "History of the Portugal national football team"
       ]
     ],
     "PRY": [
       [
         1989,
-        "the end of the Stroessner dictatorship"
+        "the end of the Stroessner dictatorship",
+        "Dictatorship of Alfredo Stroessner"
       ],
       [
         1993,
-        "the first democratic elections"
+        "the first democratic elections",
+        "For Democratic Elections"
       ]
     ],
     "PSE": [
@@ -2077,21 +2431,25 @@
       ],
       [
         1987,
-        "the First Intifada"
+        "the First Intifada",
+        "First Intifada"
       ],
       [
         2023,
-        "the Gaza war"
+        "the Gaza war",
+        "Gaza war"
       ]
     ],
     "PYF": [
       [
         1996,
-        "the end of French nuclear testing"
+        "the end of French nuclear testing",
+        "Nuclear weapons testing"
       ],
       [
         2004,
-        "expanded autonomy"
+        "expanded autonomy",
+        "Lokot Autonomy"
       ]
     ],
     "QAT": [
@@ -2101,11 +2459,13 @@
       ],
       [
         1995,
-        "the palace coup"
+        "the palace coup",
+        "1995 Qatari coup d'état"
       ],
       [
         2022,
-        "hosting the World Cup"
+        "hosting the World Cup",
+        "Qatar at the FIFA World Cup"
       ]
     ],
     "REU": [
@@ -2115,31 +2475,37 @@
       ],
       [
         2010,
-        "Cyclone Dumile"
+        "Cyclone Dumile",
+        "2012–13 South-West Indian Ocean cyclone season"
       ]
     ],
     "ROU": [
       [
         1989,
-        "the Romanian Revolution"
+        "the Romanian Revolution",
+        "Romanian revolution"
       ],
       [
         2007,
-        "joining the EU"
+        "joining the EU",
+        "Romania and the euro"
       ],
       [
         2014,
-        "the Colectiv nightclub fire"
+        "the Colectiv nightclub fire",
+        "Colectiv nightclub fire"
       ]
     ],
     "RUS": [
       [
         1917,
-        "the Russian Revolution"
+        "the Russian Revolution",
+        "Russian Revolution"
       ],
       [
         1941,
-        "the German invasion"
+        "the German invasion",
+        "German invasion of Russia"
       ],
       [
         1991,
@@ -2147,31 +2513,37 @@
       ],
       [
         2022,
-        "the invasion of Ukraine"
+        "the invasion of Ukraine",
+        "2022 Russian invasion of Ukraine"
       ]
     ],
     "RWA": [
       [
         1962,
-        "independence"
+        "independence",
+        "History of Rwanda"
       ],
       [
         1994,
-        "the genocide"
+        "the genocide",
+        "Rwandan genocide"
       ],
       [
         2003,
-        "the new constitution"
+        "the new constitution",
+        "Constitution of New York"
       ]
     ],
     "SAU": [
       [
         1938,
-        "the discovery of oil"
+        "the discovery of oil",
+        "History of the oil industry in Saudi Arabia"
       ],
       [
         1979,
-        "the Grand Mosque seizure"
+        "the Grand Mosque seizure",
+        "Grand Mosque seizure"
       ],
       [
         2018,
@@ -2181,15 +2553,18 @@
     "SDN": [
       [
         1956,
-        "independence"
+        "independence",
+        "Republic of Sudan (1956–1969)"
       ],
       [
         2011,
-        "the secession of South Sudan"
+        "the secession of South Sudan",
+        "2011 South Sudanese independence referendum"
       ],
       [
         2023,
-        "the civil war"
+        "the civil war",
+        "Sudanese civil war (2023–present)"
       ]
     ],
     "SEN": [
@@ -2203,27 +2578,32 @@
       ],
       [
         2002,
-        "the Joola ferry disaster"
+        "the Joola ferry disaster",
+        "MV Le Joola"
       ]
     ],
     "SGP": [
       [
         1965,
-        "Singapore's independence"
+        "Singapore's independence",
+        "Independence of Singapore Agreement 1965"
       ],
       [
         2003,
-        "the SARS outbreak"
+        "the SARS outbreak",
+        "2002–2004 SARS outbreak"
       ],
       [
         2015,
-        "the death of Lee Kuan Yew"
+        "the death of Lee Kuan Yew",
+        "Death and state funeral of Lee Kuan Yew"
       ]
     ],
     "SLB": [
       [
         1978,
-        "independence"
+        "independence",
+        "Solomon Islands Independence Medal"
       ],
       [
         2003,
@@ -2231,77 +2611,93 @@
       ],
       [
         2021,
-        "the Honiara riots"
+        "the Honiara riots",
+        "Honiara"
       ]
     ],
     "SLE": [
       [
         1961,
-        "independence"
+        "independence",
+        "Sierra Leone (1961–1971)"
       ],
       [
         1991,
-        "the start of the civil war"
+        "the start of the civil war",
+        "British military intervention in the Sierra Leone Civil War"
       ],
       [
         2002,
-        "the end of the civil war"
+        "the end of the civil war",
+        "British military intervention in the Sierra Leone Civil War"
       ]
     ],
     "SLV": [
       [
         1980,
-        "the civil war"
+        "the civil war",
+        "Salvadoran Civil War"
       ],
       [
         1992,
-        "the peace accords"
+        "the peace accords",
+        "Chapultepec Peace Accords"
       ],
       [
         2001,
-        "the earthquakes"
+        "the earthquakes",
+        "List of earthquakes in El Salvador"
       ]
     ],
     "SOM": [
       [
         1960,
-        "independence"
+        "independence",
+        "Independence Day (Somalia)"
       ],
       [
         1991,
-        "the collapse of the state"
+        "the collapse of the state",
+        "North East State of Somalia"
       ],
       [
         2011,
-        "the famine"
+        "the famine",
+        "Famine in Somalia"
       ]
     ],
     "SRB": [
       [
         1991,
-        "the Yugoslav wars"
+        "the Yugoslav wars",
+        "Yugoslav Wars"
       ],
       [
         1999,
-        "the NATO bombing"
+        "the NATO bombing",
+        "List of NATO bombings"
       ],
       [
         2000,
-        "the fall of Milošević"
+        "the fall of Milošević",
+        "Marko Milošević (Serbian politician)"
       ]
     ],
     "SSD": [
       [
         2011,
-        "South Sudan's independence"
+        "South Sudan's independence",
+        "South Sudan"
       ],
       [
         2013,
-        "the civil war"
+        "the civil war",
+        "South Sudanese Civil War"
       ],
       [
         2018,
-        "the peace deal"
+        "the peace deal",
+        "Peace treaty"
       ]
     ],
     "STP": [
@@ -2311,49 +2707,59 @@
       ],
       [
         1990,
-        "the democratic transition"
+        "the democratic transition",
+        "Democratic transition"
       ]
     ],
     "SUR": [
       [
         1975,
-        "independence"
+        "independence",
+        "History of Suriname"
       ],
       [
         1980,
-        "the military coup"
+        "the military coup",
+        "1980 Surinamese coup d'état"
       ],
       [
         1982,
-        "the December murders"
+        "the December murders",
+        "December murders"
       ]
     ],
     "SVK": [
       [
         1968,
-        "the Prague Spring"
+        "the Prague Spring",
+        "Prague Spring"
       ],
       [
         1993,
-        "independence"
+        "independence",
+        "Slovak National Council's Declaration of Independence of the Slovak Nation"
       ],
       [
         2004,
-        "joining the EU"
+        "joining the EU",
+        "Accession of Albania to the European Union"
       ]
     ],
     "SVN": [
       [
         1991,
-        "independence"
+        "independence",
+        "Slovenia"
       ],
       [
         2004,
-        "joining the EU"
+        "joining the EU",
+        "2013 enlargement of the European Union"
       ],
       [
         2007,
-        "adopting the euro"
+        "adopting the euro",
+        "Adoption of the euro in Slovenia"
       ]
     ],
     "SWE": [
@@ -2363,15 +2769,18 @@
       ],
       [
         1986,
-        "the assassination of Olof Palme"
+        "the assassination of Olof Palme",
+        "Assassination of Olof Palme"
       ],
       [
         1995,
-        "joining the EU"
+        "joining the EU",
+        "Sweden and the euro"
       ],
       [
         2003,
-        "the murder of Anna Lindh"
+        "the murder of Anna Lindh",
+        "Anna Lindh"
       ]
     ],
     "SWZ": [
@@ -2381,7 +2790,8 @@
       ],
       [
         2018,
-        "the renaming to Eswatini"
+        "the renaming to Eswatini",
+        "Eswatini"
       ]
     ],
     "SYC": [
@@ -2391,31 +2801,37 @@
       ],
       [
         1977,
-        "the coup"
+        "the coup",
+        "1981 Seychelles coup attempt"
       ],
       [
         2004,
-        "the Indian Ocean tsunami"
+        "the Indian Ocean tsunami",
+        "2004 Indian Ocean earthquake and tsunami"
       ]
     ],
     "SYR": [
       [
         1967,
-        "the Six-Day War"
+        "the Six-Day War",
+        "Six-Day War"
       ],
       [
         2011,
-        "the Syrian civil war"
+        "the Syrian civil war",
+        "Syrian civil war"
       ],
       [
         2024,
-        "the fall of the Assad regime"
+        "the fall of the Assad regime",
+        "Fall of the Assad regime"
       ]
     ],
     "TCD": [
       [
         1960,
-        "independence"
+        "independence",
+        "History of Chad"
       ],
       [
         1990,
@@ -2429,7 +2845,8 @@
     "TGO": [
       [
         1960,
-        "independence"
+        "independence",
+        "History of Togo"
       ],
       [
         1963,
@@ -2437,17 +2854,20 @@
       ],
       [
         2005,
-        "the succession crisis"
+        "the succession crisis",
+        "Succession crisis"
       ]
     ],
     "THA": [
       [
         1997,
-        "the Asian financial crisis"
+        "the Asian financial crisis",
+        "1997 Asian financial crisis"
       ],
       [
         2004,
-        "the Indian Ocean tsunami"
+        "the Indian Ocean tsunami",
+        "2004 Indian Ocean earthquake and tsunami"
       ],
       [
         2014,
@@ -2457,21 +2877,25 @@
     "TJK": [
       [
         1991,
-        "independence"
+        "independence",
+        "History of Tajikistan"
       ],
       [
         1992,
-        "the civil war"
+        "the civil war",
+        "Tajikistani Civil War"
       ],
       [
         1997,
-        "the peace agreement"
+        "the peace agreement",
+        "Peace treaty"
       ]
     ],
     "TKM": [
       [
         1991,
-        "independence"
+        "independence",
+        "Independence Day (Turkmenistan)"
       ],
       [
         2006,
@@ -2481,15 +2905,18 @@
     "TLS": [
       [
         1999,
-        "the independence referendum"
+        "the independence referendum",
+        "Timor-Leste independence"
       ],
       [
         2002,
-        "independence"
+        "independence",
+        "Timor-Leste independence"
       ],
       [
         2006,
-        "the crisis"
+        "the crisis",
+        "2006 crisis in Timor-Leste"
       ]
     ],
     "TON": [
@@ -2499,17 +2926,20 @@
       ],
       [
         2006,
-        "the Nukuʻalofa riots"
+        "the Nukuʻalofa riots",
+        "2006 Nukuʻalofa riots"
       ],
       [
         2010,
-        "democratic reforms"
+        "democratic reforms",
+        "Democratization"
       ]
     ],
     "TTO": [
       [
         1962,
-        "independence"
+        "independence",
+        "Trinidad and Tobago Independence Act 1962"
       ],
       [
         1990,
@@ -2519,11 +2949,13 @@
     "TUN": [
       [
         1956,
-        "independence"
+        "independence",
+        "Tunisian independence"
       ],
       [
         2011,
-        "the Jasmine Revolution"
+        "the Jasmine Revolution",
+        "Tunisian revolution"
       ],
       [
         2015,
@@ -2541,21 +2973,25 @@
       ],
       [
         1999,
-        "the İzmit earthquake"
+        "the İzmit earthquake",
+        "1999 İzmit earthquake"
       ],
       [
         2023,
-        "the Kahramanmaraş earthquakes"
+        "the Kahramanmaraş earthquakes",
+        "2023 Turkey–Syria earthquakes"
       ]
     ],
     "TWN": [
       [
         1947,
-        "the 228 Incident"
+        "the 228 Incident",
+        "February 28 incident"
       ],
       [
         1996,
-        "Taiwan's first direct presidential election"
+        "Taiwan's first direct presidential election",
+        "2024 Taiwanese presidential election"
       ],
       [
         2000,
@@ -2563,7 +2999,8 @@
       ],
       [
         2014,
-        "the Sunflower Movement"
+        "the Sunflower Movement",
+        "Sunflower Student Movement"
       ]
     ],
     "TZA": [
@@ -2577,31 +3014,37 @@
       ],
       [
         1979,
-        "the war against Amin's Uganda"
+        "the war against Amin's Uganda",
+        "Uganda–Tanzania War"
       ]
     ],
     "UGA": [
       [
         1962,
-        "independence"
+        "independence",
+        "History of Uganda (1963–1971)"
       ],
       [
         1971,
-        "Idi Amin's coup"
+        "Idi Amin's coup",
+        "1971 Ugandan coup d'état"
       ],
       [
         1986,
-        "the rise of Museveni"
+        "the rise of Museveni",
+        "Yoweri Museveni"
       ]
     ],
     "UKR": [
       [
         1932,
-        "the Holodomor famine"
+        "the Holodomor famine",
+        "Holodomor"
       ],
       [
         1986,
-        "the Chernobyl disaster"
+        "the Chernobyl disaster",
+        "Chernobyl disaster"
       ],
       [
         2014,
@@ -2609,39 +3052,47 @@
       ],
       [
         2022,
-        "the Russian invasion"
+        "the Russian invasion",
+        "2022 Russian invasion of Ukraine"
       ]
     ],
     "URY": [
       [
         1973,
-        "the start of the civic-military dictatorship"
+        "the start of the civic-military dictatorship",
+        "Civic-military dictatorship of Uruguay"
       ],
       [
         1985,
-        "the return to democracy"
+        "the return to democracy",
+        "Democracy"
       ],
       [
         2013,
-        "legalizing marijuana"
+        "legalizing marijuana",
+        "Legality of cannabis"
       ]
     ],
     "USA": [
       [
         1941,
-        "the attack on Pearl Harbor"
+        "the attack on Pearl Harbor",
+        "Attack on Pearl Harbor"
       ],
       [
         1963,
-        "the JFK assassination"
+        "the JFK assassination",
+        "Assassination of John F. Kennedy"
       ],
       [
         2001,
-        "the 9/11 attacks"
+        "the 9/11 attacks",
+        "September 11 attacks"
       ],
       [
         2008,
-        "the election of the first Black president"
+        "the election of the first Black president",
+        "Vice President of the United States"
       ]
     ],
     "UZB": [
@@ -2651,7 +3102,8 @@
       ],
       [
         2005,
-        "the Andijan events"
+        "the Andijan events",
+        "Andijan"
       ],
       [
         2016,
@@ -2661,11 +3113,13 @@
     "VCT": [
       [
         1979,
-        "independence"
+        "independence",
+        "History of Saint Vincent and the Grenadines"
       ],
       [
         2021,
-        "the La Soufrière eruption"
+        "the La Soufrière eruption",
+        "2021 eruption of La Soufrière"
       ]
     ],
     "VEN": [
@@ -2695,24 +3149,29 @@
     "VNM": [
       [
         1945,
-        "the declaration of independence"
+        "the declaration of independence",
+        "Declaration of independence of the Democratic Republic of Vietnam"
       ],
       [
         1975,
-        "the fall of Saigon"
+        "the fall of Saigon",
+        "Fall of Saigon"
       ],
       [
         1986,
-        "the Đổi Mới reforms"
+        "the Đổi Mới reforms",
+        "Đổi Mới"
       ]
     ],
     "VUT": [
       [
         1980,
-        "independence"
+        "independence",
+        "Vanuatu"
       ],
       [
         2015,
+        "Cyclone Pam",
         "Cyclone Pam"
       ]
     ],
@@ -2723,7 +3182,8 @@
       ],
       [
         2009,
-        "the tsunami"
+        "the tsunami",
+        "2009 Samoa earthquake and tsunami"
       ],
       [
         2012,
@@ -2733,21 +3193,25 @@
     "YEM": [
       [
         1990,
+        "Yemeni unification",
         "Yemeni unification"
       ],
       [
         2011,
-        "the uprising"
+        "the uprising",
+        "Yemeni revolution"
       ],
       [
         2015,
-        "the civil war"
+        "the civil war",
+        "Yemeni civil war"
       ]
     ],
     "ZAF": [
       [
         1948,
-        "the start of apartheid"
+        "the start of apartheid",
+        "Foreign relations of South Africa during apartheid"
       ],
       [
         1976,
@@ -2755,17 +3219,20 @@
       ],
       [
         1994,
-        "the end of apartheid and Mandela's election"
+        "the end of apartheid and Mandela's election",
+        "Negotiations to end apartheid in South Africa"
       ],
       [
         2010,
-        "the World Cup"
+        "the World Cup",
+        "2010 FIFA World Cup"
       ]
     ],
     "ZMB": [
       [
         1964,
-        "independence"
+        "independence",
+        "Zambia Independence Act 1964"
       ],
       [
         1991,
@@ -2783,11 +3250,13 @@
       ],
       [
         2008,
-        "hyperinflation"
+        "hyperinflation",
+        "Hyperinflation in Zimbabwe"
       ],
       [
         2017,
-        "the fall of Mugabe"
+        "the fall of Mugabe",
+        "Robert Mugabe"
       ]
     ]
   }

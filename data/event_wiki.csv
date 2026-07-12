@@ -1,0 +1,597 @@
+iso3,year,event_text,country,wiki_title,wiki_url,status
+GLOBAL,1914,World War I,,World War I,https://en.wikipedia.org/wiki/World_War_I,curated_title
+GLOBAL,1918,the Spanish flu pandemic,,Spanish flu,https://en.wikipedia.org/wiki/Spanish_flu,curated_title
+GLOBAL,1929,the Great Depression,,Great Depression,https://en.wikipedia.org/wiki/Great_Depression,curated_title
+GLOBAL,1939,World War II,,World War II,https://en.wikipedia.org/wiki/World_War_II,curated_title
+GLOBAL,1969,the Moon landing,,Moon landing,https://en.wikipedia.org/wiki/Moon_landing,curated_title
+GLOBAL,1991,the end of the Cold War,,Cold War (1985–1991),https://en.wikipedia.org/wiki/Cold_War_(1985%E2%80%931991),curated_title
+GLOBAL,1995,the rise of the internet,,History of the Internet,https://en.wikipedia.org/wiki/History_of_the_Internet,curated_title
+GLOBAL,2008,the global financial crisis,,2008 financial crisis,https://en.wikipedia.org/wiki/2008_financial_crisis,curated_title
+GLOBAL,2020,the COVID-19 pandemic,,COVID-19 pandemic,https://en.wikipedia.org/wiki/COVID-19_pandemic,curated_title
+ABW,1986,status aparte from the Netherlands,Aruba,,,none
+ABW,2010,the dissolution of the Netherlands Antilles,Aruba,Dissolution of the Netherlands Antilles,https://en.wikipedia.org/wiki/Dissolution_of_the_Netherlands_Antilles,curated_title
+AFG,1979,the Soviet invasion,Afghanistan,United States invasion of Afghanistan,https://en.wikipedia.org/wiki/United_States_invasion_of_Afghanistan,curated_title
+AFG,1996,the first Taliban rule,Afghanistan,,,none
+AFG,2001,the US invasion,Afghanistan,United States invasion of Afghanistan,https://en.wikipedia.org/wiki/United_States_invasion_of_Afghanistan,curated_title
+AFG,2021,the return of the Taliban,Afghanistan,,,none
+AGO,1975,independence,Angola,Angolan War of Independence,https://en.wikipedia.org/wiki/Angolan_War_of_Independence,curated_title
+AGO,2002,the end of the civil war,Angola,Angolan Civil War,https://en.wikipedia.org/wiki/Angolan_Civil_War,curated_title
+AGO,2017,the first peaceful transfer of power,Angola,,,none
+ALB,1944,the end of WWII occupation,Albania,,,none
+ALB,1991,the fall of communism,Albania,Fall of communism in Albania,https://en.wikipedia.org/wiki/Fall_of_communism_in_Albania,curated_title
+ALB,1997,the pyramid-scheme crisis,Albania,,,none
+ARE,1971,the founding of the UAE,United Arab Emirates,Foreign relations of the United Arab Emirates,https://en.wikipedia.org/wiki/Foreign_relations_of_the_United_Arab_Emirates,curated_title
+ARE,2009,"the opening of Atlantis, The Palm",United Arab Emirates,"Atlantis, The Palm","https://en.wikipedia.org/wiki/Atlantis,_The_Palm",curated_title
+ARE,2020,the Abraham Accords,United Arab Emirates,Abraham Accords,https://en.wikipedia.org/wiki/Abraham_Accords,curated_title
+ARG,1946,the Perón era,Argentina,History of Argentina,https://en.wikipedia.org/wiki/History_of_Argentina,curated_title
+ARG,1982,the Falklands War,Argentina,Falklands War,https://en.wikipedia.org/wiki/Falklands_War,curated_title
+ARG,2001,the economic collapse,Argentina,Economic history of Argentina,https://en.wikipedia.org/wiki/Economic_history_of_Argentina,curated_title
+ARG,2022,Messi's World Cup,Argentina,Messi's World Cup: The Rise of a Legend,https://en.wikipedia.org/wiki/Messi%27s_World_Cup:_The_Rise_of_a_Legend,curated_title
+ARM,1988,the Spitak earthquake,Armenia,1988 Armenian earthquake,https://en.wikipedia.org/wiki/1988_Armenian_earthquake,curated_title
+ARM,1991,independence,Armenia,Declaration of State Sovereignty of Armenia,https://en.wikipedia.org/wiki/Declaration_of_State_Sovereignty_of_Armenia,curated_title
+ARM,2020,the Nagorno-Karabakh war,Armenia,Nagorno-Karabakh war,https://en.wikipedia.org/wiki/Nagorno-Karabakh_war,curated_title
+ATG,1981,independence,Antigua and Barbuda,Independence of Antigua and Barbuda,https://en.wikipedia.org/wiki/Independence_of_Antigua_and_Barbuda,curated_title
+ATG,2017,Hurricane Irma,Antigua and Barbuda,Hurricane Irma,https://en.wikipedia.org/wiki/Hurricane_Irma,curated_title
+AUS,1956,the Melbourne Olympics,Australia,1956 Summer Olympics,https://en.wikipedia.org/wiki/1956_Summer_Olympics,curated_title
+AUS,2000,the Sydney Olympics,Australia,2000 Summer Olympics,https://en.wikipedia.org/wiki/2000_Summer_Olympics,curated_title
+AUS,2019,the Black Summer bushfires,Australia,2019–20 Australian bushfire season,https://en.wikipedia.org/wiki/2019%E2%80%9320_Australian_bushfire_season,curated_title
+AUT,1938,the Anschluss,Austria,1938 Austrian Anschluss referendum,https://en.wikipedia.org/wiki/1938_Austrian_Anschluss_referendum,curated_title
+AUT,1955,the State Treaty and neutrality,Austria,Austrian State Treaty,https://en.wikipedia.org/wiki/Austrian_State_Treaty,curated_title
+AUT,1995,joining the EU,Austria,Member state of the European Union,https://en.wikipedia.org/wiki/Member_state_of_the_European_Union,curated_title
+AZE,1991,independence,Azerbaijan,Independence Day (Azerbaijan),https://en.wikipedia.org/wiki/Independence_Day_(Azerbaijan),curated_title
+AZE,2020,the Nagorno-Karabakh war,Azerbaijan,Nagorno-Karabakh war,https://en.wikipedia.org/wiki/Nagorno-Karabakh_war,curated_title
+AZE,2023,the end of the Artsakh conflict,Azerbaijan,,,none
+BDI,1962,independence,Burundi,History of Burundi,https://en.wikipedia.org/wiki/History_of_Burundi,curated_title
+BDI,1993,the start of the civil war,Burundi,Burundian Civil War,https://en.wikipedia.org/wiki/Burundian_Civil_War,curated_title
+BDI,2005,the end of the civil war,Burundi,Burundian Civil War,https://en.wikipedia.org/wiki/Burundian_Civil_War,curated_title
+BEL,1940,the German occupation,Belgium,German occupation of Belgium during World War II,https://en.wikipedia.org/wiki/German_occupation_of_Belgium_during_World_War_II,curated_title
+BEL,1958,Expo 58,Belgium,Expo 58,https://en.wikipedia.org/wiki/Expo_58,curated_title
+BEL,1993,becoming a federal state,Belgium,,,none
+BEN,1960,independence,Benin,,,none
+BEN,1990,the National Conference and democratization,Benin,,,none
+BFA,1960,independence,Burkina Faso,African Independence Party (Burkina Faso),https://en.wikipedia.org/wiki/African_Independence_Party_(Burkina_Faso),curated_title
+BFA,2014,the uprising that ousted Compaoré,Burkina Faso,,,none
+BFA,2022,the military coups,Burkina Faso,Coup d'état,https://en.wikipedia.org/wiki/Coup_d%27%C3%A9tat,curated_title
+BGD,1970,the Bhola cyclone,Bangladesh,1970 Bhola cyclone,https://en.wikipedia.org/wiki/1970_Bhola_cyclone,curated_title
+BGD,1971,the Liberation War,Bangladesh,War of independence,https://en.wikipedia.org/wiki/War_of_independence,curated_title
+BGD,1998,the great flood,Bangladesh,Flood myth,https://en.wikipedia.org/wiki/Flood_myth,curated_title
+BGD,2024,the July Revolution,Bangladesh,Second Revolution (Bangladesh),https://en.wikipedia.org/wiki/Second_Revolution_(Bangladesh),curated_title
+BGR,1989,the end of communism,Bulgaria,End of Communism,https://en.wikipedia.org/wiki/End_of_Communism,curated_title
+BGR,2007,joining the EU,Bulgaria,Adoption of the euro in Bulgaria,https://en.wikipedia.org/wiki/Adoption_of_the_euro_in_Bulgaria,curated_title
+BGR,2020,the anti-corruption protests,Bulgaria,2025–2026 Bulgarian protests,https://en.wikipedia.org/wiki/2025%E2%80%932026_Bulgarian_protests,curated_title
+BHR,1971,independence,Bahrain,Independence Day (Bahrain),https://en.wikipedia.org/wiki/Independence_Day_(Bahrain),curated_title
+BHR,2011,the Pearl Roundabout uprising,Bahrain,2011 Bahraini uprising,https://en.wikipedia.org/wiki/2011_Bahraini_uprising,curated_title
+BHS,1973,independence,Bahamas,,,none
+BHS,2019,Hurricane Dorian,Bahamas,Hurricane Dorian,https://en.wikipedia.org/wiki/Hurricane_Dorian,curated_title
+BIH,1992,the Bosnian War,Bosnia and Herzegovina,Bosnian War,https://en.wikipedia.org/wiki/Bosnian_War,curated_title
+BIH,1995,the Dayton peace,Bosnia and Herzegovina,Dayton Literary Peace Prize,https://en.wikipedia.org/wiki/Dayton_Literary_Peace_Prize,curated_title
+BIH,2014,the protests,Bosnia and Herzegovina,,,none
+BLR,1986,the Chernobyl fallout,Belarus,Effects of the Chernobyl disaster,https://en.wikipedia.org/wiki/Effects_of_the_Chernobyl_disaster,curated_title
+BLR,1991,independence,Belarus,Politics of Belarus,https://en.wikipedia.org/wiki/Politics_of_Belarus,curated_title
+BLR,2020,the mass protests,Belarus,2020–2021 Belarusian protests,https://en.wikipedia.org/wiki/2020%E2%80%932021_Belarusian_protests,curated_title
+BLZ,1981,independence,Belize,History of Belize,https://en.wikipedia.org/wiki/History_of_Belize,curated_title
+BLZ,2000,territorial talks with Guatemala,Belize,,,none
+BMU,1968,the race riots,BMU,List of ethnic riots,https://en.wikipedia.org/wiki/List_of_ethnic_riots,curated_title
+BMU,1995,the independence referendum,BMU,,,none
+BOL,1952,the National Revolution,Bolivia,Bolivian National Revolution,https://en.wikipedia.org/wiki/Bolivian_National_Revolution,curated_title
+BOL,2006,the election of Evo Morales,Bolivia,2005 Bolivian general election,https://en.wikipedia.org/wiki/2005_Bolivian_general_election,curated_title
+BOL,2019,the political crisis,Bolivia,Cabinet crisis,https://en.wikipedia.org/wiki/Cabinet_crisis,curated_title
+BRA,1958,Brazil's first World Cup win,Brazil,Uruguay v Brazil (1950 FIFA World Cup),https://en.wikipedia.org/wiki/Uruguay_v_Brazil_(1950_FIFA_World_Cup),curated_title
+BRA,1964,the military coup,Brazil,1964 Brazilian coup d'état,https://en.wikipedia.org/wiki/1964_Brazilian_coup_d%27%C3%A9tat,curated_title
+BRA,1985,the return to democracy,Brazil,Brazilian Social Democracy Party,https://en.wikipedia.org/wiki/Brazilian_Social_Democracy_Party,curated_title
+BRA,2016,the Rio Olympics,Brazil,2016 Summer Olympics,https://en.wikipedia.org/wiki/2016_Summer_Olympics,curated_title
+BRB,1966,independence,Barbados,Barbados Independence Act 1966,https://en.wikipedia.org/wiki/Barbados_Independence_Act_1966,curated_title
+BRB,2021,becoming a republic,Barbados,1960 South African republic referendum,https://en.wikipedia.org/wiki/1960_South_African_republic_referendum,curated_title
+BRN,1984,independence,Brunei,Brunei People's Independence Party,https://en.wikipedia.org/wiki/Brunei_People%27s_Independence_Party,curated_title
+BRN,1998,the Asian financial crisis,Brunei,1997 Asian financial crisis,https://en.wikipedia.org/wiki/1997_Asian_financial_crisis,curated_title
+BTN,2008,the first democratic elections,Bhutan,People's Democratic Party (Bhutan),https://en.wikipedia.org/wiki/People%27s_Democratic_Party_(Bhutan),curated_title
+BTN,2013,the second peaceful transfer of power,Bhutan,,,none
+BWA,1966,independence,Botswana,History of Botswana,https://en.wikipedia.org/wiki/History_of_Botswana,curated_title
+BWA,1996,the diamond-led growth era,Botswana,,,none
+CAF,1960,independence,Central African Republic,History of the Central African Republic,https://en.wikipedia.org/wiki/History_of_the_Central_African_Republic,curated_title
+CAF,2013,the Seleka takeover and civil conflict,Central African Republic,,,none
+CAN,1967,Expo 67,Canada,Expo 67,https://en.wikipedia.org/wiki/Expo_67,curated_title
+CAN,1995,the Quebec referendum,Canada,,,none
+CAN,2010,the Vancouver Olympics,Canada,2010 Winter Olympics,https://en.wikipedia.org/wiki/2010_Winter_Olympics,curated_title
+CHE,1945,the end of WWII and Swiss neutrality,Switzerland,,,none
+CHE,1971,women gaining the federal vote,Switzerland,,,none
+CHE,2002,joining the United Nations,Switzerland,Permanent Representative of Switzerland to the United Nations,https://en.wikipedia.org/wiki/Permanent_Representative_of_Switzerland_to_the_United_Nations,curated_title
+CHL,1960,the Valdivia earthquake — the largest ever recorded,Chile,,,none
+CHL,1973,the Pinochet coup,Chile,1973 Chilean coup d'état,https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat,curated_title
+CHL,1990,the return to democracy,Chile,Chilean transition to democracy,https://en.wikipedia.org/wiki/Chilean_transition_to_democracy,curated_title
+CHL,2010,the earthquake and the miners' rescue,Chile,,,none
+CHN,1937,the Japanese invasion,China,Japanese invasion of French Indochina,https://en.wikipedia.org/wiki/Japanese_invasion_of_French_Indochina,curated_title
+CHN,1959,the Great Famine,China,Great Famine,https://en.wikipedia.org/wiki/Great_Famine,curated_title
+CHN,1978,the Reform and Opening-up,China,Reform and opening up,https://en.wikipedia.org/wiki/Reform_and_opening_up,curated_title
+CHN,2008,the Beijing Olympics and Sichuan earthquake,China,,,none
+CIV,1960,independence,Côte d'Ivoire,,,none
+CIV,2002,the civil war,Côte d'Ivoire,,,none
+CIV,2010,the post-election crisis,Côte d'Ivoire,,,none
+CMR,1960,independence,Cameroon,Cameroon,https://en.wikipedia.org/wiki/Cameroon,curated_title
+CMR,1986,the Lake Nyos disaster,Cameroon,Lake Nyos disaster,https://en.wikipedia.org/wiki/Lake_Nyos_disaster,curated_title
+CMR,2016,the Anglophone crisis,Cameroon,Anglophone Crisis,https://en.wikipedia.org/wiki/Anglophone_Crisis,curated_title
+COD,1960,independence,DR Congo,,,none
+COD,1997,the fall of Mobutu,DR Congo,Mobutu Sese Seko,https://en.wikipedia.org/wiki/Mobutu_Sese_Seko,curated_title
+COD,1998,the Great African War,DR Congo,Second Congo War,https://en.wikipedia.org/wiki/Second_Congo_War,curated_title
+COG,1960,independence,Congo,Congolese Independence Speech,https://en.wikipedia.org/wiki/Congolese_Independence_Speech,curated_title
+COG,1997,the return of Sassou Nguesso,Congo,Denis Sassou Nguesso,https://en.wikipedia.org/wiki/Denis_Sassou_Nguesso,curated_title
+COL,1948,La Violencia,Colombia,La Violencia,https://en.wikipedia.org/wiki/La_Violencia,curated_title
+COL,1985,the Armero tragedy,Colombia,Armero tragedy,https://en.wikipedia.org/wiki/Armero_tragedy,curated_title
+COL,2016,the FARC peace deal,Colombia,Colombian peace process,https://en.wikipedia.org/wiki/Colombian_peace_process,curated_title
+COM,1975,independence,Comoros,,,none
+COM,2001,the Fomboni Accords,Comoros,Fomboni,https://en.wikipedia.org/wiki/Fomboni,curated_title
+CPV,1975,independence,Cabo Verde,African Party for the Independence of Cape Verde,https://en.wikipedia.org/wiki/African_Party_for_the_Independence_of_Cape_Verde,curated_title
+CPV,1991,the first multiparty elections,Cabo Verde,,,none
+CRI,1948,abolishing the army,Costa Rica,Article 12 of the Constitution of Costa Rica,https://en.wikipedia.org/wiki/Article_12_of_the_Constitution_of_Costa_Rica,curated_title
+CRI,1987,Óscar Arias winning the Nobel Peace Prize,Costa Rica,,,none
+CUB,1959,the Cuban Revolution,Cuba,Cuban Revolution,https://en.wikipedia.org/wiki/Cuban_Revolution,curated_title
+CUB,1962,the Missile Crisis,Cuba,Cuban Missile Crisis,https://en.wikipedia.org/wiki/Cuban_Missile_Crisis,curated_title
+CUB,1991,the Special Period,Cuba,Special Period,https://en.wikipedia.org/wiki/Special_Period,curated_title
+CYP,1960,independence,Cyprus,Independence Day (Cyprus),https://en.wikipedia.org/wiki/Independence_Day_(Cyprus),curated_title
+CYP,1974,the division of the island,Cyprus,,,none
+CYP,2004,joining the EU,Cyprus,Cyprus and the European Union,https://en.wikipedia.org/wiki/Cyprus_and_the_European_Union,curated_title
+CZE,1968,the Prague Spring,Czechia,Prague Spring,https://en.wikipedia.org/wiki/Prague_Spring,curated_title
+CZE,1989,the Velvet Revolution,Czechia,,,none
+CZE,1993,the split of Czechoslovakia,Czechia,History of Czechoslovakia,https://en.wikipedia.org/wiki/History_of_Czechoslovakia,curated_title
+DEU,1923,hyperinflation,Germany,,,none
+DEU,1945,the fall of Berlin,Germany,Fall of Berlin,https://en.wikipedia.org/wiki/Fall_of_Berlin,curated_title
+DEU,1989,the fall of the Berlin Wall,Germany,Fall of the Berlin Wall,https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall,curated_title
+DEU,1990,German reunification,Germany,German reunification,https://en.wikipedia.org/wiki/German_reunification,curated_title
+DJI,1977,independence,Djibouti,Independence Day (Djibouti),https://en.wikipedia.org/wiki/Independence_Day_(Djibouti),curated_title
+DJI,2008,the border conflict with Eritrea,Djibouti,Djiboutian–Eritrean border conflict,https://en.wikipedia.org/wiki/Djiboutian%E2%80%93Eritrean_border_conflict,curated_title
+DNK,1940,the German occupation,Denmark,German invasion of Denmark (1940),https://en.wikipedia.org/wiki/German_invasion_of_Denmark_(1940),curated_title
+DNK,1973,joining the EEC,Denmark,,,none
+DNK,1992,Denmark winning the Euro,Denmark,,,none
+DOM,1930,the Trujillo era,Dominican Republic,Rafael Trujillo,https://en.wikipedia.org/wiki/Rafael_Trujillo,curated_title
+DOM,1965,the civil war and US intervention,Dominican Republic,Dominican Civil War,https://en.wikipedia.org/wiki/Dominican_Civil_War,curated_title
+DOM,1998,Hurricane Georges,Dominican Republic,Hurricane Georges,https://en.wikipedia.org/wiki/Hurricane_Georges,curated_title
+DZA,1962,independence,Algeria,Independence Day (Algeria),https://en.wikipedia.org/wiki/Independence_Day_(Algeria),curated_title
+DZA,1992,the civil war,Algeria,Algerian Civil War,https://en.wikipedia.org/wiki/Algerian_Civil_War,curated_title
+DZA,2019,the Hirak protests,Algeria,Hirak (Algeria),https://en.wikipedia.org/wiki/Hirak_(Algeria),curated_title
+ECU,1941,the war with Peru,Ecuador,Colombia–Peru War,https://en.wikipedia.org/wiki/Colombia%E2%80%93Peru_War,curated_title
+ECU,2000,dollarization,Ecuador,,,none
+ECU,2016,the coastal earthquake,Ecuador,1906 Ecuador–Colombia earthquake,https://en.wikipedia.org/wiki/1906_Ecuador%E2%80%93Colombia_earthquake,curated_title
+EGY,1952,the revolution,Egypt,Egyptian revolution of 1952,https://en.wikipedia.org/wiki/Egyptian_revolution_of_1952,curated_title
+EGY,1956,the Suez Crisis,Egypt,Suez Crisis,https://en.wikipedia.org/wiki/Suez_Crisis,curated_title
+EGY,1967,the Six-Day War,Egypt,Six-Day War,https://en.wikipedia.org/wiki/Six-Day_War,curated_title
+EGY,2011,the Tahrir Square revolution,Egypt,2011 Egyptian revolution,https://en.wikipedia.org/wiki/2011_Egyptian_revolution,curated_title
+ERI,1993,independence,Eritrea,History of Eritrea,https://en.wikipedia.org/wiki/History_of_Eritrea,curated_title
+ERI,1998,the war with Ethiopia,Eritrea,Eritrean–Ethiopian War,https://en.wikipedia.org/wiki/Eritrean%E2%80%93Ethiopian_War,curated_title
+ERI,2018,the peace deal with Ethiopia,Eritrea,Ethiopia–Tigray peace agreement,https://en.wikipedia.org/wiki/Ethiopia%E2%80%93Tigray_peace_agreement,curated_title
+ESH,1975,the Green March and Spanish withdrawal,Western Sahara,,,none
+ESH,1991,the UN-brokered ceasefire,Western Sahara,Ceasefire,https://en.wikipedia.org/wiki/Ceasefire,curated_title
+ESP,1936,the Spanish Civil War,Spain,,,none
+ESP,1975,the transition to democracy,Spain,Democratization,https://en.wikipedia.org/wiki/Democratization,curated_title
+ESP,1992,the Barcelona Olympics,Spain,1992 Summer Olympics,https://en.wikipedia.org/wiki/1992_Summer_Olympics,curated_title
+ESP,2010,Spain winning the World Cup,Spain,Spain at the FIFA World Cup,https://en.wikipedia.org/wiki/Spain_at_the_FIFA_World_Cup,curated_title
+EST,1991,the restoration of independence,Estonia,Estonian Restoration of Independence,https://en.wikipedia.org/wiki/Estonian_Restoration_of_Independence,curated_title
+EST,2004,joining the EU and NATO,Estonia,,,none
+EST,2011,adopting the euro,Estonia,History of the euro,https://en.wikipedia.org/wiki/History_of_the_euro,curated_title
+ETH,1935,the Italian invasion,Ethiopia,De Bono's invasion of Ethiopia,https://en.wikipedia.org/wiki/De_Bono%27s_invasion_of_Ethiopia,curated_title
+ETH,1974,the revolution,Ethiopia,Ethiopian Revolution,https://en.wikipedia.org/wiki/Ethiopian_Revolution,curated_title
+ETH,1984,the great famine,Ethiopia,Great Famine,https://en.wikipedia.org/wiki/Great_Famine,curated_title
+ETH,2020,the Tigray war,Ethiopia,Tigray war,https://en.wikipedia.org/wiki/Tigray_war,curated_title
+FIN,1917,independence,Finland,Independence of Finland,https://en.wikipedia.org/wiki/Independence_of_Finland,curated_title
+FIN,1939,the Winter War,Finland,Winter War,https://en.wikipedia.org/wiki/Winter_War,curated_title
+FIN,1995,joining the EU,Finland,Member state of the European Union,https://en.wikipedia.org/wiki/Member_state_of_the_European_Union,curated_title
+FJI,1970,independence,Fiji,,,none
+FJI,1987,the coups,Fiji,Fijian coup d'etat,https://en.wikipedia.org/wiki/Fijian_coup_d%27etat,curated_title
+FJI,2006,the Bainimarama coup,Fiji,2006 Fijian coup d'état,https://en.wikipedia.org/wiki/2006_Fijian_coup_d%27%C3%A9tat,curated_title
+FLK,1982,the Falklands War,FLK,Falklands War,https://en.wikipedia.org/wiki/Falklands_War,curated_title
+FLK,2013,the sovereignty referendum,FLK,,,none
+FRA,1940,the German occupation,France,German military administration in occupied France during World War II,https://en.wikipedia.org/wiki/German_military_administration_in_occupied_France_during_World_War_II,curated_title
+FRA,1968,the May 68 protests,France,2006 youth protests in France,https://en.wikipedia.org/wiki/2006_youth_protests_in_France,curated_title
+FRA,1998,France winning the World Cup,France,France at the FIFA World Cup,https://en.wikipedia.org/wiki/France_at_the_FIFA_World_Cup,curated_title
+FRA,2015,the Paris attacks,France,Paris attacks,https://en.wikipedia.org/wiki/Paris_attacks,curated_title
+FSM,1986,independence under the Compact of Free Association,Micronesia,,,none
+FSM,2004,Typhoon Sudal,Micronesia,Typhoon Sudal,https://en.wikipedia.org/wiki/Typhoon_Sudal,curated_title
+GAB,1960,independence,Gabon,History of Gabon,https://en.wikipedia.org/wiki/History_of_Gabon,curated_title
+GAB,2023,the coup ending the Bongo era,Gabon,,,none
+GBR,1940,the Blitz,United Kingdom,,,none
+GBR,1966,England winning the World Cup,United Kingdom,England at the FIFA World Cup,https://en.wikipedia.org/wiki/England_at_the_FIFA_World_Cup,curated_title
+GBR,2012,the London Olympics,United Kingdom,London Olympics,https://en.wikipedia.org/wiki/London_Olympics,curated_title
+GBR,2016,Brexit,United Kingdom,,,none
+GEO,1991,independence,Georgia,History of Georgia (country),https://en.wikipedia.org/wiki/History_of_Georgia_(country),curated_title
+GEO,2003,the Rose Revolution,Georgia,,,none
+GEO,2008,the war with Russia,Georgia,Russo-Georgian War,https://en.wikipedia.org/wiki/Russo-Georgian_War,curated_title
+GHA,1957,independence — first in sub-Saharan Africa,Ghana,,,none
+GHA,1981,the Rawlings era,Ghana,Rawlings government,https://en.wikipedia.org/wiki/Rawlings_government,curated_title
+GHA,1992,the return to multiparty democracy,Ghana,,,none
+GIN,1958,independence,Guinea,History of Guinea,https://en.wikipedia.org/wiki/History_of_Guinea,curated_title
+GIN,2021,the military coup,Guinea,2025 Guinea-Bissau coup d'état,https://en.wikipedia.org/wiki/2025_Guinea-Bissau_coup_d%27%C3%A9tat,curated_title
+GLP,1946,becoming a French overseas département,Guadeloupe,,,none
+GLP,2009,the general strike,Guadeloupe,General strike,https://en.wikipedia.org/wiki/General_strike,curated_title
+GMB,1965,independence,Gambia,Gambia Independence Act 1964,https://en.wikipedia.org/wiki/Gambia_Independence_Act_1964,curated_title
+GMB,2017,the end of the Jammeh era,Gambia,,,none
+GNB,1973,the declaration of independence,Guinea-Bissau,Guinea-Bissau War of Independence,https://en.wikipedia.org/wiki/Guinea-Bissau_War_of_Independence,curated_title
+GNB,1998,the civil war,Guinea-Bissau,Guinea-Bissau Civil War,https://en.wikipedia.org/wiki/Guinea-Bissau_Civil_War,curated_title
+GNQ,1968,independence,Equatorial Guinea,,,none
+GNQ,1995,the start of the oil boom,Equatorial Guinea,Texas oil boom,https://en.wikipedia.org/wiki/Texas_oil_boom,curated_title
+GRC,1941,the wartime occupation and famine,Greece,,,none
+GRC,1974,the return of democracy,Greece,Democratization,https://en.wikipedia.org/wiki/Democratization,curated_title
+GRC,2004,the Athens Olympics and Euro win,Greece,,,none
+GRC,2010,the debt crisis,Greece,Debt crisis,https://en.wikipedia.org/wiki/Debt_crisis,curated_title
+GRD,1974,independence,Grenada,History of Grenada,https://en.wikipedia.org/wiki/History_of_Grenada,curated_title
+GRD,1983,the US invasion,Grenada,United States invasion of Grenada,https://en.wikipedia.org/wiki/United_States_invasion_of_Grenada,curated_title
+GRL,1979,home rule,Greenland,Home rule,https://en.wikipedia.org/wiki/Home_rule,curated_title
+GRL,2009,self-government expansion,Greenland,2008 Greenlandic self-government referendum,https://en.wikipedia.org/wiki/2008_Greenlandic_self-government_referendum,curated_title
+GTM,1954,the coup,Guatemala,1954 Guatemalan coup d'état,https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27%C3%A9tat,curated_title
+GTM,1976,the great earthquake,Guatemala,Lists of earthquakes,https://en.wikipedia.org/wiki/Lists_of_earthquakes,curated_title
+GTM,1996,the end of the civil war,Guatemala,Guatemalan Civil War,https://en.wikipedia.org/wiki/Guatemalan_Civil_War,curated_title
+GUF,1946,becoming a French overseas département,French Guiana,,,none
+GUF,1968,the Kourou spaceport opening,French Guiana,,,none
+GUM,1950,the Organic Act,Guam,Organic act,https://en.wikipedia.org/wiki/Organic_act,curated_title
+GUM,1997,the Asian financial crisis tourism shock,Guam,1997 Asian financial crisis,https://en.wikipedia.org/wiki/1997_Asian_financial_crisis,curated_title
+GUY,1966,independence,Guyana,,,none
+GUY,1978,the Jonestown tragedy,Guyana,Guyana Tragedy: The Story of Jim Jones,https://en.wikipedia.org/wiki/Guyana_Tragedy:_The_Story_of_Jim_Jones,curated_title
+GUY,2015,the major offshore oil discovery,Guyana,Offshore oil and gas in the Gulf of Mexico (United States),https://en.wikipedia.org/wiki/Offshore_oil_and_gas_in_the_Gulf_of_Mexico_(United_States),curated_title
+HKG,1941,the Japanese occupation of Hong Kong,Hong Kong,Japanese occupation of Hong Kong,https://en.wikipedia.org/wiki/Japanese_occupation_of_Hong_Kong,curated_title
+HKG,1997,the Handover of Hong Kong,Hong Kong,Handover of Hong Kong,https://en.wikipedia.org/wiki/Handover_of_Hong_Kong,curated_title
+HKG,2014,the Umbrella Movement,Hong Kong,Umbrella Movement,https://en.wikipedia.org/wiki/Umbrella_Movement,curated_title
+HKG,2019,the anti-extradition protests,Hong Kong,2019–2020 Hong Kong protests,https://en.wikipedia.org/wiki/2019%E2%80%932020_Hong_Kong_protests,curated_title
+HND,1969,the Football War with El Salvador,Honduras,El Salvador–Honduras football rivalry,https://en.wikipedia.org/wiki/El_Salvador%E2%80%93Honduras_football_rivalry,curated_title
+HND,1998,Hurricane Mitch,Honduras,Hurricane Mitch,https://en.wikipedia.org/wiki/Hurricane_Mitch,curated_title
+HND,2009,the coup,Honduras,Honduran coup d'état,https://en.wikipedia.org/wiki/Honduran_coup_d%27%C3%A9tat,resolved
+HRV,1991,the Croatian War of Independence,Croatia,Croatian War of Independence,https://en.wikipedia.org/wiki/Croatian_War_of_Independence,curated_title
+HRV,2013,joining the EU,Croatia,2013 enlargement of the European Union,https://en.wikipedia.org/wiki/2013_enlargement_of_the_European_Union,curated_title
+HRV,2018,reaching the World Cup final,Croatia,Croatia at the FIFA World Cup,https://en.wikipedia.org/wiki/Croatia_at_the_FIFA_World_Cup,curated_title
+HTI,1957,the Duvalier era,Haiti,François Duvalier,https://en.wikipedia.org/wiki/Fran%C3%A7ois_Duvalier,curated_title
+HTI,2010,the great earthquake,Haiti,Lists of earthquakes,https://en.wikipedia.org/wiki/Lists_of_earthquakes,curated_title
+HTI,2021,the assassination of President Moïse,Haiti,Assassination of Jovenel Moïse,https://en.wikipedia.org/wiki/Assassination_of_Jovenel_Mo%C3%AFse,curated_title
+HUN,1956,the Hungarian uprising,Hungary,Uprising in West Hungary,https://en.wikipedia.org/wiki/Uprising_in_West_Hungary,curated_title
+HUN,1989,the end of communism,Hungary,End of Communism,https://en.wikipedia.org/wiki/End_of_Communism,curated_title
+HUN,2004,joining the EU,Hungary,Accession of Montenegro to the European Union,https://en.wikipedia.org/wiki/Accession_of_Montenegro_to_the_European_Union,curated_title
+IDN,1945,Indonesian independence,Indonesia,Proclamation of Indonesian Independence,https://en.wikipedia.org/wiki/Proclamation_of_Indonesian_Independence,curated_title
+IDN,1998,the Reformasi,Indonesia,Reform era in Indonesia,https://en.wikipedia.org/wiki/Reform_era_in_Indonesia,curated_title
+IDN,2004,the Indian Ocean tsunami,Indonesia,2004 Indian Ocean earthquake and tsunami,https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami,curated_title
+IND,1947,Independence and Partition,India,"Jinnah: India, Partition, Independence","https://en.wikipedia.org/wiki/Jinnah:_India,_Partition,_Independence",curated_title
+IND,1975,the Emergency,India,The Emergency (India),https://en.wikipedia.org/wiki/The_Emergency_(India),curated_title
+IND,1991,economic liberalization,India,Economic liberalisation in India,https://en.wikipedia.org/wiki/Economic_liberalisation_in_India,curated_title
+IND,2004,the Indian Ocean tsunami,India,2004 Indian Ocean earthquake and tsunami,https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami,curated_title
+IRL,1922,independence,Ireland,,,none
+IRL,1998,the Good Friday Agreement,Ireland,Good Friday Agreement,https://en.wikipedia.org/wiki/Good_Friday_Agreement,curated_title
+IRL,2008,the financial crash,Ireland,Wall Street crash of 1929,https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929,curated_title
+IRN,1953,the coup,Iran,Iran coup,https://en.wikipedia.org/wiki/Iran_coup,curated_title
+IRN,1979,the Islamic Revolution,Iran,Iranian Revolution,https://en.wikipedia.org/wiki/Iranian_Revolution,curated_title
+IRN,1980,the Iran-Iraq War,Iran,Iran–Iraq War,https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War,curated_title
+IRN,2022,the Mahsa Amini protests,Iran,,,none
+IRQ,1980,the Iran-Iraq War,Iraq,Iran–Iraq War,https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War,curated_title
+IRQ,1991,the Gulf War,Iraq,Gulf War,https://en.wikipedia.org/wiki/Gulf_War,curated_title
+IRQ,2003,the US invasion,Iraq,2003 invasion of Iraq,https://en.wikipedia.org/wiki/2003_invasion_of_Iraq,curated_title
+IRQ,2014,the war against ISIS,Iraq,War against the Islamic State,https://en.wikipedia.org/wiki/War_against_the_Islamic_State,curated_title
+ISL,1944,becoming a republic,Iceland,Czech Republic national football team,https://en.wikipedia.org/wiki/Czech_Republic_national_football_team,curated_title
+ISL,2008,the banking collapse,Iceland,,,none
+ISL,2010,the Eyjafjallajökull eruption,Iceland,Air travel disruption after the 2010 Eyjafjallajökull eruption,https://en.wikipedia.org/wiki/Air_travel_disruption_after_the_2010_Eyjafjallaj%C3%B6kull_eruption,curated_title
+ISR,1948,the founding of Israel,Israel,Israeli Declaration of Independence,https://en.wikipedia.org/wiki/Israeli_Declaration_of_Independence,curated_title
+ISR,1967,the Six-Day War,Israel,Six-Day War,https://en.wikipedia.org/wiki/Six-Day_War,curated_title
+ISR,1973,the Yom Kippur War,Israel,Yom Kippur War,https://en.wikipedia.org/wiki/Yom_Kippur_War,curated_title
+ISR,2023,the October 7 war,Israel,Timeline of the Gaza war (7 October 2023 – 27 October 2023),https://en.wikipedia.org/wiki/Timeline_of_the_Gaza_war_(7_October_2023_%E2%80%93_27_October_2023),curated_title
+ITA,1943,the WWII armistice,Italy,Armistice Day,https://en.wikipedia.org/wiki/Armistice_Day,curated_title
+ITA,1980,the Irpinia earthquake,Italy,List of earthquakes in Irpinia,https://en.wikipedia.org/wiki/List_of_earthquakes_in_Irpinia,curated_title
+ITA,2006,Italy winning the World Cup,Italy,Italy v West Germany (1970 FIFA World Cup),https://en.wikipedia.org/wiki/Italy_v_West_Germany_(1970_FIFA_World_Cup),curated_title
+JAM,1962,independence,Jamaica,Independence of Jamaica,https://en.wikipedia.org/wiki/Independence_of_Jamaica,curated_title
+JAM,1980,the election violence,Jamaica,1997 Jamaican general election,https://en.wikipedia.org/wiki/1997_Jamaican_general_election,curated_title
+JAM,2012,Usain Bolt's London Olympics,Jamaica,Usain Bolt,https://en.wikipedia.org/wiki/Usain_Bolt,curated_title
+JOR,1970,Black September,Jordan,Black September,https://en.wikipedia.org/wiki/Black_September,curated_title
+JOR,1994,the peace treaty with Israel,Jordan,Israel–Jordan peace treaty,https://en.wikipedia.org/wiki/Israel%E2%80%93Jordan_peace_treaty,curated_title
+JOR,2011,the Arab Spring protests,Jordan,2018 Jordanian protests,https://en.wikipedia.org/wiki/2018_Jordanian_protests,curated_title
+JPN,1923,the Great Kantō earthquake,Japan,Great Kantō Earthquake,https://en.wikipedia.org/wiki/Great_Kant%C5%8D_Earthquake,curated_title
+JPN,1945,the atomic bombings and Japan's surrender,Japan,Atomic bombings of Hiroshima and Nagasaki,https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki,curated_title
+JPN,1995,the Kobe earthquake,Japan,1995 Hanshin earthquake,https://en.wikipedia.org/wiki/1995_Hanshin_earthquake,curated_title
+JPN,2011,the 311 Tōhoku earthquake and tsunami,Japan,2011 Tōhoku earthquake and tsunami,https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami,curated_title
+KAZ,1991,independence from the USSR,Kazakhstan,On the State Independence of the Republic of Kazakhstan,https://en.wikipedia.org/wiki/On_the_State_Independence_of_the_Republic_of_Kazakhstan,curated_title
+KAZ,2019,Nazarbayev's resignation,Kazakhstan,Resignation of Nursultan Nazarbayev,https://en.wikipedia.org/wiki/Resignation_of_Nursultan_Nazarbayev,curated_title
+KAZ,2022,the January unrest,Kazakhstan,2022 Kazakh unrest,https://en.wikipedia.org/wiki/2022_Kazakh_unrest,curated_title
+KEN,1963,independence,Kenya,History of Kenya,https://en.wikipedia.org/wiki/History_of_Kenya,curated_title
+KEN,2007,the post-election crisis,Kenya,2007–2008 Kenyan crisis,https://en.wikipedia.org/wiki/2007%E2%80%932008_Kenyan_crisis,curated_title
+KEN,2010,the new constitution,Kenya,Constitution of New York,https://en.wikipedia.org/wiki/Constitution_of_New_York,curated_title
+KGZ,1991,independence,Kyrgyzstan,Independence Day (Kyrgyzstan),https://en.wikipedia.org/wiki/Independence_Day_(Kyrgyzstan),curated_title
+KGZ,2005,the Tulip Revolution,Kyrgyzstan,2010 Kyrgyz Revolution,https://en.wikipedia.org/wiki/2010_Kyrgyz_Revolution,resolved
+KGZ,2010,the April uprising,Kyrgyzstan,,,none
+KHM,1975,the Khmer Rouge era,Cambodia,Khmer Rouge,https://en.wikipedia.org/wiki/Khmer_Rouge,curated_title
+KHM,1979,the fall of the Khmer Rouge,Cambodia,Khmer Rouge,https://en.wikipedia.org/wiki/Khmer_Rouge,curated_title
+KHM,1993,the restoration of the monarchy,Cambodia,Restoration,https://en.wikipedia.org/wiki/Restoration,curated_title
+KIR,1979,independence,Kiribati,,,none
+KIR,1999,the capital shift amid rising seas,Kiribati,,,none
+KOR,1950,the Korean War,South Korea,Korean War,https://en.wikipedia.org/wiki/Korean_War,curated_title
+KOR,1980,the Gwangju uprising,South Korea,,,none
+KOR,1997,the IMF crisis,South Korea,1997 Asian financial crisis,https://en.wikipedia.org/wiki/1997_Asian_financial_crisis,curated_title
+KOR,2002,the Korea-Japan World Cup,South Korea,South Korea at the FIFA World Cup,https://en.wikipedia.org/wiki/South_Korea_at_the_FIFA_World_Cup,curated_title
+KWT,1961,independence,Kuwait,,,none
+KWT,1990,the Iraqi invasion,Kuwait,Iraqi invasion of Kuwait,https://en.wikipedia.org/wiki/Iraqi_invasion_of_Kuwait,curated_title
+KWT,1991,liberation,Kuwait,Kuwait Liberation Medal (Kuwait),https://en.wikipedia.org/wiki/Kuwait_Liberation_Medal_(Kuwait),curated_title
+LAO,1975,the communist takeover,Laos,Communist takeover,https://en.wikipedia.org/wiki/Communist_takeover,curated_title
+LAO,1997,joining ASEAN,Laos,Enlargement of ASEAN,https://en.wikipedia.org/wiki/Enlargement_of_ASEAN,curated_title
+LAO,2018,the Xe Pian-Xe Namnoy dam collapse,Laos,2018 Laos dam collapse,https://en.wikipedia.org/wiki/2018_Laos_dam_collapse,curated_title
+LBN,1975,the Lebanese civil war,Lebanon,Syrian civil war spillover in Lebanon,https://en.wikipedia.org/wiki/Syrian_civil_war_spillover_in_Lebanon,curated_title
+LBN,2005,the Cedar Revolution,Lebanon,,,none
+LBN,2020,the Beirut port explosion,Lebanon,2020 Beirut explosion,https://en.wikipedia.org/wiki/2020_Beirut_explosion,curated_title
+LBR,1980,the Doe coup,Liberia,1980 Liberian coup d'état,https://en.wikipedia.org/wiki/1980_Liberian_coup_d%27%C3%A9tat,curated_title
+LBR,1989,the start of the civil wars,Liberia,The Civil Wars,https://en.wikipedia.org/wiki/The_Civil_Wars,curated_title
+LBR,2003,the end of the civil war,Liberia,Second Liberian Civil War,https://en.wikipedia.org/wiki/Second_Liberian_Civil_War,curated_title
+LBY,1969,Gaddafi's coup,Libya,History of Libya under Muammar Gaddafi,https://en.wikipedia.org/wiki/History_of_Libya_under_Muammar_Gaddafi,curated_title
+LBY,2011,the fall of Gaddafi,Libya,History of Libya under Muammar Gaddafi,https://en.wikipedia.org/wiki/History_of_Libya_under_Muammar_Gaddafi,curated_title
+LBY,2023,the Derna flood,Libya,"Derna, Libya","https://en.wikipedia.org/wiki/Derna,_Libya",curated_title
+LCA,1979,independence,Saint Lucia,History of Saint Lucia,https://en.wikipedia.org/wiki/History_of_Saint_Lucia,curated_title
+LCA,2010,Hurricane Tomas,Saint Lucia,Hurricane Tomas,https://en.wikipedia.org/wiki/Hurricane_Tomas,curated_title
+LKA,2004,the Indian Ocean tsunami,Sri Lanka,2004 Indian Ocean earthquake and tsunami,https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami,curated_title
+LKA,2009,the end of the civil war,Sri Lanka,War crimes during the final stages of the Sri Lankan civil war,https://en.wikipedia.org/wiki/War_crimes_during_the_final_stages_of_the_Sri_Lankan_civil_war,curated_title
+LKA,2022,the economic crisis protests,Sri Lanka,Sri Lankan economic crisis (2019–2024),https://en.wikipedia.org/wiki/Sri_Lankan_economic_crisis_(2019%E2%80%932024),curated_title
+LSO,1966,independence,Lesotho,Lesotho Independence Cup,https://en.wikipedia.org/wiki/Lesotho_Independence_Cup,curated_title
+LSO,1998,the political crisis and SADC intervention,Lesotho,2014 Lesotho political crisis,https://en.wikipedia.org/wiki/2014_Lesotho_political_crisis,curated_title
+LTU,1990,the restoration of independence,Lithuania,Lithuania Independence Restoration Day,https://en.wikipedia.org/wiki/Lithuania_Independence_Restoration_Day,curated_title
+LTU,1991,the January Events,Lithuania,January Events,https://en.wikipedia.org/wiki/January_Events,curated_title
+LTU,2004,joining the EU and NATO,Lithuania,,,none
+LUX,1944,liberation in WWII,Luxembourg,The National WWII Museum,https://en.wikipedia.org/wiki/The_National_WWII_Museum,curated_title
+LUX,2002,adopting the euro,Luxembourg,Adoption of the euro in Luxembourg,https://en.wikipedia.org/wiki/Adoption_of_the_euro_in_Luxembourg,curated_title
+LVA,1991,the restoration of independence,Latvia,On the Restoration of Independence of the Republic of Latvia,https://en.wikipedia.org/wiki/On_the_Restoration_of_Independence_of_the_Republic_of_Latvia,curated_title
+LVA,2004,joining the EU and NATO,Latvia,,,none
+LVA,2014,adopting the euro,Latvia,Adoption of the euro in Latvia,https://en.wikipedia.org/wiki/Adoption_of_the_euro_in_Latvia,curated_title
+MAC,1999,the Handover of Macao,Macao,Handover of Macau,https://en.wikipedia.org/wiki/Handover_of_Macau,curated_title
+MAC,2003,the SARS outbreak,Macao,2002–2004 SARS outbreak,https://en.wikipedia.org/wiki/2002%E2%80%932004_SARS_outbreak,curated_title
+MAC,2019,the gaming industry boom peak,Macao,,,none
+MAR,1956,independence,Morocco,History of Morocco,https://en.wikipedia.org/wiki/History_of_Morocco,curated_title
+MAR,1975,the Green March,Morocco,Green March,https://en.wikipedia.org/wiki/Green_March,curated_title
+MAR,2023,the Al Haouz earthquake,Morocco,2023 Al Haouz earthquake,https://en.wikipedia.org/wiki/2023_Al_Haouz_earthquake,curated_title
+MDA,1991,independence,Moldova,Independence of Moldova,https://en.wikipedia.org/wiki/Independence_of_Moldova,curated_title
+MDA,1992,the Transnistria war,Moldova,Transnistrian War,https://en.wikipedia.org/wiki/Transnistrian_War,curated_title
+MDA,2022,the refugee crisis from Ukraine,Moldova,Ukrainian refugee crisis,https://en.wikipedia.org/wiki/Ukrainian_refugee_crisis,curated_title
+MDG,1960,independence,Madagascar,History of Madagascar,https://en.wikipedia.org/wiki/History_of_Madagascar,curated_title
+MDG,2009,the political crisis,Madagascar,Cabinet crisis,https://en.wikipedia.org/wiki/Cabinet_crisis,curated_title
+MDG,2013,the return to elections,Madagascar,Return,https://en.wikipedia.org/wiki/Return,curated_title
+MDV,1965,independence,Maldives,Independence of the Maldives,https://en.wikipedia.org/wiki/Independence_of_the_Maldives,curated_title
+MDV,2004,the Indian Ocean tsunami,Maldives,2004 Indian Ocean earthquake and tsunami,https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami,curated_title
+MDV,2008,the first multiparty presidential election,Maldives,,,none
+MEX,1910,the Mexican Revolution,Mexico,Mexican Revolution,https://en.wikipedia.org/wiki/Mexican_Revolution,resolved
+MEX,1968,the Tlatelolco massacre,Mexico,Tlatelolco massacre,https://en.wikipedia.org/wiki/Tlatelolco_massacre,curated_title
+MEX,1985,the Mexico City earthquake,Mexico,1985 Mexico City earthquake,https://en.wikipedia.org/wiki/1985_Mexico_City_earthquake,curated_title
+MEX,1994,NAFTA,Mexico,North American Free Trade Agreement,https://en.wikipedia.org/wiki/North_American_Free_Trade_Agreement,curated_title
+MKD,1991,independence,North Macedonia,Independence Day (North Macedonia),https://en.wikipedia.org/wiki/Independence_Day_(North_Macedonia),curated_title
+MKD,2001,the Ohrid Agreement,North Macedonia,Ohrid Agreement (2001),https://en.wikipedia.org/wiki/Ohrid_Agreement_(2001),curated_title
+MKD,2019,the Prespa name change,North Macedonia,,,none
+MLI,1960,independence,Mali,,,none
+MLI,2012,the northern rebellion and coup,Mali,,,none
+MLI,2020,the military coup,Mali,2012 Malian coup d'état,https://en.wikipedia.org/wiki/2012_Malian_coup_d%27%C3%A9tat,curated_title
+MLT,1964,independence,Malta,History of Malta,https://en.wikipedia.org/wiki/History_of_Malta,curated_title
+MLT,1979,the closure of British bases,Malta,,,none
+MLT,2004,joining the EU,Malta,Accession of Albania to the European Union,https://en.wikipedia.org/wiki/Accession_of_Albania_to_the_European_Union,curated_title
+MMR,1962,the military coup,Myanmar,2021 Myanmar coup d'état,https://en.wikipedia.org/wiki/2021_Myanmar_coup_d%27%C3%A9tat,curated_title
+MMR,1988,the 8888 uprising,Myanmar,,,none
+MMR,2008,Cyclone Nargis,Myanmar,Cyclone Nargis,https://en.wikipedia.org/wiki/Cyclone_Nargis,curated_title
+MMR,2021,the military coup,Myanmar,2021 Myanmar coup d'état,https://en.wikipedia.org/wiki/2021_Myanmar_coup_d%27%C3%A9tat,curated_title
+MNE,2006,independence from Serbia,Montenegro,Serbia and Montenegro,https://en.wikipedia.org/wiki/Serbia_and_Montenegro,curated_title
+MNE,2017,joining NATO,Montenegro,Montenegro–NATO relations,https://en.wikipedia.org/wiki/Montenegro%E2%80%93NATO_relations,curated_title
+MNG,1921,independence with Soviet backing,Mongolia,,,none
+MNG,1990,the democratic revolution,Mongolia,Mongolian Revolution of 1990,https://en.wikipedia.org/wiki/Mongolian_Revolution_of_1990,curated_title
+MNG,2013,the mining boom peak,Mongolia,,,none
+MOZ,1975,independence,Mozambique,,,none
+MOZ,1992,the end of the civil war,Mozambique,Mozambican Civil War,https://en.wikipedia.org/wiki/Mozambican_Civil_War,resolved
+MOZ,2000,the great floods,Mozambique,Flood myth,https://en.wikipedia.org/wiki/Flood_myth,curated_title
+MRT,1960,independence,Mauritania,History of Mauritania (1960–1978),https://en.wikipedia.org/wiki/History_of_Mauritania_(1960%E2%80%931978),curated_title
+MRT,2005,the military coup,Mauritania,2008 Mauritanian coup d'état,https://en.wikipedia.org/wiki/2008_Mauritanian_coup_d%27%C3%A9tat,curated_title
+MRT,2008,another coup,Mauritania,2005 Mauritanian coup d'état,https://en.wikipedia.org/wiki/2005_Mauritanian_coup_d%27%C3%A9tat,curated_title
+MTQ,1902,the Mount Pelée eruption,Martinique,Mount Pelée,https://en.wikipedia.org/wiki/Mount_Pel%C3%A9e,curated_title
+MTQ,1946,becoming a French overseas département,Martinique,,,none
+MUS,1968,independence,Mauritius,Independence of Mauritius,https://en.wikipedia.org/wiki/Independence_of_Mauritius,curated_title
+MUS,1992,becoming a republic,Mauritius,Parliamentary republic,https://en.wikipedia.org/wiki/Parliamentary_republic,curated_title
+MWI,1964,independence,Malawi,History of Malawi,https://en.wikipedia.org/wiki/History_of_Malawi,curated_title
+MWI,1994,the end of one-party rule,Malawi,One-party rule in Seychelles,https://en.wikipedia.org/wiki/One-party_rule_in_Seychelles,curated_title
+MYS,1957,independence,Malaysia,Independence Day (Malaysia),https://en.wikipedia.org/wiki/Independence_Day_(Malaysia),curated_title
+MYS,1997,the Asian financial crisis,Malaysia,1997 Asian financial crisis,https://en.wikipedia.org/wiki/1997_Asian_financial_crisis,curated_title
+MYS,2014,the disappearance of MH370,Malaysia,Malaysia Airlines Flight 370,https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370,curated_title
+MYT,1976,choosing to remain French,Mayotte,,,none
+MYT,2011,becoming a French département,Mayotte,,,none
+NAM,1990,independence,Namibia,Independence Memorial Museum (Namibia),https://en.wikipedia.org/wiki/Independence_Memorial_Museum_(Namibia),resolved
+NAM,2004,the first peaceful transfer of power,Namibia,,,none
+NCL,1988,the Matignon Accords,New Caledonia,Matignon Agreements,https://en.wikipedia.org/wiki/Matignon_Agreements,curated_title
+NCL,1998,the Nouméa Accord,New Caledonia,Nouméa Accord,https://en.wikipedia.org/wiki/Noum%C3%A9a_Accord,curated_title
+NCL,2018,the independence referendum,New Caledonia,2021 New Caledonian independence referendum,https://en.wikipedia.org/wiki/2021_New_Caledonian_independence_referendum,curated_title
+NER,1960,independence,Niger,Independence Day (Niger),https://en.wikipedia.org/wiki/Independence_Day_(Niger),curated_title
+NER,1974,the military coup,Niger,2023 Nigerien coup d'état,https://en.wikipedia.org/wiki/2023_Nigerien_coup_d%27%C3%A9tat,curated_title
+NER,2023,the coup,Niger,Nigerien coup d'état,https://en.wikipedia.org/wiki/Nigerien_coup_d%27%C3%A9tat,curated_title
+NGA,1960,independence,Nigeria,Independence Day (Nigeria),https://en.wikipedia.org/wiki/Independence_Day_(Nigeria),curated_title
+NGA,1967,the Biafran War,Nigeria,Nigerian Civil War,https://en.wikipedia.org/wiki/Nigerian_Civil_War,curated_title
+NGA,1999,the return to democracy,Nigeria,Democracy Day,https://en.wikipedia.org/wiki/Democracy_Day,curated_title
+NGA,2014,the Chibok kidnappings,Nigeria,Chibok schoolgirls kidnapping,https://en.wikipedia.org/wiki/Chibok_schoolgirls_kidnapping,curated_title
+NIC,1972,the Managua earthquake,Nicaragua,Managua earthquake,https://en.wikipedia.org/wiki/Managua_earthquake,curated_title
+NIC,1979,the Sandinista revolution,Nicaragua,Nicaraguan Revolution,https://en.wikipedia.org/wiki/Nicaraguan_Revolution,curated_title
+NIC,2018,the protests,Nicaragua,2018 Nicaraguan protests,https://en.wikipedia.org/wiki/2018_Nicaraguan_protests,curated_title
+NLD,1953,the North Sea flood,Netherlands,North Sea flood,https://en.wikipedia.org/wiki/North_Sea_flood,curated_title
+NLD,1974,the Total Football era,Netherlands,Total Football,https://en.wikipedia.org/wiki/Total_Football,curated_title
+NLD,2013,the abdication of Queen Beatrix,Netherlands,Beatrix of the Netherlands,https://en.wikipedia.org/wiki/Beatrix_of_the_Netherlands,curated_title
+NOR,1905,independence from Sweden,Norway,Dissolution of the union between Norway and Sweden,https://en.wikipedia.org/wiki/Dissolution_of_the_union_between_Norway_and_Sweden,curated_title
+NOR,1940,the German occupation,Norway,German occupation of Norway,https://en.wikipedia.org/wiki/German_occupation_of_Norway,curated_title
+NOR,1969,the discovery of North Sea oil,Norway,North Sea oil,https://en.wikipedia.org/wiki/North_Sea_oil,curated_title
+NPL,1951,the end of the Rana regime,Nepal,,,none
+NPL,2001,the royal massacre,Nepal,List of regicides,https://en.wikipedia.org/wiki/List_of_regicides,curated_title
+NPL,2015,the Gorkha earthquake,Nepal,April 2015 Nepal earthquake,https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake,curated_title
+NZL,1985,the Rainbow Warrior bombing,New Zealand,Sinking of the Rainbow Warrior,https://en.wikipedia.org/wiki/Sinking_of_the_Rainbow_Warrior,curated_title
+NZL,2011,the Christchurch earthquake,New Zealand,2011 Christchurch earthquake,https://en.wikipedia.org/wiki/2011_Christchurch_earthquake,curated_title
+NZL,2019,the Christchurch mosque attacks,New Zealand,Christchurch mosque shootings,https://en.wikipedia.org/wiki/Christchurch_mosque_shootings,curated_title
+OMN,1970,the start of the Renaissance under Sultan Qaboos,Oman,,,none
+OMN,2020,the succession of Sultan Haitham,Oman,Succession to the Omani throne,https://en.wikipedia.org/wiki/Succession_to_the_Omani_throne,curated_title
+PAK,1947,Partition,Pakistan,,,none
+PAK,1971,the Bangladesh war,Pakistan,Bangladesh Liberation War,https://en.wikipedia.org/wiki/Bangladesh_Liberation_War,curated_title
+PAK,2010,the great floods,Pakistan,Flood myth,https://en.wikipedia.org/wiki/Flood_myth,curated_title
+PAK,2022,the mega floods,Pakistan,2010 Pakistan floods,https://en.wikipedia.org/wiki/2010_Pakistan_floods,curated_title
+PAN,1977,the Canal treaties,Panama,Panama Canal Zone,https://en.wikipedia.org/wiki/Panama_Canal_Zone,curated_title
+PAN,1989,the US invasion,Panama,United States invasion of Panama,https://en.wikipedia.org/wiki/United_States_invasion_of_Panama,curated_title
+PAN,1999,the handover of the Canal,Panama,History of the Panama Canal,https://en.wikipedia.org/wiki/History_of_the_Panama_Canal,curated_title
+PER,1970,the Ancash earthquake,Peru,1970 Ancash earthquake,https://en.wikipedia.org/wiki/1970_Ancash_earthquake,curated_title
+PER,1980,the Shining Path insurgency,Peru,Internal conflict in Peru,https://en.wikipedia.org/wiki/Internal_conflict_in_Peru,curated_title
+PER,2000,the fall of Fujimori,Peru,The Fall of Fujimori,https://en.wikipedia.org/wiki/The_Fall_of_Fujimori,curated_title
+PHL,1972,martial law,Philippines,Martial law,https://en.wikipedia.org/wiki/Martial_law,curated_title
+PHL,1986,the People Power Revolution,Philippines,,,none
+PHL,1991,the Mount Pinatubo eruption,Philippines,1991 eruption of Mount Pinatubo,https://en.wikipedia.org/wiki/1991_eruption_of_Mount_Pinatubo,curated_title
+PHL,2013,Typhoon Haiyan,Philippines,Typhoon Haiyan,https://en.wikipedia.org/wiki/Typhoon_Haiyan,curated_title
+PNG,1975,independence,Papua New Guinea,Papua New Guinea Independence Act 1975,https://en.wikipedia.org/wiki/Papua_New_Guinea_Independence_Act_1975,curated_title
+PNG,1989,the Bougainville conflict,Papua New Guinea,Bougainville conflict,https://en.wikipedia.org/wiki/Bougainville_conflict,curated_title
+PNG,1998,the Aitape tsunami,Papua New Guinea,1998 Papua New Guinea earthquake,https://en.wikipedia.org/wiki/1998_Papua_New_Guinea_earthquake,curated_title
+POL,1939,the German invasion,Poland,Invasion of Poland,https://en.wikipedia.org/wiki/Invasion_of_Poland,curated_title
+POL,1980,the Solidarity movement,Poland,Solidarity,https://en.wikipedia.org/wiki/Solidarity,curated_title
+POL,1989,the end of communism,Poland,End of Communism,https://en.wikipedia.org/wiki/End_of_Communism,curated_title
+POL,2004,joining the EU,Poland,Migrations from Poland since accession to the European Union,https://en.wikipedia.org/wiki/Migrations_from_Poland_since_accession_to_the_European_Union,curated_title
+PRI,1952,becoming a US commonwealth,Puerto Rico,Member states of the Commonwealth of Nations,https://en.wikipedia.org/wiki/Member_states_of_the_Commonwealth_of_Nations,curated_title
+PRI,2017,Hurricane Maria,Puerto Rico,Hurricane Maria,https://en.wikipedia.org/wiki/Hurricane_Maria,curated_title
+PRK,1950,the Korean War,North Korea,Korean War,https://en.wikipedia.org/wiki/Korean_War,curated_title
+PRK,1994,the death of Kim Il-sung,North Korea,Death and state funeral of Kim Il Sung,https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Kim_Il_Sung,curated_title
+PRK,1995,the Arduous March famine,North Korea,1990s North Korean famine,https://en.wikipedia.org/wiki/1990s_North_Korean_famine,curated_title
+PRT,1974,the Carnation Revolution,Portugal,,,none
+PRT,1986,joining the EEC,Portugal,,,none
+PRT,2016,Portugal winning the Euro,Portugal,History of the Portugal national football team,https://en.wikipedia.org/wiki/History_of_the_Portugal_national_football_team,curated_title
+PRY,1989,the end of the Stroessner dictatorship,Paraguay,Dictatorship of Alfredo Stroessner,https://en.wikipedia.org/wiki/Dictatorship_of_Alfredo_Stroessner,curated_title
+PRY,1993,the first democratic elections,Paraguay,For Democratic Elections,https://en.wikipedia.org/wiki/For_Democratic_Elections,resolved
+PSE,1948,the Nakba,Palestine,,,none
+PSE,1987,the First Intifada,Palestine,First Intifada,https://en.wikipedia.org/wiki/First_Intifada,curated_title
+PSE,2023,the Gaza war,Palestine,Gaza war,https://en.wikipedia.org/wiki/Gaza_war,curated_title
+PYF,1996,the end of French nuclear testing,French Polynesia,Nuclear weapons testing,https://en.wikipedia.org/wiki/Nuclear_weapons_testing,curated_title
+PYF,2004,expanded autonomy,French Polynesia,Lokot Autonomy,https://en.wikipedia.org/wiki/Lokot_Autonomy,curated_title
+QAT,1971,independence,Qatar,,,none
+QAT,1995,the palace coup,Qatar,1995 Qatari coup d'état,https://en.wikipedia.org/wiki/1995_Qatari_coup_d%27%C3%A9tat,curated_title
+QAT,2022,hosting the World Cup,Qatar,Qatar at the FIFA World Cup,https://en.wikipedia.org/wiki/Qatar_at_the_FIFA_World_Cup,curated_title
+REU,1946,becoming a French overseas département,Réunion,,,none
+REU,2010,Cyclone Dumile,Réunion,2012–13 South-West Indian Ocean cyclone season,https://en.wikipedia.org/wiki/2012%E2%80%9313_South-West_Indian_Ocean_cyclone_season,curated_title
+ROU,1989,the Romanian Revolution,Romania,Romanian revolution,https://en.wikipedia.org/wiki/Romanian_revolution,curated_title
+ROU,2007,joining the EU,Romania,Romania and the euro,https://en.wikipedia.org/wiki/Romania_and_the_euro,curated_title
+ROU,2014,the Colectiv nightclub fire,Romania,Colectiv nightclub fire,https://en.wikipedia.org/wiki/Colectiv_nightclub_fire,curated_title
+RUS,1917,the Russian Revolution,Russia,Russian Revolution,https://en.wikipedia.org/wiki/Russian_Revolution,curated_title
+RUS,1941,the German invasion,Russia,German invasion of Russia,https://en.wikipedia.org/wiki/German_invasion_of_Russia,curated_title
+RUS,1991,the collapse of the USSR,Russia,,,none
+RUS,2022,the invasion of Ukraine,Russia,2022 Russian invasion of Ukraine,https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine,curated_title
+RWA,1962,independence,Rwanda,History of Rwanda,https://en.wikipedia.org/wiki/History_of_Rwanda,curated_title
+RWA,1994,the genocide,Rwanda,Rwandan genocide,https://en.wikipedia.org/wiki/Rwandan_genocide,curated_title
+RWA,2003,the new constitution,Rwanda,Constitution of New York,https://en.wikipedia.org/wiki/Constitution_of_New_York,curated_title
+SAU,1938,the discovery of oil,Saudi Arabia,History of the oil industry in Saudi Arabia,https://en.wikipedia.org/wiki/History_of_the_oil_industry_in_Saudi_Arabia,curated_title
+SAU,1979,the Grand Mosque seizure,Saudi Arabia,Grand Mosque seizure,https://en.wikipedia.org/wiki/Grand_Mosque_seizure,curated_title
+SAU,2018,women gaining the right to drive,Saudi Arabia,,,none
+SDN,1956,independence,Sudan,Republic of Sudan (1956–1969),https://en.wikipedia.org/wiki/Republic_of_Sudan_(1956%E2%80%931969),curated_title
+SDN,2011,the secession of South Sudan,Sudan,2011 South Sudanese independence referendum,https://en.wikipedia.org/wiki/2011_South_Sudanese_independence_referendum,curated_title
+SDN,2023,the civil war,Sudan,Sudanese civil war (2023–present),https://en.wikipedia.org/wiki/Sudanese_civil_war_(2023%E2%80%93present),curated_title
+SEN,1960,independence,Senegal,,,none
+SEN,2000,the first peaceful transfer of power,Senegal,,,none
+SEN,2002,the Joola ferry disaster,Senegal,MV Le Joola,https://en.wikipedia.org/wiki/MV_Le_Joola,curated_title
+SGP,1965,Singapore's independence,Singapore,Independence of Singapore Agreement 1965,https://en.wikipedia.org/wiki/Independence_of_Singapore_Agreement_1965,curated_title
+SGP,2003,the SARS outbreak,Singapore,2002–2004 SARS outbreak,https://en.wikipedia.org/wiki/2002%E2%80%932004_SARS_outbreak,curated_title
+SGP,2015,the death of Lee Kuan Yew,Singapore,Death and state funeral of Lee Kuan Yew,https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Lee_Kuan_Yew,curated_title
+SLB,1978,independence,Solomon Islands,Solomon Islands Independence Medal,https://en.wikipedia.org/wiki/Solomon_Islands_Independence_Medal,curated_title
+SLB,2003,the RAMSI intervention,Solomon Islands,,,none
+SLB,2021,the Honiara riots,Solomon Islands,Honiara,https://en.wikipedia.org/wiki/Honiara,curated_title
+SLE,1961,independence,Sierra Leone,Sierra Leone (1961–1971),https://en.wikipedia.org/wiki/Sierra_Leone_(1961%E2%80%931971),curated_title
+SLE,1991,the start of the civil war,Sierra Leone,British military intervention in the Sierra Leone Civil War,https://en.wikipedia.org/wiki/British_military_intervention_in_the_Sierra_Leone_Civil_War,curated_title
+SLE,2002,the end of the civil war,Sierra Leone,British military intervention in the Sierra Leone Civil War,https://en.wikipedia.org/wiki/British_military_intervention_in_the_Sierra_Leone_Civil_War,curated_title
+SLV,1980,the civil war,El Salvador,Salvadoran Civil War,https://en.wikipedia.org/wiki/Salvadoran_Civil_War,curated_title
+SLV,1992,the peace accords,El Salvador,Chapultepec Peace Accords,https://en.wikipedia.org/wiki/Chapultepec_Peace_Accords,curated_title
+SLV,2001,the earthquakes,El Salvador,List of earthquakes in El Salvador,https://en.wikipedia.org/wiki/List_of_earthquakes_in_El_Salvador,curated_title
+SOM,1960,independence,Somalia,Independence Day (Somalia),https://en.wikipedia.org/wiki/Independence_Day_(Somalia),curated_title
+SOM,1991,the collapse of the state,Somalia,North East State of Somalia,https://en.wikipedia.org/wiki/North_East_State_of_Somalia,curated_title
+SOM,2011,the famine,Somalia,Famine in Somalia,https://en.wikipedia.org/wiki/Famine_in_Somalia,curated_title
+SRB,1991,the Yugoslav wars,Serbia,Yugoslav Wars,https://en.wikipedia.org/wiki/Yugoslav_Wars,curated_title
+SRB,1999,the NATO bombing,Serbia,List of NATO bombings,https://en.wikipedia.org/wiki/List_of_NATO_bombings,curated_title
+SRB,2000,the fall of Milošević,Serbia,Marko Milošević (Serbian politician),https://en.wikipedia.org/wiki/Marko_Milo%C5%A1evi%C4%87_(Serbian_politician),curated_title
+SSD,2011,South Sudan's independence,South Sudan,South Sudan,https://en.wikipedia.org/wiki/South_Sudan,curated_title
+SSD,2013,the civil war,South Sudan,South Sudanese Civil War,https://en.wikipedia.org/wiki/South_Sudanese_Civil_War,curated_title
+SSD,2018,the peace deal,South Sudan,Peace treaty,https://en.wikipedia.org/wiki/Peace_treaty,curated_title
+STP,1975,independence,Sao Tome and Principe,,,none
+STP,1990,the democratic transition,Sao Tome and Principe,Democratic transition,https://en.wikipedia.org/wiki/Democratic_transition,curated_title
+SUR,1975,independence,Suriname,History of Suriname,https://en.wikipedia.org/wiki/History_of_Suriname,curated_title
+SUR,1980,the military coup,Suriname,1980 Surinamese coup d'état,https://en.wikipedia.org/wiki/1980_Surinamese_coup_d%27%C3%A9tat,curated_title
+SUR,1982,the December murders,Suriname,December murders,https://en.wikipedia.org/wiki/December_murders,curated_title
+SVK,1968,the Prague Spring,Slovakia,Prague Spring,https://en.wikipedia.org/wiki/Prague_Spring,curated_title
+SVK,1993,independence,Slovakia,Slovak National Council's Declaration of Independence of the Slovak Nation,https://en.wikipedia.org/wiki/Slovak_National_Council%27s_Declaration_of_Independence_of_the_Slovak_Nation,resolved
+SVK,2004,joining the EU,Slovakia,Accession of Albania to the European Union,https://en.wikipedia.org/wiki/Accession_of_Albania_to_the_European_Union,curated_title
+SVN,1991,independence,Slovenia,Slovenia,https://en.wikipedia.org/wiki/Slovenia,curated_title
+SVN,2004,joining the EU,Slovenia,2013 enlargement of the European Union,https://en.wikipedia.org/wiki/2013_enlargement_of_the_European_Union,curated_title
+SVN,2007,adopting the euro,Slovenia,Adoption of the euro in Slovenia,https://en.wikipedia.org/wiki/Adoption_of_the_euro_in_Slovenia,curated_title
+SWE,1905,the peaceful split with Norway,Sweden,,,none
+SWE,1986,the assassination of Olof Palme,Sweden,Assassination of Olof Palme,https://en.wikipedia.org/wiki/Assassination_of_Olof_Palme,curated_title
+SWE,1995,joining the EU,Sweden,Sweden and the euro,https://en.wikipedia.org/wiki/Sweden_and_the_euro,curated_title
+SWE,2003,the murder of Anna Lindh,Sweden,Anna Lindh,https://en.wikipedia.org/wiki/Anna_Lindh,curated_title
+SWZ,1968,independence,Eswatini,,,none
+SWZ,2018,the renaming to Eswatini,Eswatini,Eswatini,https://en.wikipedia.org/wiki/Eswatini,curated_title
+SYC,1976,independence,Seychelles,,,none
+SYC,1977,the coup,Seychelles,1981 Seychelles coup attempt,https://en.wikipedia.org/wiki/1981_Seychelles_coup_attempt,curated_title
+SYC,2004,the Indian Ocean tsunami,Seychelles,2004 Indian Ocean earthquake and tsunami,https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami,curated_title
+SYR,1967,the Six-Day War,Syria,Six-Day War,https://en.wikipedia.org/wiki/Six-Day_War,curated_title
+SYR,2011,the Syrian civil war,Syria,Syrian civil war,https://en.wikipedia.org/wiki/Syrian_civil_war,curated_title
+SYR,2024,the fall of the Assad regime,Syria,Fall of the Assad regime,https://en.wikipedia.org/wiki/Fall_of_the_Assad_regime,curated_title
+TCD,1960,independence,Chad,History of Chad,https://en.wikipedia.org/wiki/History_of_Chad,curated_title
+TCD,1990,Déby's rise to power,Chad,,,none
+TCD,2021,the death of Déby and transition,Chad,,,none
+TGO,1960,independence,Togo,History of Togo,https://en.wikipedia.org/wiki/History_of_Togo,curated_title
+TGO,1963,the first coup in independent Africa,Togo,,,none
+TGO,2005,the succession crisis,Togo,Succession crisis,https://en.wikipedia.org/wiki/Succession_crisis,curated_title
+THA,1997,the Asian financial crisis,Thailand,1997 Asian financial crisis,https://en.wikipedia.org/wiki/1997_Asian_financial_crisis,curated_title
+THA,2004,the Indian Ocean tsunami,Thailand,2004 Indian Ocean earthquake and tsunami,https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami,curated_title
+THA,2014,the military coup,Thailand,,,none
+TJK,1991,independence,Tajikistan,History of Tajikistan,https://en.wikipedia.org/wiki/History_of_Tajikistan,curated_title
+TJK,1992,the civil war,Tajikistan,Tajikistani Civil War,https://en.wikipedia.org/wiki/Tajikistani_Civil_War,curated_title
+TJK,1997,the peace agreement,Tajikistan,Peace treaty,https://en.wikipedia.org/wiki/Peace_treaty,curated_title
+TKM,1991,independence,Turkmenistan,Independence Day (Turkmenistan),https://en.wikipedia.org/wiki/Independence_Day_(Turkmenistan),curated_title
+TKM,2006,the end of the Niyazov era,Turkmenistan,,,none
+TLS,1999,the independence referendum,Timor-Leste,Timor-Leste independence,https://en.wikipedia.org/wiki/Timor-Leste_independence,curated_title
+TLS,2002,independence,Timor-Leste,Timor-Leste independence,https://en.wikipedia.org/wiki/Timor-Leste_independence,curated_title
+TLS,2006,the crisis,Timor-Leste,2006 crisis in Timor-Leste,https://en.wikipedia.org/wiki/2006_crisis_in_Timor-Leste,curated_title
+TON,1970,independence,Tonga,,,none
+TON,2006,the Nukuʻalofa riots,Tonga,2006 Nukuʻalofa riots,https://en.wikipedia.org/wiki/2006_Nuku%CA%BBalofa_riots,curated_title
+TON,2010,democratic reforms,Tonga,Democratization,https://en.wikipedia.org/wiki/Democratization,curated_title
+TTO,1962,independence,Trinidad and Tobago,Trinidad and Tobago Independence Act 1962,https://en.wikipedia.org/wiki/Trinidad_and_Tobago_Independence_Act_1962,curated_title
+TTO,1990,the Jamaat al Muslimeen coup attempt,Trinidad and Tobago,,,none
+TUN,1956,independence,Tunisia,Tunisian independence,https://en.wikipedia.org/wiki/Tunisian_independence,curated_title
+TUN,2011,the Jasmine Revolution,Tunisia,Tunisian revolution,https://en.wikipedia.org/wiki/Tunisian_revolution,curated_title
+TUN,2015,the Nobel Peace Prize for the National Dialogue,Tunisia,,,none
+TUR,1923,the founding of the Republic,Türkiye,,,none
+TUR,1980,the military coup,Türkiye,,,none
+TUR,1999,the İzmit earthquake,Türkiye,1999 İzmit earthquake,https://en.wikipedia.org/wiki/1999_%C4%B0zmit_earthquake,curated_title
+TUR,2023,the Kahramanmaraş earthquakes,Türkiye,2023 Turkey–Syria earthquakes,https://en.wikipedia.org/wiki/2023_Turkey%E2%80%93Syria_earthquakes,curated_title
+TWN,1947,the 228 Incident,Taiwan,February 28 incident,https://en.wikipedia.org/wiki/February_28_incident,curated_title
+TWN,1996,Taiwan's first direct presidential election,Taiwan,2024 Taiwanese presidential election,https://en.wikipedia.org/wiki/2024_Taiwanese_presidential_election,curated_title
+TWN,2000,the first peaceful transfer of power,Taiwan,,,none
+TWN,2014,the Sunflower Movement,Taiwan,Sunflower Student Movement,https://en.wikipedia.org/wiki/Sunflower_Student_Movement,curated_title
+TZA,1961,independence,Tanzania,,,none
+TZA,1964,the union with Zanzibar,Tanzania,,,none
+TZA,1979,the war against Amin's Uganda,Tanzania,Uganda–Tanzania War,https://en.wikipedia.org/wiki/Uganda%E2%80%93Tanzania_War,curated_title
+UGA,1962,independence,Uganda,History of Uganda (1963–1971),https://en.wikipedia.org/wiki/History_of_Uganda_(1963%E2%80%931971),curated_title
+UGA,1971,Idi Amin's coup,Uganda,1971 Ugandan coup d'état,https://en.wikipedia.org/wiki/1971_Ugandan_coup_d%27%C3%A9tat,curated_title
+UGA,1986,the rise of Museveni,Uganda,Yoweri Museveni,https://en.wikipedia.org/wiki/Yoweri_Museveni,curated_title
+UKR,1932,the Holodomor famine,Ukraine,Holodomor,https://en.wikipedia.org/wiki/Holodomor,curated_title
+UKR,1986,the Chernobyl disaster,Ukraine,Chernobyl disaster,https://en.wikipedia.org/wiki/Chernobyl_disaster,curated_title
+UKR,2014,the Maidan Revolution,Ukraine,,,none
+UKR,2022,the Russian invasion,Ukraine,2022 Russian invasion of Ukraine,https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine,curated_title
+URY,1973,the start of the civic-military dictatorship,Uruguay,Civic-military dictatorship of Uruguay,https://en.wikipedia.org/wiki/Civic-military_dictatorship_of_Uruguay,curated_title
+URY,1985,the return to democracy,Uruguay,Democracy,https://en.wikipedia.org/wiki/Democracy,curated_title
+URY,2013,legalizing marijuana,Uruguay,Legality of cannabis,https://en.wikipedia.org/wiki/Legality_of_cannabis,curated_title
+USA,1941,the attack on Pearl Harbor,United States,Attack on Pearl Harbor,https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor,curated_title
+USA,1963,the JFK assassination,United States,Assassination of John F. Kennedy,https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy,curated_title
+USA,2001,the 9/11 attacks,United States,September 11 attacks,https://en.wikipedia.org/wiki/September_11_attacks,curated_title
+USA,2008,the election of the first Black president,United States,Vice President of the United States,https://en.wikipedia.org/wiki/Vice_President_of_the_United_States,curated_title
+UZB,1991,independence from the USSR,Uzbekistan,,,none
+UZB,2005,the Andijan events,Uzbekistan,Andijan,https://en.wikipedia.org/wiki/Andijan,curated_title
+UZB,2016,the start of reforms under Mirziyoyev,Uzbekistan,,,none
+VCT,1979,independence,Saint Vincent and the Grenadines,History of Saint Vincent and the Grenadines,https://en.wikipedia.org/wiki/History_of_Saint_Vincent_and_the_Grenadines,curated_title
+VCT,2021,the La Soufrière eruption,Saint Vincent and the Grenadines,2021 eruption of La Soufrière,https://en.wikipedia.org/wiki/2021_eruption_of_La_Soufri%C3%A8re,curated_title
+VEN,1989,the Caracazo,Venezuela,,,none
+VEN,1999,the start of the Chávez era,Venezuela,,,none
+VEN,2014,the economic crisis and exodus,Venezuela,,,none
+VIR,1917,the US purchase from Denmark,"Virgin Islands, U.S.",,,none
+VIR,2017,Hurricanes Irma and Maria,"Virgin Islands, U.S.",,,none
+VNM,1945,the declaration of independence,Vietnam,Declaration of independence of the Democratic Republic of Vietnam,https://en.wikipedia.org/wiki/Declaration_of_independence_of_the_Democratic_Republic_of_Vietnam,curated_title
+VNM,1975,the fall of Saigon,Vietnam,Fall of Saigon,https://en.wikipedia.org/wiki/Fall_of_Saigon,curated_title
+VNM,1986,the Đổi Mới reforms,Vietnam,Đổi Mới,https://en.wikipedia.org/wiki/%C4%90%E1%BB%95i_M%E1%BB%9Bi,curated_title
+VUT,1980,independence,Vanuatu,Vanuatu,https://en.wikipedia.org/wiki/Vanuatu,curated_title
+VUT,2015,Cyclone Pam,Vanuatu,Cyclone Pam,https://en.wikipedia.org/wiki/Cyclone_Pam,curated_title
+WSM,1962,independence,Samoa,,,none
+WSM,2009,the tsunami,Samoa,2009 Samoa earthquake and tsunami,https://en.wikipedia.org/wiki/2009_Samoa_earthquake_and_tsunami,curated_title
+WSM,2012,switching the road side,Samoa,,,none
+YEM,1990,Yemeni unification,Yemen,Yemeni unification,https://en.wikipedia.org/wiki/Yemeni_unification,curated_title
+YEM,2011,the uprising,Yemen,Yemeni revolution,https://en.wikipedia.org/wiki/Yemeni_revolution,curated_title
+YEM,2015,the civil war,Yemen,Yemeni civil war,https://en.wikipedia.org/wiki/Yemeni_civil_war,curated_title
+ZAF,1948,the start of apartheid,South Africa,Foreign relations of South Africa during apartheid,https://en.wikipedia.org/wiki/Foreign_relations_of_South_Africa_during_apartheid,curated_title
+ZAF,1976,the Soweto uprising,South Africa,,,none
+ZAF,1994,the end of apartheid and Mandela's election,South Africa,Negotiations to end apartheid in South Africa,https://en.wikipedia.org/wiki/Negotiations_to_end_apartheid_in_South_Africa,curated_title
+ZAF,2010,the World Cup,South Africa,2010 FIFA World Cup,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup,curated
+ZMB,1964,independence,Zambia,Zambia Independence Act 1964,https://en.wikipedia.org/wiki/Zambia_Independence_Act_1964,curated_title
+ZMB,1991,the end of one-party rule,Zambia,,,none
+ZMB,2011,the first opposition election win,Zambia,,,none
+ZWE,1980,independence,Zimbabwe,,,none
+ZWE,2008,hyperinflation,Zimbabwe,Hyperinflation in Zimbabwe,https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe,curated_title
+ZWE,2017,the fall of Mugabe,Zimbabwe,Robert Mugabe,https://en.wikipedia.org/wiki/Robert_Mugabe,curated_title

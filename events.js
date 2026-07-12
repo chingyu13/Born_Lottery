@@ -1,6 +1,9 @@
 // Historical events for Born Lottery
-// EVENTS[ISO3] = [[year, "event text"], ...]  (English)
-// Line rendered as: "You might experience {text} when you're {age} years old."
+// EVENTS[ISO3] = [[year, "event text"], ...]
+// Wikipedia links live in data/event_wiki.csv (resolved by scripts/resolve_event_wiki.py)
+// and are merged into data/events.json as an optional 3rd field [year, text, "Wiki Title"].
+// Only events with a real Wikipedia page get a hyperlink.
+// Line: "You might experience {text} when you're {age} years old."
 // Ideally 1–4 events per country. GLOBAL_EVENTS is the fallback.
 
 const GLOBAL_EVENTS=[[1914,"World War I"],[1918,"the Spanish flu pandemic"],[1929,"the Great Depression"],[1939,"World War II"],[1969,"the Moon landing"],[1991,"the end of the Cold War"],[1995,"the rise of the internet"],[2008,"the global financial crisis"],[2020,"the COVID-19 pandemic"]];

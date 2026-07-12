@@ -437,6 +437,19 @@
     }
   }
 
+  function escapeHtml(s) {
+    return String(s)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;");
+  }
+  function eventWikiUrl(text, country, wiki) {
+    if (!wiki) return null;
+    if (/^https?:\/\//i.test(wiki)) return wiki;
+    return "https://en.wikipedia.org/wiki/" + encodeURIComponent(String(wiki).replace(/ /g, "_"));
+  }
+
   function pickEventBackup(iso3, year) {
     const life = 85;
     const age = (e) => e[0] - year;
@@ -478,7 +491,12 @@
         ethnicity: null,
         combo: pct(pCountry * pSex * 100),
       },
-      event: ev ? { year: ev[0], text: ev[1], age: ev[0] - year } : null,
+      event: ev ? {
+        year: ev[0],
+        text: ev[1],
+        age: ev[0] - year,
+        wiki: eventWikiUrl(ev[1], c.name, ev[2]),
+      } : null,
       assets: {
         icon: iconFile ? `assets/backup/icons/${iconFile}` : null,
         flag: c.flag ? `assets/backup/flags/${c.flag}` : null,
@@ -525,7 +543,13 @@
     if (payload.event) {
       const age = payload.event.age;
       const when = age === 0 ? "in the year you’re born" : `when you’re ${age} years old`;
-      evEl.innerHTML = `You might experience <b>${payload.event.text}</b> ${when}.`;
+      const label = escapeHtml(payload.event.text);
+      const href = payload.event.wiki || null;
+      if (href) {
+        evEl.innerHTML = `You might experience <a class="evlink" href="${href}" target="_blank" rel="noopener noreferrer"><b>${label}</b></a> ${when}.`;
+      } else {
+        evEl.innerHTML = `You might experience <b>${label}</b> ${when}.`;
+      }
     } else {
       evEl.innerHTML = `You might live a <b>peaceful life</b>.`;
     }

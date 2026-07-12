@@ -31,10 +31,11 @@ body.map-nav #mapwrap{cursor:grab}
 body.map-nav #mapwrap.panning{cursor:grabbing}
 .country{stroke:#DEE5EE;stroke-width:.45;transition:fill .1s linear}
 .micro{stroke:#DEE5EE;stroke-width:.4}
-#flashname{position:absolute;left:50%;top:4%;transform:translateX(-50%);
-  font-family:var(--f-round);font-size:clamp(16px,2.4vw,28px);font-weight:700;color:var(--navy);
-  text-shadow:0 2px 10px rgba(255,255,255,.8);pointer-events:none;white-space:nowrap;text-align:center}
-#flashname .yr{font-family:var(--f-body);color:var(--mute);font-weight:700;font-size:.55em;display:block}
+#flashname{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);
+  font-family:var(--f-round);font-size:clamp(22px,3.2vw,40px);font-weight:700;color:var(--navy);
+  text-shadow:0 2px 12px rgba(255,255,255,.85);pointer-events:none;white-space:nowrap;text-align:center;
+  width:min(92vw,640px);z-index:16}
+#flashname .yr{font-family:var(--f-body);color:var(--mute);font-weight:700;font-size:.55em;display:block;margin-bottom:.15em}
 #srcline{position:fixed;left:0;right:0;bottom:0;z-index:30;
   font-size:11px;font-weight:600;line-height:1.35;
   color:rgba(255,255,255,.8);text-align:center;
@@ -128,17 +129,16 @@ body.explore #explorehint{display:block}
 #res-title{font-family:var(--f-round);text-align:center;font-size:20px;font-weight:700;color:var(--mute);margin:0 0 14px}
 .res-body{display:flex;gap:20px;align-items:flex-start}
 .avatarcol{display:flex;flex-direction:column;align-items:center;gap:8px;flex:0 0 178px}
-.avatarwrap{position:relative;width:170px;height:170px;overflow:hidden}
-.avatar-stage{position:absolute;inset:0}
+.avatarwrap{position:relative;width:170px;height:170px;overflow:visible}
+.avatar-stage{position:absolute;inset:0;overflow:hidden}
 .avatar{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:transparent;z-index:1}
 .avatar.emoji{display:flex;align-items:center;justify-content:center;font-size:84px;position:absolute;inset:0;z-index:1}
-.flagstack{position:absolute;z-index:2;left:70.32%;top:53.27%;width:20.61%;
-  aspect-ratio:160.00 / 278.00;pointer-events:none}
-.flagstack[data-pole="3x2"]{left:70.32%;top:53.27%;width:20.61%;aspect-ratio:160.00 / 278.00}
-.flagstack[data-pole="2x1"]{left:70.48%;top:53.43%;width:20.29%;aspect-ratio:210.00 / 278.00}
-.flagstack[data-pole="5x3"]{left:70.38%;top:53.33%;width:20.48%;aspect-ratio:176.67 / 278.00}
-.flagstack[data-pole="1x1"]{left:69.99%;top:52.94%;width:21.25%;aspect-ratio:110.00 / 278.00}
-.flagstack[data-pole="special"]{left:72%;top:52%;width:14%;aspect-ratio:3 / 4}
+.flagstack{position:absolute;z-index:2;left:69.77%;top:52.73%;width:21.87%;aspect-ratio:160.00 / 278;pointer-events:none}
+.flagstack[data-pole="3x2"]{left:69.77%;top:52.73%;width:21.87%;aspect-ratio:160.00 / 278}
+.flagstack[data-pole="2x1"]{left:69.94%;top:52.90%;width:21.52%;aspect-ratio:210.00 / 278}
+.flagstack[data-pole="5x3"]{left:69.84%;top:52.79%;width:21.73%;aspect-ratio:176.67 / 278}
+.flagstack[data-pole="1x1"]{left:69.42%;top:52.38%;width:22.55%;aspect-ratio:110.00 / 278}
+.flagstack[data-pole="special"]{left:71.45%;top:51.50%;width:15.00%;aspect-ratio:3 / 4}
 .flagstack[data-pole="3x2"] .flagover{left:3.12%;top:1.80%;width:93.75%;height:35.97%}
 .flagstack[data-pole="2x1"] .flagover{left:2.38%;top:1.80%;width:95.24%;height:35.97%}
 .flagstack[data-pole="5x3"] .flagover{left:2.83%;top:1.80%;width:94.34%;height:35.97%}
@@ -160,6 +160,10 @@ body.explore #explorehint{display:block}
 .srow.total .v{color:var(--red);font-size:20px}
 #eventline{margin-top:14px;font-size:13.5px;font-weight:800;color:var(--mute);text-align:center;line-height:1.5}
 #eventline b{color:var(--navy)}
+#eventline a.evlink{color:inherit;text-decoration:underline;text-decoration-color:rgba(31,59,97,.35);
+  text-underline-offset:2px;cursor:pointer}
+#eventline a.evlink:hover{color:var(--primary);text-decoration-color:var(--primary)}
+#eventline a.evlink b{color:inherit}
 .btnrow{display:flex;flex-direction:column;align-items:center;gap:8px;margin-top:14px}
 button.spin-again{font-family:var(--f-round);font-size:21px;font-weight:700;color:#fff;
   padding:11px 52px;border-radius:999px;border:3px solid #fff;cursor:pointer;
@@ -170,13 +174,26 @@ button.spin-again:hover{transform:translateY(-2px)}
 
 /* Mobile: header + buttons side-by-side; desktop keeps column from base styles */
 @media (max-width:700px){
+  /* Card centered in upper or lower half (not glued to the edge) */
   #result{left:50%;right:auto;width:min(520px,94vw);
-    transform:translate(-50%,0) scale(.96);padding:12px 14px 14px;
-    top:max(6%, env(safe-area-inset-top,0px) + 8px);bottom:auto}
-  #result.show{transform:translate(-50%,0) scale(1)}
+    top:25%;bottom:auto;
+    transform:translate(-50%,-50%) scale(.96);padding:12px 14px 14px;
+    max-height:min(46dvh, calc(50dvh - 20px));
+    overflow-y:auto}
+  #result.show{transform:translate(-50%,-50%) scale(1)}
   #result.right{left:50%;right:auto}
-  #result.top{top:max(6%, env(safe-area-inset-top,0px) + 8px);bottom:auto}
-  #result.bottom{top:auto;bottom:calc(12px + env(safe-area-inset-bottom,0px) + 32px)}
+  #result.top{
+    top:25%;
+    bottom:auto;
+    max-height:min(46dvh, calc(50dvh - env(safe-area-inset-top,0px) - 16px))}
+  #result.bottom{
+    top:72%;
+    bottom:auto;
+    max-height:min(42dvh, calc(50dvh - 52px - env(safe-area-inset-bottom,0px)))}
+
+  #flashname{font-size:clamp(26px,8vw,38px);white-space:normal;line-height:1.15}
+
+  #srcline{font-size:9px;padding:6px 12px 8px;line-height:1.3}
 
   .res-head{flex-direction:row;align-items:center;justify-content:center;gap:8px;width:100%;margin-bottom:8px}
   .badge{margin:0;font-size:9px;letter-spacing:1px;padding:3px 8px;flex:0 0 auto}
@@ -184,18 +201,18 @@ button.spin-again:hover{transform:translateY(-2px)}
 
   .res-body{flex-direction:row;align-items:flex-start;gap:10px}
   .avatarcol{flex:0 0 auto;width:128px;max-width:42%;gap:4px}
-  .avatarwrap{width:120px;height:120px;overflow:hidden}
-  .avatar-stage{transform:none}
-  /* Crop ~13% each side (zoom 1.3×, slight upward bias for face) */
-  .avatar{inset:auto;width:130%;height:130%;left:-15%;top:-12%;object-fit:contain;filter:none}
+  .avatarwrap{width:120px;height:120px;overflow:visible}
+  .avatar-stage{overflow:hidden}
+  /* Crop ~9% each side (1.20×) so flag stays within wrap */
+  .avatar{inset:auto;width:120%;height:120%;left:-10%;top:-8%;object-fit:contain;filter:none}
   .avatar.emoji{inset:0;width:100%;height:100%;left:0;top:0;font-size:56px}
-  /* Flag mapped through the same crop: left' = -15 + L*1.3, top' = -12 + T*1.3, w' = W*1.3 */
+  /* Flag through crop: left'=-10+L*1.20, top'=-8+T*1.20, w'=W*1.20 */
   .flagstack,
-  .flagstack[data-pole="3x2"]{left:76.4%;top:57.3%;width:26.8%;aspect-ratio:160 / 278}
-  .flagstack[data-pole="2x1"]{left:76.6%;top:57.5%;width:26.4%;aspect-ratio:210 / 278}
-  .flagstack[data-pole="5x3"]{left:76.5%;top:57.3%;width:26.6%;aspect-ratio:176.67 / 278}
-  .flagstack[data-pole="1x1"]{left:76.0%;top:56.8%;width:27.6%;aspect-ratio:110 / 278}
-  .flagstack[data-pole="special"]{left:78.6%;top:55.6%;width:18.2%;aspect-ratio:3 / 4}
+  .flagstack[data-pole="3x2"]{left:73.7%;top:55.3%;width:26.2%;aspect-ratio:160 / 278}
+  .flagstack[data-pole="2x1"]{left:73.9%;top:55.5%;width:25.8%;aspect-ratio:210 / 278}
+  .flagstack[data-pole="5x3"]{left:73.8%;top:55.4%;width:26.1%;aspect-ratio:176.67 / 278}
+  .flagstack[data-pole="1x1"]{left:73.3%;top:54.9%;width:27.1%;aspect-ratio:110 / 278}
+  .flagstack[data-pole="special"]{left:75.7%;top:53.8%;width:18.0%;aspect-ratio:3 / 4}
   .cityline{font-size:11px;line-height:1.25;text-align:center}
 
   .statcol{flex:1;min-width:0;padding-top:0}
@@ -262,10 +279,10 @@ button.spin-again:hover{transform:translateY(-2px)}
         <div class="avatarwrap">
           <div class="avatar-stage">
             <img class="avatar" id="avatar" alt="">
-            <div class="flagstack" id="flagstack">
-              <img class="flagover" id="flagover" alt="">
-              <img class="flagpole" id="flagpole" alt="">
-            </div>
+          </div>
+          <div class="flagstack" id="flagstack">
+            <img class="flagover" id="flagover" alt="">
+            <img class="flagpole" id="flagpole" alt="">
           </div>
         </div>
         <div class="cityline" id="cityline"></div>

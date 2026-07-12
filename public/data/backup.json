@@ -148,19 +148,23 @@
       "events": [
         [
           1947,
-          "Independence and Partition"
+          "Independence and Partition",
+          "Jinnah: India, Partition, Independence"
         ],
         [
           1975,
-          "the Emergency"
+          "the Emergency",
+          "The Emergency (India)"
         ],
         [
           1991,
-          "economic liberalization"
+          "economic liberalization",
+          "Economic liberalisation in India"
         ],
         [
           2004,
-          "the Indian Ocean tsunami"
+          "the Indian Ocean tsunami",
+          "2004 Indian Ocean earthquake and tsunami"
         ]
       ]
     },
@@ -309,15 +313,18 @@
       "events": [
         [
           1937,
-          "the Japanese invasion"
+          "the Japanese invasion",
+          "Japanese invasion of French Indochina"
         ],
         [
           1959,
-          "the Great Famine"
+          "the Great Famine",
+          "Great Famine"
         ],
         [
           1978,
-          "the Reform and Opening-up"
+          "the Reform and Opening-up",
+          "Reform and opening up"
         ],
         [
           2008,
@@ -466,23 +473,27 @@
         ]
       },
       "flag": "Nigeria__ng.webp",
-      "pole": "2x1",
+      "pole": "3x2",
       "events": [
         [
           1960,
-          "independence"
+          "independence",
+          "Independence Day (Nigeria)"
         ],
         [
           1967,
-          "the Biafran War"
+          "the Biafran War",
+          "Nigerian Civil War"
         ],
         [
           1999,
-          "the return to democracy"
+          "the return to democracy",
+          "Democracy Day"
         ],
         [
           2014,
-          "the Chibok kidnappings"
+          "the Chibok kidnappings",
+          "Chibok schoolgirls kidnapping"
         ]
       ]
     },
@@ -635,15 +646,18 @@
         ],
         [
           1971,
-          "the Bangladesh war"
+          "the Bangladesh war",
+          "Bangladesh Liberation War"
         ],
         [
           2010,
-          "the great floods"
+          "the great floods",
+          "Flood myth"
         ],
         [
           2022,
-          "the mega floods"
+          "the mega floods",
+          "2010 Pakistan floods"
         ]
       ]
     },
@@ -792,15 +806,18 @@
       "events": [
         [
           1945,
-          "Indonesian independence"
+          "Indonesian independence",
+          "Proclamation of Indonesian Independence"
         ],
         [
           1998,
-          "the Reformasi"
+          "the Reformasi",
+          "Reform era in Indonesia"
         ],
         [
           2004,
-          "the Indian Ocean tsunami"
+          "the Indian Ocean tsunami",
+          "2004 Indian Ocean earthquake and tsunami"
         ]
       ]
     },
@@ -953,11 +970,13 @@
         ],
         [
           1997,
-          "the fall of Mobutu"
+          "the fall of Mobutu",
+          "Mobutu Sese Seko"
         ],
         [
           1998,
-          "the Great African War"
+          "the Great African War",
+          "Second Congo War"
         ]
       ]
     },
@@ -1102,23 +1121,27 @@
         ]
       },
       "flag": "Ethiopia__et.webp",
-      "pole": "5x3",
+      "pole": "3x2",
       "events": [
         [
           1935,
-          "the Italian invasion"
+          "the Italian invasion",
+          "De Bono's invasion of Ethiopia"
         ],
         [
           1974,
-          "the revolution"
+          "the revolution",
+          "Ethiopian Revolution"
         ],
         [
           1984,
-          "the great famine"
+          "the great famine",
+          "Great Famine"
         ],
         [
           2020,
-          "the Tigray war"
+          "the Tigray war",
+          "Tigray war"
         ]
       ]
     },
@@ -1261,23 +1284,27 @@
         "f": []
       },
       "flag": "United_States__us.webp",
-      "pole": "2x1",
+      "pole": "3x2",
       "events": [
         [
           1941,
-          "the attack on Pearl Harbor"
+          "the attack on Pearl Harbor",
+          "Attack on Pearl Harbor"
         ],
         [
           1963,
-          "the JFK assassination"
+          "the JFK assassination",
+          "Assassination of John F. Kennedy"
         ],
         [
           2001,
-          "the 9/11 attacks"
+          "the 9/11 attacks",
+          "September 11 attacks"
         ],
         [
           2008,
-          "the election of the first Black president"
+          "the election of the first Black president",
+          "Vice President of the United States"
         ]
       ]
     },
@@ -1422,23 +1449,27 @@
         ]
       },
       "flag": "Bangladesh__bd.webp",
-      "pole": "5x3",
+      "pole": "3x2",
       "events": [
         [
           1970,
-          "the Bhola cyclone"
+          "the Bhola cyclone",
+          "1970 Bhola cyclone"
         ],
         [
           1971,
-          "the Liberation War"
+          "the Liberation War",
+          "War of independence"
         ],
         [
           1998,
-          "the great flood"
+          "the great flood",
+          "Flood myth"
         ],
         [
           2024,
-          "the July Revolution"
+          "the July Revolution",
+          "Second Revolution (Bangladesh)"
         ]
       ]
     },
@@ -1587,19 +1618,23 @@
       "events": [
         [
           1958,
-          "Brazil's first World Cup win"
+          "Brazil's first World Cup win",
+          "Uruguay v Brazil (1950 FIFA World Cup)"
         ],
         [
           1964,
-          "the military coup"
+          "the military coup",
+          "1964 Brazilian coup d'état"
         ],
         [
           1985,
-          "the return to democracy"
+          "the return to democracy",
+          "Brazilian Social Democracy Party"
         ],
         [
           2016,
-          "the Rio Olympics"
+          "the Rio Olympics",
+          "2016 Summer Olympics"
         ]
       ]
     }
@@ -1607,39 +1642,48 @@
   "global_events": [
     [
       1914,
+      "World War I",
       "World War I"
     ],
     [
       1918,
-      "the Spanish flu pandemic"
+      "the Spanish flu pandemic",
+      "Spanish flu"
     ],
     [
       1929,
-      "the Great Depression"
+      "the Great Depression",
+      "Great Depression"
     ],
     [
       1939,
+      "World War II",
       "World War II"
     ],
     [
       1969,
-      "the Moon landing"
+      "the Moon landing",
+      "Moon landing"
     ],
     [
       1991,
-      "the end of the Cold War"
+      "the end of the Cold War",
+      "Cold War (1985–1991)"
     ],
     [
       1995,
-      "the rise of the internet"
+      "the rise of the internet",
+      "History of the Internet"
     ],
     [
       2008,
-      "the global financial crisis"
+      "the global financial crisis",
+      "2008 financial crisis"
     ],
     [
       2020,
-      "the COVID-19 pandemic"
+      "the COVID-19 pandemic",
+      "COVID-19 pandemic"
     ]
   ],
   "sexr_default": 105.0,

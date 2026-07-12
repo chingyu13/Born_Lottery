@@ -8,6 +8,9 @@ venv/
 .env.*
 !.env.example
 
+# Resolve logs
+data/wiki_resolve*.log
+
 # Build tooling
 scripts/__pycache__/
 

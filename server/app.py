@@ -18,7 +18,7 @@ import random
 import re
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
-from urllib.parse import parse_qs, unquote, urlparse
+from urllib.parse import parse_qs, quote, unquote, urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 PUBLIC = ROOT / "public"
@@ -194,6 +194,15 @@ def pick_event(iso3: str, year: int):
     return random.choice(chosen)
 
 
+def event_wiki_url(text: str, country: str | None = None, wiki: str | None = None) -> str | None:
+    """Wikipedia link only when a known article title/URL is provided."""
+    if not wiki:
+        return None
+    if wiki.startswith("http://") or wiki.startswith("https://"):
+        return wiki
+    return "https://en.wikipedia.org/wiki/" + quote(wiki.replace(" ", "_"), safe="()_")
+
+
 def pct(x: float) -> str:
     if x >= 0.1:
         return f"{x:.1f}%"
@@ -235,12 +244,22 @@ def build_spin(year: int):
     flag_file = FLAGS.get(i2)
     pole_key = POLES.get(i2, "3x2")
     ev = pick_event(iso3, year)
+    name = NAMES[iso3][0]
+    event_payload = None
+    if ev:
+        wiki_hint = ev[2] if len(ev) > 2 else None
+        event_payload = {
+            "year": ev[0],
+            "text": ev[1],
+            "age": ev[0] - year,
+            "wiki": event_wiki_url(ev[1], name, wiki_hint),
+        }
 
     return {
         "mode": "full",
         "year": year,
         "iso3": iso3,
-        "name": NAMES[iso3][0],
+        "name": name,
         "iso2": i2,
         "male": male,
         "sex_label": "Male" if male else "Female",
@@ -252,7 +271,7 @@ def build_spin(year: int):
             "ethnicity": pct(eth_p * 100),
             "combo": pct(country_p * sex_p * eth_p * 100),
         },
-        "event": {"year": ev[0], "text": ev[1], "age": ev[0] - year} if ev else None,
+        "event": event_payload,
         "assets": {
             "icon": icon_url,
             "flag": flag_url_for(flag_file),
