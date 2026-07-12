@@ -1,0 +1,2916 @@
+{
+  "micro": {
+    "ABW": [
+      -70,
+      12.5
+    ],
+    "ATG": [
+      -61.8,
+      17.1
+    ],
+    "BHR": [
+      50.55,
+      26.05
+    ],
+    "BRB": [
+      -59.5,
+      13.2
+    ],
+    "COM": [
+      43.3,
+      -11.7
+    ],
+    "CPV": [
+      -23.6,
+      15.1
+    ],
+    "FSM": [
+      158.2,
+      6.9
+    ],
+    "GLP": [
+      -61.55,
+      16.25
+    ],
+    "GRD": [
+      -61.7,
+      12.1
+    ],
+    "GUM": [
+      144.8,
+      13.45
+    ],
+    "HKG": [
+      114.15,
+      22.3
+    ],
+    "KIR": [
+      173,
+      1.4
+    ],
+    "LCA": [
+      -61,
+      13.9
+    ],
+    "MAC": [
+      113.55,
+      22.2
+    ],
+    "MDV": [
+      73.5,
+      4.2
+    ],
+    "MTQ": [
+      -61,
+      14.65
+    ],
+    "MUS": [
+      57.5,
+      -20.3
+    ],
+    "MYT": [
+      45.15,
+      -12.8
+    ],
+    "PYF": [
+      -149.5,
+      -17.5
+    ],
+    "REU": [
+      55.5,
+      -21.1
+    ],
+    "SGP": [
+      103.85,
+      1.35
+    ],
+    "STP": [
+      6.7,
+      0.3
+    ],
+    "SYC": [
+      55.45,
+      -4.6
+    ],
+    "TON": [
+      -175.2,
+      -21.2
+    ],
+    "VCT": [
+      -61.2,
+      13.25
+    ],
+    "VIR": [
+      -64.8,
+      18.3
+    ],
+    "WSM": [
+      -172.1,
+      -13.8
+    ]
+  },
+  "sexr": {
+    "CHN": {
+      "1900": 107,
+      "1970": 106,
+      "1982": 107,
+      "1990": 111,
+      "2000": 117,
+      "2008": 118,
+      "2015": 114,
+      "2020": 111,
+      "2026": 109
+    },
+    "IND": {
+      "1900": 105,
+      "1970": 106,
+      "1990": 108,
+      "2000": 110,
+      "2011": 110,
+      "2020": 108,
+      "2026": 107
+    },
+    "VNM": {
+      "1900": 105,
+      "2000": 106,
+      "2010": 111,
+      "2019": 112,
+      "2026": 111
+    },
+    "KOR": {
+      "1900": 105,
+      "1980": 106,
+      "1990": 114,
+      "2000": 110,
+      "2010": 107,
+      "2015": 105,
+      "2026": 105
+    },
+    "AZE": {
+      "1900": 105,
+      "1991": 107,
+      "2000": 116,
+      "2010": 117,
+      "2020": 112,
+      "2026": 110
+    },
+    "ARM": {
+      "1900": 105,
+      "1991": 106,
+      "2000": 115,
+      "2010": 114,
+      "2020": 110,
+      "2026": 108
+    },
+    "GEO": {
+      "1900": 105,
+      "1991": 105,
+      "2000": 110,
+      "2008": 111,
+      "2016": 107,
+      "2026": 105
+    },
+    "TWN": {
+      "1900": 105,
+      "1990": 110,
+      "2000": 109,
+      "2010": 108,
+      "2026": 107
+    },
+    "PAK": {
+      "1900": 105,
+      "2000": 106,
+      "2026": 105
+    }
+  },
+  "eth": {
+    "CHN": [
+      [
+        "Han",
+        91.1
+      ],
+      [
+        "Zhuang",
+        1.3
+      ],
+      [
+        "Uyghur",
+        0.8
+      ],
+      [
+        "Hui",
+        0.8
+      ],
+      [
+        "Miao",
+        0.7
+      ],
+      [
+        "Manchu",
+        0.7
+      ],
+      [
+        "other minority",
+        4.6
+      ]
+    ],
+    "IND": [
+      [
+        "Indo-Aryan",
+        72
+      ],
+      [
+        "Dravidian",
+        25
+      ],
+      [
+        "Mongoloid & other",
+        3
+      ]
+    ],
+    "USA": [
+      [
+        "White (non-Hispanic)",
+        58
+      ],
+      [
+        "Hispanic/Latino",
+        19
+      ],
+      [
+        "Black",
+        13
+      ],
+      [
+        "Asian",
+        6
+      ],
+      [
+        "Multiracial",
+        2.7
+      ],
+      [
+        "Native American",
+        1.3
+      ]
+    ],
+    "IDN": [
+      [
+        "Javanese",
+        40.1
+      ],
+      [
+        "Sundanese",
+        15.5
+      ],
+      [
+        "Malay",
+        3.7
+      ],
+      [
+        "Batak",
+        3.6
+      ],
+      [
+        "Madurese",
+        3
+      ],
+      [
+        "Betawi",
+        2.9
+      ],
+      [
+        "other",
+        31.2
+      ]
+    ],
+    "PAK": [
+      [
+        "Punjabi",
+        44.7
+      ],
+      [
+        "Pashtun",
+        15.4
+      ],
+      [
+        "Sindhi",
+        14.1
+      ],
+      [
+        "Saraiki",
+        8.4
+      ],
+      [
+        "Muhajir",
+        7.6
+      ],
+      [
+        "Baloch",
+        3.6
+      ],
+      [
+        "other",
+        6.2
+      ]
+    ],
+    "BRA": [
+      [
+        "Mixed (Pardo)",
+        45.3
+      ],
+      [
+        "White",
+        43.5
+      ],
+      [
+        "Black",
+        10.2
+      ],
+      [
+        "Asian",
+        0.4
+      ],
+      [
+        "Indigenous",
+        0.6
+      ]
+    ],
+    "NGA": [
+      [
+        "Hausa",
+        30
+      ],
+      [
+        "Yoruba",
+        15.5
+      ],
+      [
+        "Igbo",
+        15.2
+      ],
+      [
+        "Fulani",
+        6
+      ],
+      [
+        "Tiv",
+        2.4
+      ],
+      [
+        "Kanuri",
+        2.4
+      ],
+      [
+        "Ibibio",
+        1.8
+      ],
+      [
+        "Ijaw",
+        1.8
+      ],
+      [
+        "other",
+        24.9
+      ]
+    ],
+    "BGD": [
+      [
+        "Bengali",
+        98
+      ],
+      [
+        "other",
+        2
+      ]
+    ],
+    "RUS": [
+      [
+        "Russian",
+        77.7
+      ],
+      [
+        "Tatar",
+        3.7
+      ],
+      [
+        "Ukrainian",
+        1.4
+      ],
+      [
+        "Bashkir",
+        1.1
+      ],
+      [
+        "Chuvash",
+        1
+      ],
+      [
+        "Chechen",
+        1
+      ],
+      [
+        "other",
+        14.1
+      ]
+    ],
+    "MEX": [
+      [
+        "Mestizo",
+        62
+      ],
+      [
+        "Indigenous",
+        21
+      ],
+      [
+        "White (European)",
+        10
+      ],
+      [
+        "other",
+        7
+      ]
+    ],
+    "JPN": [
+      [
+        "Japanese",
+        97.5
+      ],
+      [
+        "Chinese",
+        0.6
+      ],
+      [
+        "Korean",
+        0.4
+      ],
+      [
+        "other",
+        1.5
+      ]
+    ],
+    "ETH": [
+      [
+        "Oromo",
+        35.8
+      ],
+      [
+        "Amhara",
+        24.1
+      ],
+      [
+        "Somali",
+        7.2
+      ],
+      [
+        "Tigray",
+        5.7
+      ],
+      [
+        "Sidama",
+        4.1
+      ],
+      [
+        "other",
+        23.1
+      ]
+    ],
+    "PHL": [
+      [
+        "Tagalog",
+        26
+      ],
+      [
+        "Bisaya/Cebuano",
+        14.3
+      ],
+      [
+        "Ilocano",
+        8
+      ],
+      [
+        "Bicol",
+        6.5
+      ],
+      [
+        "Waray",
+        3.8
+      ],
+      [
+        "other",
+        41.4
+      ]
+    ],
+    "EGY": [
+      [
+        "Egyptian",
+        99.7
+      ],
+      [
+        "other",
+        0.3
+      ]
+    ],
+    "VNM": [
+      [
+        "Kinh (Viet)",
+        85.3
+      ],
+      [
+        "Tay",
+        1.9
+      ],
+      [
+        "Thai",
+        1.9
+      ],
+      [
+        "Muong",
+        1.5
+      ],
+      [
+        "Khmer",
+        1.4
+      ],
+      [
+        "other",
+        8
+      ]
+    ],
+    "COD": [
+      [
+        "Luba",
+        18
+      ],
+      [
+        "Kongo",
+        16
+      ],
+      [
+        "Mongo",
+        13
+      ],
+      [
+        "Mangbetu-Azande",
+        17
+      ],
+      [
+        "other",
+        36
+      ]
+    ],
+    "TUR": [
+      [
+        "Turkish",
+        73
+      ],
+      [
+        "Kurdish",
+        19
+      ],
+      [
+        "other",
+        8
+      ]
+    ],
+    "IRN": [
+      [
+        "Persian",
+        61
+      ],
+      [
+        "Azeri",
+        16
+      ],
+      [
+        "Kurd",
+        10
+      ],
+      [
+        "Lur",
+        6
+      ],
+      [
+        "Baloch",
+        2
+      ],
+      [
+        "Arab",
+        2
+      ],
+      [
+        "other",
+        3
+      ]
+    ],
+    "DEU": [
+      [
+        "German",
+        86
+      ],
+      [
+        "Turkish",
+        1.8
+      ],
+      [
+        "Polish",
+        1
+      ],
+      [
+        "Syrian",
+        1
+      ],
+      [
+        "other",
+        10.2
+      ]
+    ],
+    "THA": [
+      [
+        "Thai",
+        97.5
+      ],
+      [
+        "Burmese",
+        1.3
+      ],
+      [
+        "other",
+        1.2
+      ]
+    ],
+    "GBR": [
+      [
+        "White",
+        87
+      ],
+      [
+        "Asian British",
+        7
+      ],
+      [
+        "Black British",
+        3
+      ],
+      [
+        "Mixed",
+        2
+      ],
+      [
+        "other",
+        1
+      ]
+    ],
+    "FRA": [
+      [
+        "European",
+        85
+      ],
+      [
+        "North African",
+        7
+      ],
+      [
+        "Sub-Saharan African",
+        3
+      ],
+      [
+        "other",
+        5
+      ]
+    ],
+    "ITA": [
+      [
+        "Italian",
+        95
+      ],
+      [
+        "other",
+        5
+      ]
+    ],
+    "TZA": [
+      [
+        "Sukuma",
+        16
+      ],
+      [
+        "Nyamwezi",
+        4
+      ],
+      [
+        "Chagga",
+        3
+      ],
+      [
+        "Haya",
+        3
+      ],
+      [
+        "other African",
+        73
+      ],
+      [
+        "other",
+        1
+      ]
+    ],
+    "ZAF": [
+      [
+        "Black African",
+        81
+      ],
+      [
+        "Coloured",
+        8.8
+      ],
+      [
+        "White",
+        7.7
+      ],
+      [
+        "Indian/Asian",
+        2.6
+      ]
+    ],
+    "MMR": [
+      [
+        "Bamar",
+        68
+      ],
+      [
+        "Shan",
+        9
+      ],
+      [
+        "Karen",
+        7
+      ],
+      [
+        "Rakhine",
+        4
+      ],
+      [
+        "Chinese",
+        3
+      ],
+      [
+        "other",
+        9
+      ]
+    ],
+    "KEN": [
+      [
+        "Kikuyu",
+        17
+      ],
+      [
+        "Luhya",
+        14
+      ],
+      [
+        "Kalenjin",
+        13
+      ],
+      [
+        "Luo",
+        10
+      ],
+      [
+        "Kamba",
+        10
+      ],
+      [
+        "other",
+        36
+      ]
+    ],
+    "KOR": [
+      [
+        "Korean",
+        99.9
+      ],
+      [
+        "other",
+        0.1
+      ]
+    ],
+    "PRK": [
+      [
+        "Korean",
+        99.9
+      ],
+      [
+        "other",
+        0.1
+      ]
+    ],
+    "COL": [
+      [
+        "Mestizo & White",
+        87.6
+      ],
+      [
+        "Afro-Colombian",
+        6.8
+      ],
+      [
+        "Indigenous",
+        4.3
+      ],
+      [
+        "other",
+        1.3
+      ]
+    ],
+    "ESP": [
+      [
+        "Spanish",
+        86
+      ],
+      [
+        "other",
+        14
+      ]
+    ],
+    "ARG": [
+      [
+        "European & Mestizo",
+        97.2
+      ],
+      [
+        "Indigenous",
+        2.4
+      ],
+      [
+        "African",
+        0.4
+      ]
+    ],
+    "DZA": [
+      [
+        "Arab-Berber",
+        99
+      ],
+      [
+        "other",
+        1
+      ]
+    ],
+    "SDN": [
+      [
+        "Sudanese Arab",
+        70
+      ],
+      [
+        "Fur, Beja, Nuba & other",
+        30
+      ]
+    ],
+    "UGA": [
+      [
+        "Baganda",
+        16.5
+      ],
+      [
+        "Banyankole",
+        9.6
+      ],
+      [
+        "Basoga",
+        8.8
+      ],
+      [
+        "Bakiga",
+        7.1
+      ],
+      [
+        "other",
+        58
+      ]
+    ],
+    "IRQ": [
+      [
+        "Arab",
+        75
+      ],
+      [
+        "Kurdish",
+        17
+      ],
+      [
+        "other",
+        8
+      ]
+    ],
+    "POL": [
+      [
+        "Polish",
+        97
+      ],
+      [
+        "other",
+        3
+      ]
+    ],
+    "CAN": [
+      [
+        "European",
+        70
+      ],
+      [
+        "Asian",
+        17.7
+      ],
+      [
+        "Indigenous",
+        4.9
+      ],
+      [
+        "Black",
+        3.5
+      ],
+      [
+        "other",
+        3.9
+      ]
+    ],
+    "MAR": [
+      [
+        "Arab-Berber",
+        99
+      ],
+      [
+        "other",
+        1
+      ]
+    ],
+    "AFG": [
+      [
+        "Pashtun",
+        42
+      ],
+      [
+        "Tajik",
+        27
+      ],
+      [
+        "Hazara",
+        9
+      ],
+      [
+        "Uzbek",
+        9
+      ],
+      [
+        "other",
+        13
+      ]
+    ],
+    "SAU": [
+      [
+        "Arab",
+        90
+      ],
+      [
+        "Afro-Asian",
+        10
+      ]
+    ],
+    "UKR": [
+      [
+        "Ukrainian",
+        77.8
+      ],
+      [
+        "Russian",
+        17.3
+      ],
+      [
+        "other",
+        4.9
+      ]
+    ],
+    "UZB": [
+      [
+        "Uzbek",
+        83.8
+      ],
+      [
+        "Tajik",
+        4.8
+      ],
+      [
+        "Kazakh",
+        2.5
+      ],
+      [
+        "Russian",
+        2.3
+      ],
+      [
+        "other",
+        6.6
+      ]
+    ],
+    "MYS": [
+      [
+        "Bumiputera (Malay & Indigenous)",
+        62
+      ],
+      [
+        "Chinese",
+        20.6
+      ],
+      [
+        "Indian",
+        6.2
+      ],
+      [
+        "other",
+        11.2
+      ]
+    ],
+    "NPL": [
+      [
+        "Chhetri",
+        16.6
+      ],
+      [
+        "Brahman",
+        12.2
+      ],
+      [
+        "Magar",
+        7.1
+      ],
+      [
+        "Tharu",
+        6.6
+      ],
+      [
+        "Tamang",
+        5.8
+      ],
+      [
+        "Newar",
+        5
+      ],
+      [
+        "other",
+        46.7
+      ]
+    ],
+    "YEM": [
+      [
+        "Arab",
+        92.8
+      ],
+      [
+        "Afro-Arab & other",
+        7.2
+      ]
+    ],
+    "GHA": [
+      [
+        "Akan",
+        45.7
+      ],
+      [
+        "Mole-Dagbani",
+        18.5
+      ],
+      [
+        "Ewe",
+        12.8
+      ],
+      [
+        "Ga-Dangme",
+        7.1
+      ],
+      [
+        "other",
+        15.9
+      ]
+    ],
+    "MOZ": [
+      [
+        "Makhuwa",
+        26
+      ],
+      [
+        "Tsonga",
+        8.5
+      ],
+      [
+        "Sena",
+        8
+      ],
+      [
+        "Lomwe",
+        7
+      ],
+      [
+        "other",
+        50.5
+      ]
+    ],
+    "PER": [
+      [
+        "Mestizo",
+        60.2
+      ],
+      [
+        "Quechua",
+        22.3
+      ],
+      [
+        "White",
+        5.9
+      ],
+      [
+        "Aymara",
+        2.4
+      ],
+      [
+        "other",
+        9.2
+      ]
+    ],
+    "VEN": [
+      [
+        "Mestizo",
+        51.6
+      ],
+      [
+        "White",
+        43.6
+      ],
+      [
+        "Black",
+        3.6
+      ],
+      [
+        "Indigenous",
+        1.2
+      ]
+    ],
+    "LKA": [
+      [
+        "Sinhalese",
+        74.9
+      ],
+      [
+        "Sri Lankan Tamil",
+        11.2
+      ],
+      [
+        "Moor",
+        9.2
+      ],
+      [
+        "Indian Tamil",
+        4.2
+      ],
+      [
+        "other",
+        0.5
+      ]
+    ],
+    "KHM": [
+      [
+        "Khmer",
+        95.4
+      ],
+      [
+        "Cham",
+        2.4
+      ],
+      [
+        "Chinese",
+        1.5
+      ],
+      [
+        "other",
+        0.7
+      ]
+    ],
+    "MDG": [
+      [
+        "Merina",
+        26
+      ],
+      [
+        "Betsimisaraka",
+        15
+      ],
+      [
+        "Betsileo",
+        12
+      ],
+      [
+        "other Malagasy",
+        47
+      ]
+    ],
+    "CIV": [
+      [
+        "Akan",
+        38
+      ],
+      [
+        "Voltaique/Gur",
+        22
+      ],
+      [
+        "Northern Mande",
+        22
+      ],
+      [
+        "Kru",
+        9
+      ],
+      [
+        "other",
+        9
+      ]
+    ],
+    "CMR": [
+      [
+        "Bamileke-Bamu",
+        24.3
+      ],
+      [
+        "Beti/Bassa",
+        21.6
+      ],
+      [
+        "Kirdi",
+        11
+      ],
+      [
+        "Fulani",
+        10
+      ],
+      [
+        "other",
+        33.1
+      ]
+    ],
+    "NER": [
+      [
+        "Hausa",
+        53.1
+      ],
+      [
+        "Zarma/Songhai",
+        21.2
+      ],
+      [
+        "Tuareg",
+        11
+      ],
+      [
+        "Fulani",
+        6.5
+      ],
+      [
+        "other",
+        8.2
+      ]
+    ],
+    "BFA": [
+      [
+        "Mossi",
+        52
+      ],
+      [
+        "Fulani",
+        8.4
+      ],
+      [
+        "Gurma",
+        7
+      ],
+      [
+        "Bobo",
+        4.9
+      ],
+      [
+        "other",
+        27.7
+      ]
+    ],
+    "MLI": [
+      [
+        "Bambara",
+        33.3
+      ],
+      [
+        "Fulani",
+        13.3
+      ],
+      [
+        "Soninke",
+        9.8
+      ],
+      [
+        "Senufo",
+        9.6
+      ],
+      [
+        "Dogon",
+        8.7
+      ],
+      [
+        "other",
+        25.3
+      ]
+    ],
+    "MWI": [
+      [
+        "Chewa",
+        34.3
+      ],
+      [
+        "Lomwe",
+        18.8
+      ],
+      [
+        "Yao",
+        13.2
+      ],
+      [
+        "Ngoni",
+        10.4
+      ],
+      [
+        "other",
+        23.3
+      ]
+    ],
+    "ZMB": [
+      [
+        "Bemba",
+        21
+      ],
+      [
+        "Tonga",
+        13.6
+      ],
+      [
+        "Chewa",
+        7.4
+      ],
+      [
+        "Lozi",
+        5.7
+      ],
+      [
+        "other",
+        52.3
+      ]
+    ],
+    "SEN": [
+      [
+        "Wolof",
+        39.7
+      ],
+      [
+        "Pular",
+        27.5
+      ],
+      [
+        "Serer",
+        16
+      ],
+      [
+        "Mandinka",
+        4.9
+      ],
+      [
+        "other",
+        11.9
+      ]
+    ],
+    "ZWE": [
+      [
+        "Shona",
+        82
+      ],
+      [
+        "Ndebele",
+        14
+      ],
+      [
+        "other",
+        4
+      ]
+    ],
+    "GTM": [
+      [
+        "Mestizo (Ladino)",
+        56
+      ],
+      [
+        "Maya",
+        41.7
+      ],
+      [
+        "other",
+        2.3
+      ]
+    ],
+    "ECU": [
+      [
+        "Mestizo",
+        71.9
+      ],
+      [
+        "Montubio",
+        7.4
+      ],
+      [
+        "Afro-Ecuadorian",
+        7.2
+      ],
+      [
+        "Indigenous",
+        7
+      ],
+      [
+        "White",
+        6.1
+      ],
+      [
+        "other",
+        0.4
+      ]
+    ],
+    "CUB": [
+      [
+        "White",
+        64.1
+      ],
+      [
+        "Mulatto (mixed)",
+        26.6
+      ],
+      [
+        "Black",
+        9.3
+      ]
+    ],
+    "HTI": [
+      [
+        "Black",
+        95
+      ],
+      [
+        "Mixed & White",
+        5
+      ]
+    ],
+    "DOM": [
+      [
+        "Mixed",
+        70.4
+      ],
+      [
+        "Black",
+        15.8
+      ],
+      [
+        "White",
+        13.5
+      ],
+      [
+        "other",
+        0.3
+      ]
+    ],
+    "ROU": [
+      [
+        "Romanian",
+        83.4
+      ],
+      [
+        "Hungarian",
+        6.1
+      ],
+      [
+        "Roma",
+        3.1
+      ],
+      [
+        "other",
+        7.4
+      ]
+    ],
+    "NLD": [
+      [
+        "Dutch",
+        75.4
+      ],
+      [
+        "other European",
+        6.4
+      ],
+      [
+        "Turkish",
+        2.4
+      ],
+      [
+        "Moroccan",
+        2.4
+      ],
+      [
+        "Surinamese",
+        2.1
+      ],
+      [
+        "other",
+        11.3
+      ]
+    ],
+    "AUS": [
+      [
+        "European",
+        76
+      ],
+      [
+        "Asian",
+        17
+      ],
+      [
+        "Aboriginal",
+        3.2
+      ],
+      [
+        "other",
+        3.8
+      ]
+    ],
+    "KAZ": [
+      [
+        "Kazakh",
+        68
+      ],
+      [
+        "Russian",
+        19.3
+      ],
+      [
+        "Uzbek",
+        3.2
+      ],
+      [
+        "other",
+        9.5
+      ]
+    ],
+    "SYR": [
+      [
+        "Arab",
+        50
+      ],
+      [
+        "Alawite",
+        15
+      ],
+      [
+        "Kurd",
+        10
+      ],
+      [
+        "Levantine",
+        10
+      ],
+      [
+        "other",
+        15
+      ]
+    ],
+    "TCD": [
+      [
+        "Sara",
+        30.5
+      ],
+      [
+        "Kanembu",
+        9.8
+      ],
+      [
+        "Arab",
+        9.7
+      ],
+      [
+        "other",
+        50
+      ]
+    ],
+    "SOM": [
+      [
+        "Somali",
+        85
+      ],
+      [
+        "other",
+        15
+      ]
+    ],
+    "AGO": [
+      [
+        "Ovimbundu",
+        37
+      ],
+      [
+        "Kimbundu",
+        25
+      ],
+      [
+        "Bakongo",
+        13
+      ],
+      [
+        "other",
+        25
+      ]
+    ],
+    "TWN": [
+      [
+        "Han Taiwanese",
+        95
+      ],
+      [
+        "Indigenous",
+        2.4
+      ],
+      [
+        "other",
+        2.6
+      ]
+    ],
+    "HKG": [
+      [
+        "Chinese",
+        92
+      ],
+      [
+        "Filipino",
+        2.5
+      ],
+      [
+        "Indonesian",
+        2.1
+      ],
+      [
+        "other",
+        3.4
+      ]
+    ],
+    "SGP": [
+      [
+        "Chinese",
+        74.3
+      ],
+      [
+        "Malay",
+        13.5
+      ],
+      [
+        "Indian",
+        9
+      ],
+      [
+        "other",
+        3.2
+      ]
+    ]
+  },
+  "cities": {
+    "CHN": [
+      [
+        "Chongqing",
+        2.3
+      ],
+      [
+        "Shanghai",
+        1.9
+      ],
+      [
+        "Beijing",
+        1.5
+      ],
+      [
+        "Chengdu",
+        1.5
+      ],
+      [
+        "Guangzhou",
+        1.3
+      ],
+      [
+        "Shenzhen",
+        1.2
+      ],
+      [
+        "Wuhan",
+        1
+      ],
+      [
+        "Xi'an",
+        0.9
+      ]
+    ],
+    "IND": [
+      [
+        "Delhi",
+        2.3
+      ],
+      [
+        "Mumbai",
+        1.5
+      ],
+      [
+        "Kolkata",
+        1.1
+      ],
+      [
+        "Bengaluru",
+        0.9
+      ],
+      [
+        "Chennai",
+        0.8
+      ],
+      [
+        "Hyderabad",
+        0.7
+      ],
+      [
+        "Ahmedabad",
+        0.6
+      ]
+    ],
+    "USA": [
+      [
+        "New York",
+        5.7
+      ],
+      [
+        "Los Angeles",
+        3.9
+      ],
+      [
+        "Chicago",
+        2.8
+      ],
+      [
+        "Dallas",
+        2.3
+      ],
+      [
+        "Houston",
+        2.2
+      ],
+      [
+        "Miami",
+        1.8
+      ],
+      [
+        "Philadelphia",
+        1.8
+      ],
+      [
+        "Atlanta",
+        1.8
+      ]
+    ],
+    "IDN": [
+      [
+        "Jakarta",
+        4
+      ],
+      [
+        "Surabaya",
+        1.3
+      ],
+      [
+        "Bandung",
+        0.9
+      ],
+      [
+        "Medan",
+        0.9
+      ]
+    ],
+    "PAK": [
+      [
+        "Karachi",
+        7
+      ],
+      [
+        "Lahore",
+        5.5
+      ],
+      [
+        "Faisalabad",
+        1.5
+      ],
+      [
+        "Rawalpindi",
+        1
+      ]
+    ],
+    "BRA": [
+      [
+        "São Paulo",
+        10.5
+      ],
+      [
+        "Rio de Janeiro",
+        6
+      ],
+      [
+        "Belo Horizonte",
+        2.8
+      ],
+      [
+        "Brasília",
+        2.2
+      ],
+      [
+        "Salvador",
+        1.8
+      ]
+    ],
+    "NGA": [
+      [
+        "Lagos",
+        7
+      ],
+      [
+        "Kano",
+        2
+      ],
+      [
+        "Ibadan",
+        1.8
+      ],
+      [
+        "Abuja",
+        1.7
+      ],
+      [
+        "Port Harcourt",
+        1.5
+      ]
+    ],
+    "BGD": [
+      [
+        "Dhaka",
+        13
+      ],
+      [
+        "Chattogram",
+        3.2
+      ],
+      [
+        "Khulna",
+        1
+      ]
+    ],
+    "RUS": [
+      [
+        "Moscow",
+        8.7
+      ],
+      [
+        "Saint Petersburg",
+        3.8
+      ],
+      [
+        "Novosibirsk",
+        1.1
+      ],
+      [
+        "Yekaterinburg",
+        1
+      ]
+    ],
+    "MEX": [
+      [
+        "Mexico City",
+        17
+      ],
+      [
+        "Guadalajara",
+        4.2
+      ],
+      [
+        "Monterrey",
+        4.2
+      ],
+      [
+        "Puebla",
+        2.5
+      ]
+    ],
+    "JPN": [
+      [
+        "Tokyo",
+        29.6
+      ],
+      [
+        "Osaka",
+        15
+      ],
+      [
+        "Nagoya",
+        7.5
+      ],
+      [
+        "Fukuoka",
+        4.4
+      ],
+      [
+        "Sapporo",
+        2.1
+      ]
+    ],
+    "ETH": [
+      [
+        "Addis Ababa",
+        4.4
+      ],
+      [
+        "Dire Dawa",
+        0.4
+      ]
+    ],
+    "PHL": [
+      [
+        "Manila",
+        12.5
+      ],
+      [
+        "Davao",
+        1.6
+      ],
+      [
+        "Cebu",
+        0.9
+      ]
+    ],
+    "EGY": [
+      [
+        "Cairo",
+        20
+      ],
+      [
+        "Alexandria",
+        5.2
+      ],
+      [
+        "Luxor",
+        0.5
+      ]
+    ],
+    "VNM": [
+      [
+        "Ho Chi Minh City",
+        9
+      ],
+      [
+        "Hanoi",
+        8
+      ],
+      [
+        "Da Nang",
+        1.2
+      ]
+    ],
+    "COD": [
+      [
+        "Kinshasa",
+        15
+      ],
+      [
+        "Lubumbashi",
+        2.6
+      ],
+      [
+        "Mbuji-Mayi",
+        2.4
+      ]
+    ],
+    "TUR": [
+      [
+        "Istanbul",
+        18.5
+      ],
+      [
+        "Ankara",
+        6.8
+      ],
+      [
+        "Izmir",
+        5.2
+      ]
+    ],
+    "IRN": [
+      [
+        "Tehran",
+        10.5
+      ],
+      [
+        "Mashhad",
+        3.8
+      ],
+      [
+        "Isfahan",
+        2.5
+      ]
+    ],
+    "DEU": [
+      [
+        "Berlin",
+        4.4
+      ],
+      [
+        "Hamburg",
+        2.2
+      ],
+      [
+        "Munich",
+        1.8
+      ],
+      [
+        "Cologne",
+        1.3
+      ],
+      [
+        "Frankfurt",
+        0.9
+      ]
+    ],
+    "THA": [
+      [
+        "Bangkok",
+        15.5
+      ],
+      [
+        "Chiang Mai",
+        1.8
+      ],
+      [
+        "Khon Kaen",
+        0.6
+      ]
+    ],
+    "GBR": [
+      [
+        "London",
+        14
+      ],
+      [
+        "Birmingham",
+        4.4
+      ],
+      [
+        "Manchester",
+        4.2
+      ],
+      [
+        "Glasgow",
+        2.7
+      ],
+      [
+        "Leeds",
+        1.2
+      ]
+    ],
+    "FRA": [
+      [
+        "Paris",
+        19
+      ],
+      [
+        "Lyon",
+        3.5
+      ],
+      [
+        "Marseille",
+        2.7
+      ],
+      [
+        "Toulouse",
+        1.5
+      ],
+      [
+        "Lille",
+        1.5
+      ]
+    ],
+    "ITA": [
+      [
+        "Rome",
+        7.3
+      ],
+      [
+        "Milan",
+        5.5
+      ],
+      [
+        "Naples",
+        5.1
+      ],
+      [
+        "Turin",
+        2.9
+      ]
+    ],
+    "TZA": [
+      [
+        "Dar es Salaam",
+        8.5
+      ],
+      [
+        "Mwanza",
+        1.9
+      ],
+      [
+        "Dodoma",
+        0.7
+      ]
+    ],
+    "ZAF": [
+      [
+        "Johannesburg",
+        10
+      ],
+      [
+        "Cape Town",
+        8
+      ],
+      [
+        "Durban",
+        6.5
+      ],
+      [
+        "Pretoria",
+        4
+      ]
+    ],
+    "MMR": [
+      [
+        "Yangon",
+        9.7
+      ],
+      [
+        "Mandalay",
+        2.7
+      ],
+      [
+        "Naypyidaw",
+        2.2
+      ]
+    ],
+    "KEN": [
+      [
+        "Nairobi",
+        9.5
+      ],
+      [
+        "Mombasa",
+        2.5
+      ],
+      [
+        "Kisumu",
+        1
+      ]
+    ],
+    "KOR": [
+      [
+        "Seoul",
+        50
+      ],
+      [
+        "Busan",
+        6.5
+      ],
+      [
+        "Daegu",
+        4.7
+      ]
+    ],
+    "COL": [
+      [
+        "Bogotá",
+        21
+      ],
+      [
+        "Medellín",
+        8
+      ],
+      [
+        "Cali",
+        5
+      ],
+      [
+        "Barranquilla",
+        4.4
+      ]
+    ],
+    "ESP": [
+      [
+        "Madrid",
+        14
+      ],
+      [
+        "Barcelona",
+        12
+      ],
+      [
+        "Valencia",
+        3.6
+      ],
+      [
+        "Seville",
+        2.9
+      ]
+    ],
+    "ARG": [
+      [
+        "Buenos Aires",
+        33
+      ],
+      [
+        "Córdoba",
+        3.5
+      ],
+      [
+        "Rosario",
+        3
+      ]
+    ],
+    "CAN": [
+      [
+        "Toronto",
+        16.5
+      ],
+      [
+        "Montreal",
+        11.3
+      ],
+      [
+        "Vancouver",
+        7
+      ],
+      [
+        "Calgary",
+        4.1
+      ]
+    ],
+    "POL": [
+      [
+        "Warsaw",
+        8.2
+      ],
+      [
+        "Kraków",
+        2.7
+      ],
+      [
+        "Łódź",
+        1.8
+      ]
+    ],
+    "UKR": [
+      [
+        "Kyiv",
+        8
+      ],
+      [
+        "Kharkiv",
+        3.4
+      ],
+      [
+        "Odesa",
+        2.4
+      ]
+    ],
+    "SDN": [
+      [
+        "Khartoum",
+        13
+      ],
+      [
+        "Port Sudan",
+        1.2
+      ]
+    ],
+    "DZA": [
+      [
+        "Algiers",
+        7
+      ],
+      [
+        "Oran",
+        2
+      ]
+    ],
+    "MAR": [
+      [
+        "Casablanca",
+        10
+      ],
+      [
+        "Rabat",
+        5
+      ],
+      [
+        "Fez",
+        3.2
+      ],
+      [
+        "Marrakesh",
+        2.7
+      ]
+    ],
+    "IRQ": [
+      [
+        "Baghdad",
+        17
+      ],
+      [
+        "Mosul",
+        4
+      ],
+      [
+        "Basra",
+        3.3
+      ]
+    ],
+    "AFG": [
+      [
+        "Kabul",
+        11
+      ],
+      [
+        "Kandahar",
+        1.6
+      ],
+      [
+        "Herat",
+        1.5
+      ]
+    ],
+    "SAU": [
+      [
+        "Riyadh",
+        21
+      ],
+      [
+        "Jeddah",
+        13
+      ],
+      [
+        "Mecca",
+        5.9
+      ]
+    ],
+    "UZB": [
+      [
+        "Tashkent",
+        8.5
+      ],
+      [
+        "Namangan",
+        1.8
+      ],
+      [
+        "Samarkand",
+        1.6
+      ]
+    ],
+    "NPL": [
+      [
+        "Kathmandu",
+        5
+      ],
+      [
+        "Pokhara",
+        1.8
+      ]
+    ],
+    "YEM": [
+      [
+        "Sanaa",
+        9
+      ],
+      [
+        "Aden",
+        3.3
+      ],
+      [
+        "Taiz",
+        2
+      ]
+    ],
+    "GHA": [
+      [
+        "Accra",
+        8.2
+      ],
+      [
+        "Kumasi",
+        3.5
+      ],
+      [
+        "Tamale",
+        1.4
+      ]
+    ],
+    "PER": [
+      [
+        "Lima",
+        32
+      ],
+      [
+        "Arequipa",
+        3.4
+      ],
+      [
+        "Trujillo",
+        3
+      ]
+    ],
+    "VEN": [
+      [
+        "Caracas",
+        10
+      ],
+      [
+        "Maracaibo",
+        8
+      ],
+      [
+        "Valencia",
+        6.5
+      ]
+    ],
+    "AUS": [
+      [
+        "Sydney",
+        20.6
+      ],
+      [
+        "Melbourne",
+        20
+      ],
+      [
+        "Brisbane",
+        10
+      ],
+      [
+        "Perth",
+        8.7
+      ],
+      [
+        "Adelaide",
+        5.4
+      ]
+    ],
+    "MOZ": [
+      [
+        "Maputo",
+        3.5
+      ],
+      [
+        "Matola",
+        3.4
+      ],
+      [
+        "Nampula",
+        2.4
+      ]
+    ],
+    "AGO": [
+      [
+        "Luanda",
+        25
+      ],
+      [
+        "Huambo",
+        2
+      ]
+    ],
+    "CMR": [
+      [
+        "Douala",
+        10
+      ],
+      [
+        "Yaoundé",
+        10
+      ]
+    ],
+    "CIV": [
+      [
+        "Abidjan",
+        21
+      ],
+      [
+        "Bouaké",
+        2.6
+      ],
+      [
+        "Yamoussoukro",
+        1.3
+      ]
+    ],
+    "MDG": [
+      [
+        "Antananarivo",
+        12
+      ],
+      [
+        "Toamasina",
+        1.5
+      ]
+    ],
+    "UGA": [
+      [
+        "Kampala",
+        8
+      ],
+      [
+        "Gulu",
+        0.5
+      ]
+    ],
+    "KAZ": [
+      [
+        "Almaty",
+        11
+      ],
+      [
+        "Astana",
+        7
+      ]
+    ],
+    "NER": [
+      [
+        "Niamey",
+        6
+      ],
+      [
+        "Zinder",
+        2
+      ]
+    ],
+    "BFA": [
+      [
+        "Ouagadougou",
+        14
+      ],
+      [
+        "Bobo-Dioulasso",
+        5
+      ]
+    ],
+    "MLI": [
+      [
+        "Bamako",
+        13
+      ],
+      [
+        "Sikasso",
+        1.5
+      ]
+    ],
+    "MWI": [
+      [
+        "Lilongwe",
+        6.5
+      ],
+      [
+        "Blantyre",
+        5.6
+      ]
+    ],
+    "ZMB": [
+      [
+        "Lusaka",
+        17
+      ],
+      [
+        "Kitwe",
+        4
+      ]
+    ],
+    "SEN": [
+      [
+        "Dakar",
+        23
+      ],
+      [
+        "Touba",
+        6.4
+      ]
+    ],
+    "ZWE": [
+      [
+        "Harare",
+        14
+      ],
+      [
+        "Bulawayo",
+        5
+      ]
+    ],
+    "GTM": [
+      [
+        "Guatemala City",
+        17
+      ],
+      [
+        "Quetzaltenango",
+        1.5
+      ]
+    ],
+    "ECU": [
+      [
+        "Guayaquil",
+        17
+      ],
+      [
+        "Quito",
+        16
+      ]
+    ],
+    "CUB": [
+      [
+        "Havana",
+        19
+      ],
+      [
+        "Santiago de Cuba",
+        4.5
+      ]
+    ],
+    "HTI": [
+      [
+        "Port-au-Prince",
+        25
+      ],
+      [
+        "Cap-Haïtien",
+        2.4
+      ]
+    ],
+    "DOM": [
+      [
+        "Santo Domingo",
+        30
+      ],
+      [
+        "Santiago",
+        8
+      ]
+    ],
+    "ROU": [
+      [
+        "Bucharest",
+        11
+      ],
+      [
+        "Cluj-Napoca",
+        2.2
+      ]
+    ],
+    "NLD": [
+      [
+        "Amsterdam",
+        14
+      ],
+      [
+        "Rotterdam",
+        10
+      ],
+      [
+        "The Hague",
+        6.3
+      ]
+    ],
+    "KHM": [
+      [
+        "Phnom Penh",
+        13
+      ],
+      [
+        "Siem Reap",
+        1.5
+      ]
+    ],
+    "LKA": [
+      [
+        "Colombo",
+        28
+      ],
+      [
+        "Kandy",
+        0.6
+      ]
+    ],
+    "SOM": [
+      [
+        "Mogadishu",
+        15
+      ],
+      [
+        "Hargeisa",
+        7
+      ]
+    ],
+    "TCD": [
+      [
+        "N'Djamena",
+        9
+      ],
+      [
+        "Moundou",
+        1.2
+      ]
+    ],
+    "SYR": [
+      [
+        "Damascus",
+        12
+      ],
+      [
+        "Aleppo",
+        10
+      ],
+      [
+        "Homs",
+        6
+      ]
+    ],
+    "PRK": [
+      [
+        "Pyongyang",
+        12
+      ],
+      [
+        "Hamhung",
+        3
+      ]
+    ],
+    "TWN": [
+      [
+        "Taipei (metro)",
+        30
+      ],
+      [
+        "Kaohsiung",
+        11.6
+      ],
+      [
+        "Taichung",
+        11.8
+      ]
+    ]
+  },
+  "caps": {
+    "ALB": "Tirana",
+    "ARE": "Abu Dhabi",
+    "ARM": "Yerevan",
+    "ABW": "Oranjestad",
+    "ATG": "St. John's",
+    "AUT": "Vienna",
+    "AZE": "Baku",
+    "BDI": "Gitega",
+    "BEL": "Brussels",
+    "BEN": "Porto-Novo",
+    "BGR": "Sofia",
+    "BHR": "Manama",
+    "BHS": "Nassau",
+    "BIH": "Sarajevo",
+    "BLR": "Minsk",
+    "BLZ": "Belmopan",
+    "BOL": "La Paz",
+    "BRB": "Bridgetown",
+    "BRN": "Bandar Seri Begawan",
+    "BTN": "Thimphu",
+    "BWA": "Gaborone",
+    "CAF": "Bangui",
+    "CHE": "Bern",
+    "CHL": "Santiago",
+    "COG": "Brazzaville",
+    "COM": "Moroni",
+    "CPV": "Praia",
+    "CRI": "San José",
+    "CYP": "Nicosia",
+    "CZE": "Prague",
+    "DJI": "Djibouti City",
+    "DNK": "Copenhagen",
+    "ERI": "Asmara",
+    "ESH": "Laayoune",
+    "EST": "Tallinn",
+    "FIN": "Helsinki",
+    "FJI": "Suva",
+    "FSM": "Palikir",
+    "GAB": "Libreville",
+    "GEO": "Tbilisi",
+    "GIN": "Conakry",
+    "GLP": "Basse-Terre",
+    "GMB": "Banjul",
+    "GNB": "Bissau",
+    "GNQ": "Malabo",
+    "GRC": "Athens",
+    "GRD": "St. George's",
+    "GRL": "Nuuk",
+    "GUF": "Cayenne",
+    "GUM": "Hagåtña",
+    "GUY": "Georgetown",
+    "HKG": "Hong Kong",
+    "HND": "Tegucigalpa",
+    "HRV": "Zagreb",
+    "HUN": "Budapest",
+    "IRL": "Dublin",
+    "ISL": "Reykjavík",
+    "ISR": "Jerusalem",
+    "JAM": "Kingston",
+    "JOR": "Amman",
+    "KGZ": "Bishkek",
+    "KIR": "Tarawa",
+    "KWT": "Kuwait City",
+    "LAO": "Vientiane",
+    "LBN": "Beirut",
+    "LBR": "Monrovia",
+    "LBY": "Tripoli",
+    "LCA": "Castries",
+    "LSO": "Maseru",
+    "LTU": "Vilnius",
+    "LUX": "Luxembourg",
+    "LVA": "Riga",
+    "MAC": "Macao",
+    "MDA": "Chișinău",
+    "MDV": "Malé",
+    "MKD": "Skopje",
+    "MLT": "Valletta",
+    "MNE": "Podgorica",
+    "MNG": "Ulaanbaatar",
+    "MRT": "Nouakchott",
+    "MTQ": "Fort-de-France",
+    "MUS": "Port Louis",
+    "MYS": "Kuala Lumpur",
+    "MYT": "Mamoudzou",
+    "NAM": "Windhoek",
+    "NCL": "Nouméa",
+    "NIC": "Managua",
+    "NOR": "Oslo",
+    "NZL": "Auckland",
+    "OMN": "Muscat",
+    "PAN": "Panama City",
+    "PNG": "Port Moresby",
+    "PRI": "San Juan",
+    "PRT": "Lisbon",
+    "PRY": "Asunción",
+    "PSE": "Gaza / Ramallah",
+    "PYF": "Papeete",
+    "QAT": "Doha",
+    "REU": "Saint-Denis",
+    "RWA": "Kigali",
+    "SGP": "Singapore",
+    "SLB": "Honiara",
+    "SLE": "Freetown",
+    "SLV": "San Salvador",
+    "SRB": "Belgrade",
+    "SSD": "Juba",
+    "STP": "São Tomé",
+    "SUR": "Paramaribo",
+    "SVK": "Bratislava",
+    "SVN": "Ljubljana",
+    "SWE": "Stockholm",
+    "SWZ": "Mbabane",
+    "SYC": "Victoria",
+    "TGO": "Lomé",
+    "TJK": "Dushanbe",
+    "TKM": "Ashgabat",
+    "TLS": "Dili",
+    "TON": "Nukuʻalofa",
+    "TTO": "Port of Spain",
+    "TUN": "Tunis",
+    "URY": "Montevideo",
+    "VCT": "Kingstown",
+    "VIR": "Charlotte Amalie",
+    "VUT": "Port Vila",
+    "WSM": "Apia"
+  },
+  "sexr_default": 105.0
+}

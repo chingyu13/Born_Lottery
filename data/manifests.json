@@ -1,0 +1,1570 @@
+{
+  "icons": {
+    "ae": {
+      "m": [
+        "ae_male_casual.webp",
+        "ae_male_traditional.webp",
+        "ae_male_traditional_2.webp",
+        "ae_male_traditional_3.webp"
+      ],
+      "f": [
+        "ae_female_muslim.webp",
+        "ae_female_muslim_2.webp",
+        "ae_female_muslim_3.webp",
+        "ae_female_niqab.webp"
+      ]
+    },
+    "af": {
+      "m": [
+        "af_male_traditional.webp",
+        "af_male_traditional_2.webp"
+      ],
+      "f": [
+        "af_female_burqa.webp",
+        "af_female_hijab.webp",
+        "af_female_niqab.webp",
+        "af_female_niqab_2.webp"
+      ]
+    },
+    "ao": {
+      "m": [
+        "ao_male_professional.webp"
+      ],
+      "f": [
+        "ao_female_professional.webp",
+        "ao_female_traditional.webp"
+      ]
+    },
+    "ar": {
+      "m": [
+        "ar_male_gaucho.webp",
+        "ar_male_gaucho_2.webp",
+        "ar_male_gaucho_3.webp"
+      ],
+      "f": [
+        "ar_female_tango.webp",
+        "ar_female_traditional.webp"
+      ]
+    },
+    "at": {
+      "m": [
+        "at_male_pretzel.webp",
+        "at_male_traditional.webp"
+      ],
+      "f": [
+        "at_female_cake.webp"
+      ]
+    },
+    "au": {
+      "m": [
+        "au_male_aboriginal.webp",
+        "au_male_outback.webp",
+        "au_male_outback_2.webp"
+      ],
+      "f": [
+        "au_female_sunhat.webp",
+        "au_female_surfer.webp"
+      ]
+    },
+    "bd": {
+      "m": [
+        "bd_male_traditional.webp"
+      ],
+      "f": [
+        "bd_female_traditional.webp",
+        "bd_female_traditional_2.webp",
+        "bd_female_traditional_3.webp"
+      ]
+    },
+    "be": {
+      "m": [
+        "be_male_chocolate.webp"
+      ],
+      "f": []
+    },
+    "bo": {
+      "m": [
+        "bo_male_traditional.webp",
+        "bo_male_traditional_2.webp"
+      ],
+      "f": [
+        "bo_female_cholita.webp"
+      ]
+    },
+    "br": {
+      "m": [
+        "br_male_athlete.webp",
+        "br_male_casual.webp",
+        "br_male_casual_2.webp",
+        "br_male_indigenous.webp",
+        "br_male_soccer.webp",
+        "br_male_soccer_2.webp"
+      ],
+      "f": [
+        "br_female_aboriginal.webp",
+        "br_female_traditional.webp"
+      ]
+    },
+    "bt": {
+      "m": [
+        "bt_male_casual.webp",
+        "bt_male_elderly.webp",
+        "bt_male_gho.webp",
+        "bt_male_gho_2.webp"
+      ],
+      "f": [
+        "bt_female_elderly.webp",
+        "bt_female_kira.webp",
+        "bt_female_professional.webp",
+        "bt_female_traditional.webp"
+      ]
+    },
+    "ca": {
+      "m": [
+        "ca_male_mountie.webp"
+      ],
+      "f": [
+        "ca_female_aboriginal.webp"
+      ]
+    },
+    "cd": {
+      "m": [
+        "cd_male_professional.webp",
+        "cd_male_professional_2.webp",
+        "cd_male_professional_3.webp"
+      ],
+      "f": [
+        "cd_female_headscarf.webp",
+        "cd_female_traditional.webp"
+      ]
+    },
+    "ch": {
+      "m": [
+        "ch_male_alphorn.webp",
+        "ch_male_edelweiss.webp",
+        "ch_male_traditional.webp"
+      ],
+      "f": [
+        "ch_female_fondue.webp",
+        "ch_female_traditional.webp"
+      ]
+    },
+    "ci": {
+      "m": [
+        "ci_male_casual.webp"
+      ],
+      "f": []
+    },
+    "cl": {
+      "m": [
+        "cl_male_andean.webp",
+        "cl_male_huaso.webp",
+        "cl_male_huaso_2.webp"
+      ],
+      "f": [
+        "cl_female_mapuche.webp",
+        "cl_female_professional.webp",
+        "cl_female_professional_2.webp",
+        "cl_female_traditional.webp"
+      ]
+    },
+    "cm": {
+      "m": [],
+      "f": [
+        "cm_female_traditional.webp"
+      ]
+    },
+    "cn": {
+      "m": [
+        "cn_male_ancient.webp",
+        "cn_male_minority.webp",
+        "cn_male_muslim.webp",
+        "cn_male_traditional.webp",
+        "cn_male_traditional_2.webp",
+        "cn_male_traditional_3.webp",
+        "cn_male_traditional_4.webp"
+      ],
+      "f": [
+        "cn_female_minority.webp",
+        "cn_female_professional.webp",
+        "cn_female_qipao.webp",
+        "cn_female_qipao_2.webp",
+        "cn_female_qipao_3.webp",
+        "cn_female_traditional.webp"
+      ]
+    },
+    "co": {
+      "m": [
+        "co_male_andean.webp",
+        "co_male_farmer.webp",
+        "co_male_sombrero.webp",
+        "co_male_traditional.webp",
+        "co_male_traditional_2.webp"
+      ],
+      "f": [
+        "co_female_festive.webp",
+        "co_female_traditional.webp",
+        "co_female_traditional_2.webp"
+      ]
+    },
+    "cu": {
+      "m": [
+        "cu_male_guajiro.webp"
+      ],
+      "f": [
+        "cu_female_afro.webp"
+      ]
+    },
+    "de": {
+      "m": [
+        "de_male_bavarian.webp",
+        "de_male_casual.webp",
+        "de_male_casual_2.webp",
+        "de_male_lederhosen.webp",
+        "de_male_lederhosen_2.webp",
+        "de_male_traditional.webp",
+        "de_male_traditional_2.webp"
+      ],
+      "f": [
+        "de_female_casual.webp",
+        "de_female_professional.webp",
+        "de_female_professional_2.webp",
+        "de_female_traditional.webp",
+        "de_female_traditional_2.webp",
+        "de_female_traditional_3.webp"
+      ]
+    },
+    "do": {
+      "m": [
+        "do_male_casual.webp"
+      ],
+      "f": [
+        "do_female_afro.webp"
+      ]
+    },
+    "dz": {
+      "m": [
+        "dz_male_djellaba.webp"
+      ],
+      "f": [
+        "dz_female_hijab.webp",
+        "dz_female_muslim.webp",
+        "dz_female_traditional.webp"
+      ]
+    },
+    "ec": {
+      "m": [],
+      "f": [
+        "ec_female_otavalo.webp"
+      ]
+    },
+    "eg": {
+      "m": [
+        "eg_male_casual.webp",
+        "eg_male_muslim.webp",
+        "eg_male_professional.webp",
+        "eg_male_professional_2.webp"
+      ],
+      "f": [
+        "eg_female_hijab.webp",
+        "eg_female_hijab_2.webp",
+        "eg_female_hijab_3.webp"
+      ]
+    },
+    "er": {
+      "m": [],
+      "f": [
+        "er_female_hijab.webp"
+      ]
+    },
+    "es": {
+      "m": [
+        "es_male_biker.webp",
+        "es_male_matador.webp",
+        "es_male_matador_2.webp",
+        "es_male_matador_3.webp",
+        "es_male_traditional.webp",
+        "es_male_traditional_2.webp"
+      ],
+      "f": [
+        "es_female_casual.webp",
+        "es_female_flamenco.webp",
+        "es_female_flamenco_2.webp",
+        "es_female_flamenco_3.webp",
+        "es_female_flamenco_4.webp",
+        "es_female_professional.webp"
+      ]
+    },
+    "et": {
+      "m": [
+        "et_male_traditional.webp",
+        "et_male_traditional_2.webp",
+        "et_male_traditional_3.webp",
+        "et_male_traditional_4.webp"
+      ],
+      "f": [
+        "et_female_braided.webp",
+        "et_female_traditional.webp",
+        "et_female_traditional_2.webp"
+      ]
+    },
+    "fj": {
+      "m": [
+        "fj_male_casual.webp"
+      ],
+      "f": [
+        "fj_female_casual.webp",
+        "fj_female_flower.webp"
+      ]
+    },
+    "fr": {
+      "m": [
+        "fr_male_artist.webp",
+        "fr_male_artist_2.webp",
+        "fr_male_beret.webp",
+        "fr_male_beret_2.webp",
+        "fr_male_casual.webp"
+      ],
+      "f": [
+        "fr_female_casual.webp",
+        "fr_female_elegant.webp",
+        "fr_female_muslim.webp",
+        "fr_female_professional.webp",
+        "fr_female_professional_2.webp",
+        "fr_female_trenchcoat.webp",
+        "fr_female_trenchcoat_2.webp"
+      ]
+    },
+    "gb": {
+      "m": [
+        "gb_male_gentleman.webp",
+        "gb_male_guard.webp",
+        "gb_male_guard_2.webp",
+        "gb_male_scottish.webp",
+        "gb_male_traditional.webp"
+      ],
+      "f": [
+        "gb_female_casual.webp",
+        "gb_female_casual_2.webp",
+        "gb_female_professional.webp",
+        "gb_female_student.webp",
+        "gb_female_trenchcoat.webp"
+      ]
+    },
+    "gh": {
+      "m": [
+        "gh_male_kente.webp",
+        "gh_male_kente_2.webp",
+        "gh_male_kente_3.webp"
+      ],
+      "f": [
+        "gh_female_kente.webp",
+        "gh_female_kente_2.webp"
+      ]
+    },
+    "gr": {
+      "m": [
+        "gr_male_evzones.webp",
+        "gr_male_sailor.webp"
+      ],
+      "f": [
+        "gr_female_ancient.webp",
+        "gr_female_ancient_2.webp",
+        "gr_female_traditional.webp",
+        "gr_female_traditional_2.webp"
+      ]
+    },
+    "gt": {
+      "m": [
+        "gt_male_traditional.webp"
+      ],
+      "f": [
+        "gt_female_traditional.webp"
+      ]
+    },
+    "hk": {
+      "m": [
+        "hk_male_professional.webp",
+        "hk_male_professional_2.webp",
+        "hk_male_professional_3.webp",
+        "hk_male_professional_4.webp"
+      ],
+      "f": [
+        "hk_female_professional.webp",
+        "hk_female_professional_2.webp"
+      ]
+    },
+    "id": {
+      "m": [
+        "id_male_muslim.webp",
+        "id_male_traditional.webp"
+      ],
+      "f": [
+        "id_female_muslim.webp",
+        "id_female_muslim_2.webp",
+        "id_female_traditional.webp"
+      ]
+    },
+    "ie": {
+      "m": [
+        "ie_male_traditional.webp"
+      ],
+      "f": [
+        "ie_female_traditional.webp"
+      ]
+    },
+    "il": {
+      "m": [
+        "il_male_jewish.webp",
+        "il_male_jewish_2.webp",
+        "il_male_jewish_3.webp"
+      ],
+      "f": [
+        "il_female_casual.webp"
+      ]
+    },
+    "in": {
+      "m": [
+        "in_male_sikh.webp",
+        "in_male_turban.webp"
+      ],
+      "f": [
+        "in_female_sari.webp",
+        "in_female_sari_2.webp",
+        "in_female_traditional.webp"
+      ]
+    },
+    "iq": {
+      "m": [
+        "iq_male_pakol.webp",
+        "iq_male_traditional.webp",
+        "iq_male_traditional_2.webp"
+      ],
+      "f": [
+        "iq_female_hijab.webp",
+        "iq_female_hijab_2.webp"
+      ]
+    },
+    "ir": {
+      "m": [],
+      "f": [
+        "ir_female_muslim.webp",
+        "ir_female_professional.webp",
+        "ir_female_traditional.webp"
+      ]
+    },
+    "it": {
+      "m": [
+        "it_male_casual.webp",
+        "it_male_casual_2.webp",
+        "it_male_chef.webp",
+        "it_male_classic.webp",
+        "it_male_coffee.webp",
+        "it_male_professional.webp",
+        "it_male_professional_2.webp",
+        "it_male_student.webp"
+      ],
+      "f": [
+        "it_female_elegant.webp",
+        "it_female_olive.webp",
+        "it_female_summer.webp",
+        "it_female_traditional.webp"
+      ]
+    },
+    "jp": {
+      "m": [],
+      "f": [
+        "jp_female_kimono.webp",
+        "jp_female_kimono_2.webp",
+        "jp_female_kimono_3.webp",
+        "jp_female_traditional.webp"
+      ]
+    },
+    "ke": {
+      "m": [
+        "ke_male_maasai.webp",
+        "ke_male_maasai_2.webp"
+      ],
+      "f": [
+        "ke_female_beaded.webp",
+        "ke_female_headdress.webp",
+        "ke_female_headwrap.webp",
+        "ke_female_maasai.webp",
+        "ke_female_maasai_2.webp",
+        "ke_female_maasai_3.webp",
+        "ke_female_traditional.webp"
+      ]
+    },
+    "kh": {
+      "m": [
+        "kh_male_monk.webp",
+        "kh_male_traditional.webp"
+      ],
+      "f": [
+        "kh_female_traditional.webp",
+        "kh_female_traditional_2.webp"
+      ]
+    },
+    "kp": {
+      "m": [
+        "kp_male_military.webp",
+        "kp_male_military_2.webp",
+        "kp_male_soldier.webp"
+      ],
+      "f": []
+    },
+    "kr": {
+      "m": [
+        "kr_male_casual.webp",
+        "kr_male_farmer.webp",
+        "kr_male_traditional.webp",
+        "kr_male_traditional_2.webp",
+        "kr_male_traditional_3.webp",
+        "kr_male_traditional_4.webp",
+        "kr_male_traditional_5.webp"
+      ],
+      "f": [
+        "kr_female_elderly.webp",
+        "kr_female_traditional.webp",
+        "kr_female_traditional_2.webp",
+        "kr_female_traditional_3.webp"
+      ]
+    },
+    "kw": {
+      "m": [
+        "kw_male_traditional.webp",
+        "kw_male_traditional_2.webp",
+        "kw_male_traditional_3.webp"
+      ],
+      "f": []
+    },
+    "la": {
+      "m": [],
+      "f": [
+        "la_female_traditional.webp",
+        "la_female_traditional_2.webp"
+      ]
+    },
+    "lk": {
+      "m": [
+        "lk_male_traditional.webp"
+      ],
+      "f": [
+        "lk_female_sari.webp",
+        "lk_female_sari_2.webp",
+        "lk_female_sari_3.webp",
+        "lk_female_sari_4.webp"
+      ]
+    },
+    "ly": {
+      "m": [],
+      "f": [
+        "ly_female_casual.webp",
+        "ly_female_hijab.webp",
+        "ly_female_hijab_2.webp"
+      ]
+    },
+    "ma": {
+      "m": [
+        "ma_male_casual.webp",
+        "ma_male_fez.webp",
+        "ma_male_fez_2.webp",
+        "ma_male_fez_3.webp"
+      ],
+      "f": [
+        "ma_female_muslim.webp",
+        "ma_female_traditional.webp"
+      ]
+    },
+    "mg": {
+      "m": [
+        "mg_male_traditional.webp"
+      ],
+      "f": [
+        "mg_female_traditional.webp"
+      ]
+    },
+    "mm": {
+      "m": [
+        "mm_male_conical.webp",
+        "mm_male_longyi.webp",
+        "mm_male_traditional.webp"
+      ],
+      "f": [
+        "mm_female_thanaka.webp",
+        "mm_female_thanaka_2.webp",
+        "mm_female_thanaka_3.webp"
+      ]
+    },
+    "mn": {
+      "m": [
+        "mn_male_casual.webp",
+        "mn_male_deel.webp",
+        "mn_male_deel_2.webp",
+        "mn_male_deel_3.webp"
+      ],
+      "f": [
+        "mn_female_deel.webp",
+        "mn_female_traditional.webp"
+      ]
+    },
+    "mx": {
+      "m": [
+        "mx_male_casual.webp",
+        "mx_male_charro.webp",
+        "mx_male_mariachi.webp",
+        "mx_male_mariachi_2.webp",
+        "mx_male_poncho.webp",
+        "mx_male_sombrero.webp"
+      ],
+      "f": [
+        "mx_female_traditional.webp",
+        "mx_female_traditional_2.webp"
+      ]
+    },
+    "my": {
+      "m": [
+        "my_male_casual.webp",
+        "my_male_muslim.webp",
+        "my_male_muslim_2.webp",
+        "my_male_muslim_3.webp"
+      ],
+      "f": [
+        "my_female_muslim.webp",
+        "my_female_muslim_2.webp",
+        "my_female_qipao.webp",
+        "my_female_qipao_2.webp"
+      ]
+    },
+    "mz": {
+      "m": [
+        "mz_male_casual.webp"
+      ],
+      "f": [
+        "mz_female_casual.webp",
+        "mz_female_casual_2.webp",
+        "mz_female_traditional.webp",
+        "mz_female_traditional_2.webp"
+      ]
+    },
+    "ng": {
+      "m": [
+        "ng_male_traditional.webp",
+        "ng_male_traditional_2.webp",
+        "ng_male_traditional_3.webp",
+        "ng_male_traditional_4.webp"
+      ],
+      "f": [
+        "ng_female_gele.webp",
+        "ng_female_gele_2.webp",
+        "ng_female_traditional.webp"
+      ]
+    },
+    "nl": {
+      "m": [
+        "nl_male_farmer.webp",
+        "nl_male_sweater.webp",
+        "nl_male_tulip.webp"
+      ],
+      "f": [
+        "nl_female_traditional.webp",
+        "nl_female_traditional_2.webp",
+        "nl_female_traditional_3.webp",
+        "nl_female_traditional_4.webp"
+      ]
+    },
+    "np": {
+      "m": [
+        "np_male_gurkha.webp",
+        "np_male_topi.webp",
+        "np_male_traditional.webp"
+      ],
+      "f": []
+    },
+    "nz": {
+      "m": [
+        "nz_male_maori.webp",
+        "nz_male_maori_2.webp",
+        "nz_male_maori_3.webp",
+        "nz_male_maori_4.webp"
+      ],
+      "f": [
+        "nz_female_casual.webp",
+        "nz_female_wetsuit.webp"
+      ]
+    },
+    "pe": {
+      "m": [
+        "pe_male_andean.webp",
+        "pe_male_andean_2.webp"
+      ],
+      "f": [
+        "pe_female_andean.webp",
+        "pe_female_andean_2.webp",
+        "pe_female_traditional.webp",
+        "pe_female_traditional_2.webp"
+      ]
+    },
+    "pg": {
+      "m": [
+        "pg_male_casual.webp",
+        "pg_male_traditional.webp"
+      ],
+      "f": [
+        "pg_female_traditional.webp"
+      ]
+    },
+    "ph": {
+      "m": [
+        "ph_male_traditional.webp",
+        "ph_male_traditional_2.webp"
+      ],
+      "f": [
+        "ph_female_traditional.webp",
+        "ph_female_traditional_2.webp",
+        "ph_female_traditional_3.webp"
+      ]
+    },
+    "pk": {
+      "m": [
+        "pk_male_traditional.webp",
+        "pk_male_traditional_2.webp",
+        "pk_male_traditional_3.webp",
+        "pk_male_traditional_4.webp",
+        "pk_male_traditional_5.webp"
+      ],
+      "f": [
+        "pk_female_traditional.webp"
+      ]
+    },
+    "pl": {
+      "m": [
+        "pl_male_athlete.webp",
+        "pl_male_pierogi.webp",
+        "pl_male_traditional.webp"
+      ],
+      "f": [
+        "pl_female_traditional.webp",
+        "pl_female_traditional_2.webp"
+      ]
+    },
+    "pr": {
+      "m": [],
+      "f": [
+        "pr_female_traditional.webp"
+      ]
+    },
+    "pt": {
+      "m": [
+        "pt_male_casual.webp",
+        "pt_male_tiles.webp"
+      ],
+      "f": [
+        "pt_female_fish.webp"
+      ]
+    },
+    "py": {
+      "m": [],
+      "f": [
+        "py_female_professional.webp"
+      ]
+    },
+    "ro": {
+      "m": [],
+      "f": [
+        "ro_female_traditional.webp"
+      ]
+    },
+    "ru": {
+      "m": [
+        "ru_male_traditional.webp"
+      ],
+      "f": [
+        "ru_female_traditional.webp"
+      ]
+    },
+    "rw": {
+      "m": [
+        "rw_male_casual.webp"
+      ],
+      "f": [
+        "rw_female_traditional.webp",
+        "rw_female_traditional_2.webp"
+      ]
+    },
+    "sa": {
+      "m": [
+        "sa_male_casual.webp",
+        "sa_male_traditional.webp"
+      ],
+      "f": [
+        "sa_female_muslim.webp",
+        "sa_female_muslim_2.webp"
+      ]
+    },
+    "sb": {
+      "m": [
+        "sb_male_traditional.webp"
+      ],
+      "f": [
+        "sb_female_traditional.webp"
+      ]
+    },
+    "sct": {
+      "m": [
+        "sct_male_bagpiper.webp",
+        "sct_male_casual.webp",
+        "sct_male_tartan.webp",
+        "sct_male_traditional.webp",
+        "sct_male_traditional_2.webp"
+      ],
+      "f": [
+        "sct_female_traditional.webp",
+        "sct_female_traditional_2.webp"
+      ]
+    },
+    "sd": {
+      "m": [
+        "sd_male_traditional.webp",
+        "sd_male_traditional_2.webp",
+        "sd_male_traditional_3.webp"
+      ],
+      "f": [
+        "sd_female_traditional.webp"
+      ]
+    },
+    "se": {
+      "m": [
+        "se_male_casual.webp",
+        "se_male_casual_2.webp",
+        "se_male_sweater.webp",
+        "se_male_sweater_2.webp",
+        "se_male_traditional.webp",
+        "se_male_winter.webp"
+      ],
+      "f": [
+        "se_female_casual.webp",
+        "se_female_lingonberries.webp",
+        "se_female_traditional.webp",
+        "se_female_traditional_2.webp"
+      ]
+    },
+    "sg": {
+      "m": [
+        "sg_male_military.webp",
+        "sg_male_professional.webp"
+      ],
+      "f": [
+        "sg_female_professional.webp"
+      ]
+    },
+    "sn": {
+      "m": [
+        "sn_male_casual.webp",
+        "sn_male_traditional.webp"
+      ],
+      "f": [
+        "sn_female_casual.webp",
+        "sn_female_headscarf.webp"
+      ]
+    },
+    "sy": {
+      "m": [],
+      "f": [
+        "sy_female_muslim.webp",
+        "sy_female_muslim_2.webp",
+        "sy_female_traditional.webp"
+      ]
+    },
+    "th": {
+      "m": [
+        "th_male_casual.webp",
+        "th_male_muslim.webp",
+        "th_male_traditional.webp"
+      ],
+      "f": [
+        "th_female_traditional.webp"
+      ]
+    },
+    "tn": {
+      "m": [
+        "tn_male_fez.webp",
+        "tn_male_professional.webp"
+      ],
+      "f": [
+        "tn_female_traditional.webp"
+      ]
+    },
+    "tr": {
+      "m": [
+        "tr_male_fez.webp",
+        "tr_male_fez_2.webp",
+        "tr_male_suit.webp"
+      ],
+      "f": [
+        "tr_female_hijab.webp"
+      ]
+    },
+    "tw": {
+      "m": [
+        "tw_male_professional.webp"
+      ],
+      "f": [
+        "tw_female_casual.webp",
+        "tw_female_qipao.webp",
+        "tw_female_student.webp",
+        "tw_female_traditional.webp"
+      ]
+    },
+    "tz": {
+      "m": [
+        "tz_male_professional.webp",
+        "tz_male_traditional.webp"
+      ],
+      "f": [
+        "tz_female_traditional.webp"
+      ]
+    },
+    "ua": {
+      "m": [
+        "ua_male_traditional.webp"
+      ],
+      "f": [
+        "ua_female_traditional.webp"
+      ]
+    },
+    "ug": {
+      "m": [
+        "ug_male_traditional.webp",
+        "ug_male_traditional_2.webp"
+      ],
+      "f": [
+        "ug_female_traditional.webp",
+        "ug_female_traditional_2.webp"
+      ]
+    },
+    "us": {
+      "m": [
+        "us_male_cowboy.webp"
+      ],
+      "f": []
+    },
+    "va": {
+      "m": [
+        "va_male_bishop.webp",
+        "va_male_priest.webp"
+      ],
+      "f": [
+        "va_female_casual.webp",
+        "va_female_nun.webp",
+        "va_female_professional.webp"
+      ]
+    },
+    "ve": {
+      "m": [
+        "ve_male_doctor.webp",
+        "ve_male_llanero.webp"
+      ],
+      "f": [
+        "ve_female_traditional.webp",
+        "ve_female_traditional_2.webp",
+        "ve_female_traditional_3.webp"
+      ]
+    },
+    "vn": {
+      "m": [
+        "vn_male_farmer.webp",
+        "vn_male_farmer_2.webp",
+        "vn_male_traditional.webp",
+        "vn_male_traditional_2.webp"
+      ],
+      "f": [
+        "vn_female_aodai.webp",
+        "vn_female_aodai_2.webp",
+        "vn_female_aodai_3.webp",
+        "vn_female_farmer.webp",
+        "vn_female_minority.webp",
+        "vn_female_professional.webp",
+        "vn_female_traditional.webp",
+        "vn_female_traditional_2.webp"
+      ]
+    },
+    "vu": {
+      "m": [
+        "vu_male_traditional.webp"
+      ],
+      "f": [
+        "vu_female_traditional.webp"
+      ]
+    },
+    "wls": {
+      "m": [
+        "wls_male_traditional.webp"
+      ],
+      "f": []
+    },
+    "ye": {
+      "m": [
+        "ye_male_traditional.webp",
+        "ye_male_traditional_2.webp"
+      ],
+      "f": [
+        "ye_female_niqab.webp",
+        "ye_female_niqab_2.webp"
+      ]
+    },
+    "za": {
+      "m": [
+        "za_male_athlete.webp",
+        "za_male_madiba.webp",
+        "za_male_zulu.webp"
+      ],
+      "f": [
+        "za_female_beaded.webp",
+        "za_female_beaded_2.webp",
+        "za_female_traditional.webp",
+        "za_female_traditional_2.webp"
+      ]
+    },
+    "zm": {
+      "m": [
+        "zm_male_traditional.webp"
+      ],
+      "f": [
+        "zm_female_professional.webp",
+        "zm_female_traditional.webp",
+        "zm_female_traditional_2.webp"
+      ]
+    },
+    "zw": {
+      "m": [
+        "zw_male_professional.webp",
+        "zw_male_traditional.webp"
+      ],
+      "f": [
+        "zw_female_braids.webp"
+      ]
+    }
+  },
+  "lookup": {
+    "al": "gr",
+    "ad": "es",
+    "ag": "do",
+    "am": "tr",
+    "az": "tr",
+    "bs": "cu",
+    "bh": "ae",
+    "bb": "do",
+    "by": "pl",
+    "bz": "gt",
+    "bj": "ng",
+    "ba": "it",
+    "bw": "za",
+    "bn": "my",
+    "bg": "gr",
+    "bf": "gh",
+    "bi": "rw",
+    "cv": "sn",
+    "cf": "cd",
+    "td": "ng",
+    "km": "sn",
+    "cg": "cd",
+    "cr": "co",
+    "hr": "it",
+    "cy": "gr",
+    "cz": "de",
+    "dk": "de",
+    "dj": "et",
+    "dm": "do",
+    "sv": "gt",
+    "gq": "cm",
+    "ee": "se",
+    "sz": "za",
+    "fi": "se",
+    "ga": "cm",
+    "gm": "sn",
+    "ge": "tr",
+    "gd": "do",
+    "gn": "sn",
+    "gw": "sn",
+    "gy": "br",
+    "ht": "do",
+    "hn": "gt",
+    "hu": "at",
+    "is": "se",
+    "jm": "cu",
+    "jo": "sy",
+    "kz": "tr",
+    "kg": "tr",
+    "lv": "pl",
+    "lb": "sy",
+    "ls": "za",
+    "lr": "ci",
+    "li": "ch",
+    "lt": "pl",
+    "lu": "fr",
+    "mw": "zm",
+    "mv": "lk",
+    "ml": "sn",
+    "mt": "it",
+    "mr": "ma",
+    "mu": "za",
+    "md": "ro",
+    "mc": "fr",
+    "me": "gr",
+    "na": "ao",
+    "ni": "gt",
+    "ne": "ng",
+    "mk": "gr",
+    "no": "se",
+    "om": "ae",
+    "pa": "co",
+    "qa": "ae",
+    "kn": "do",
+    "lc": "do",
+    "ws": "nz",
+    "sm": "it",
+    "st": "ao",
+    "rs": "ro",
+    "sc": "za",
+    "sl": "sn",
+    "sk": "at",
+    "si": "it",
+    "so": "et",
+    "ss": "sd",
+    "vc": "do",
+    "ps": "sy",
+    "sr": "br",
+    "tj": "af",
+    "tl": "id",
+    "tg": "gh",
+    "to": "nz",
+    "tt": "ve",
+    "tm": "ir",
+    "tv": "nz",
+    "uy": "ar",
+    "uz": "tr"
+  },
+  "flags": {
+    "ma": "Morocco__ma.webp",
+    "it": "Italy__it.webp",
+    "aw": "Aruba__aw.webp",
+    "ph": "Philippines__ph.webp",
+    "bt": "Bhutan__bt.webp",
+    "no": "Norway__no.webp",
+    "sd": "Sudan__sd.webp",
+    "lc": "Saint_Lucia__lc.webp",
+    "ro": "Romania__ro.webp",
+    "de": "Germany__de.webp",
+    "mu": "Mauritius__mu.webp",
+    "pk": "Pakistan__pk.webp",
+    "ms": "Montserrat__ms.webp",
+    "dm": "Dominica__dm.webp",
+    "is": "Iceland__is.webp",
+    "cd": "DR_Congo__cd.webp",
+    "cm": "Cameroon__cm.webp",
+    "af": "Afghanistan__af.webp",
+    "cy": "Cyprus__cy.webp",
+    "gn": "Guinea__gn.webp",
+    "ag": "Antigua_and_Barbuda__ag.webp",
+    "la": "Laos__la.webp",
+    "me": "Montenegro__me.webp",
+    "mc": "Monaco__mc.webp",
+    "sz": "Eswatini__sz.webp",
+    "so": "Somalia__so.webp",
+    "az": "Azerbaijan__az.webp",
+    "lu": "Luxembourg__lu.webp",
+    "lv": "Latvia__lv.webp",
+    "vc": "St._Vincent_and_Grenadines__vc.webp",
+    "id": "Indonesia__id.webp",
+    "ci": "Côte_d'Ivoire__ci.webp",
+    "by": "Belarus__by.webp",
+    "nl": "Netherlands__nl.webp",
+    "md": "Moldova__md.webp",
+    "na": "Namibia__na.webp",
+    "pr": "Puerto_Rico__pr.webp",
+    "gl": "Greenland__gl.webp",
+    "mm": "Myanmar__mm.webp",
+    "tn": "Tunisia__tn.webp",
+    "tr": "Turkey__tr.webp",
+    "tg": "Togo__tg.webp",
+    "za": "South_Africa__za.webp",
+    "mn": "Mongolia__mn.webp",
+    "bn": "Brunei__bn.webp",
+    "ss": "South_Sudan__ss.webp",
+    "fr": "France__fr.webp",
+    "ki": "Kiribati__ki.webp",
+    "mz": "Mozambique__mz.webp",
+    "ps": "State_of_Palestine__ps.webp",
+    "ni": "Nicaragua__ni.webp",
+    "gh": "Ghana__gh.webp",
+    "se": "Sweden__se.webp",
+    "pg": "Papua_New_Guinea__pg.webp",
+    "mw": "Malawi__mw.webp",
+    "ne": "Niger__ne.webp",
+    "ge": "Georgia__ge.webp",
+    "bs": "Bahamas__bs.webp",
+    "cf": "Central_African_Republic__cf.webp",
+    "td": "Chad__td.webp",
+    "mh": "Marshall_Islands__mh.webp",
+    "tw": "Taiwan__tw.webp",
+    "in": "India__in.webp",
+    "jm": "Jamaica__jm.webp",
+    "zm": "Zambia__zm.webp",
+    "th": "Thailand__th.webp",
+    "kr": "South_Korea__kr.webp",
+    "li": "Liechtenstein__li.webp",
+    "cl": "Chile__cl.webp",
+    "fo": "Faeroe_Islands__fo.webp",
+    "at": "Austria__at.webp",
+    "uz": "Uzbekistan__uz.webp",
+    "sn": "Senegal__sn.webp",
+    "bh": "Bahrain__bh.webp",
+    "bj": "Benin__bj.webp",
+    "ca": "Canada__ca.webp",
+    "rs": "Serbia__rs.webp",
+    "gi": "Gibraltar__gi.webp",
+    "zw": "Zimbabwe__zw.webp",
+    "nr": "Nauru__nr.webp",
+    "sm": "San_Marino__sm.webp",
+    "vu": "Vanuatu__vu.webp",
+    "vg": "British_Virgin_Islands__vg.webp",
+    "ir": "Iran__ir.webp",
+    "np": "Nepal__np.webp",
+    "ng": "Nigeria__ng.webp",
+    "pm": "Saint_Pierre_and_Miquelon__pm.webp",
+    "mp": "Northern_Mariana_Islands__mp.webp",
+    "sa": "Saudi_Arabia__sa.webp",
+    "ua": "Ukraine__ua.webp",
+    "ve": "Venezuela__ve.webp",
+    "gd": "Grenada__gd.webp",
+    "va": "Holy_See__va.webp",
+    "tt": "Trinidad_and_Tobago__tt.webp",
+    "fm": "Micronesia__fm.webp",
+    "do": "Dominican_Republic__do.webp",
+    "gq": "Equatorial_Guinea__gq.webp",
+    "al": "Albania__al.webp",
+    "cv": "Cabo_Verde__cv.webp",
+    "ky": "Cayman_Islands__ky.webp",
+    "bo": "Bolivia__bo.webp",
+    "ad": "Andorra__ad.webp",
+    "fi": "Finland__fi.webp",
+    "as": "American_Samoa__as.webp",
+    "cg": "Congo__cg.webp",
+    "kz": "Kazakhstan__kz.webp",
+    "et": "Ethiopia__et.webp",
+    "ee": "Estonia__ee.webp",
+    "bm": "Bermuda__bm.webp",
+    "ga": "Gabon__ga.webp",
+    "mo": "Macao__mo.webp",
+    "nc": "New_Caledonia__nc.webp",
+    "bi": "Burundi__bi.webp",
+    "lt": "Lithuania__lt.webp",
+    "us": "United_States__us.webp",
+    "km": "Comoros__km.webp",
+    "hr": "Croatia__hr.webp",
+    "tl": "Timor-Leste__tl.webp",
+    "ke": "Kenya__ke.webp",
+    "sk": "Slovakia__sk.webp",
+    "es": "Spain__es.webp",
+    "gw": "Guinea-Bissau__gw.webp",
+    "pl": "Poland__pl.webp",
+    "co": "Colombia__co.webp",
+    "dj": "Djibouti__dj.webp",
+    "hn": "Honduras__hn.webp",
+    "fk": "Falkland_Islands__fk.webp",
+    "mr": "Mauritania__mr.webp",
+    "kh": "Cambodia__kh.webp",
+    "mv": "Maldives__mv.webp",
+    "ug": "Uganda__ug.webp",
+    "iq": "Iraq__iq.webp",
+    "sv": "El_Salvador__sv.webp",
+    "jp": "Japan__jp.webp",
+    "py": "Paraguay__py.webp",
+    "vi": "U.S._Virgin_Islands__vi.webp",
+    "tm": "Turkmenistan__tm.webp",
+    "tk": "Tokelau__tk.webp",
+    "sx": "Sint_Maarten__sx.webp",
+    "tz": "Tanzania__tz.webp",
+    "sh": "Saint_Helena__sh.webp",
+    "bd": "Bangladesh__bd.webp",
+    "cr": "Costa_Rica__cr.webp",
+    "dk": "Denmark__dk.webp",
+    "hu": "Hungary__hu.webp",
+    "jo": "Jordan__jo.webp",
+    "ar": "Argentina__ar.webp",
+    "sy": "Syria__sy.webp",
+    "mx": "Mexico__mx.webp",
+    "ws": "Samoa__ws.webp",
+    "gr": "Greece__gr.webp",
+    "nz": "New_Zealand__nz.webp",
+    "bw": "Botswana__bw.webp",
+    "cz": "Czech_Republic_(Czechia)__cz.webp",
+    "pe": "Peru__pe.webp",
+    "sg": "Singapore__sg.webp",
+    "kg": "Kyrgyzstan__kg.webp",
+    "sb": "Solomon_Islands__sb.webp",
+    "ru": "Russia__ru.webp",
+    "bg": "Bulgaria__bg.webp",
+    "to": "Tonga__to.webp",
+    "pt": "Portugal__pt.webp",
+    "bz": "Belize__bz.webp",
+    "gm": "Gambia__gm.webp",
+    "hk": "Hong_Kong__hk.webp",
+    "ml": "Mali__ml.webp",
+    "fj": "Fiji__fj.webp",
+    "eg": "Egypt__eg.webp",
+    "kw": "Kuwait__kw.webp",
+    "mt": "Malta__mt.webp",
+    "cu": "Cuba__cu.webp",
+    "br": "Brazil__br.webp",
+    "pw": "Palau__pw.webp",
+    "il": "Israel__il.webp",
+    "be": "Belgium__be.webp",
+    "mg": "Madagascar__mg.webp",
+    "gu": "Guam__gu.webp",
+    "er": "Eritrea__er.webp",
+    "dz": "Algeria__dz.webp",
+    "cn": "China__cn.webp",
+    "gb": "United_Kingdom__gb.webp",
+    "bb": "Barbados__bb.webp",
+    "bf": "Burkina_Faso__bf.webp",
+    "im": "Isle_of_Man__im.webp",
+    "ba": "Bosnia_and_Herzegovina__ba.webp",
+    "lb": "Lebanon__lb.webp",
+    "ai": "Anguilla__ai.webp",
+    "tc": "Turks_and_Caicos__tc.webp",
+    "ly": "Libya__ly.webp",
+    "am": "Armenia__am.webp",
+    "kn": "Saint_Kitts_and_Nevis__kn.webp",
+    "st": "Sao_Tome_and_Principe__st.webp",
+    "cw": "Curaçao__cw.webp",
+    "ae": "United_Arab_Emirates__ae.webp",
+    "pa": "Panama__pa.webp",
+    "ch": "Switzerland__ch.webp",
+    "wf": "Wallis_and_Futuna__wf.webp",
+    "ht": "Haiti__ht.webp",
+    "gt": "Guatemala__gt.webp",
+    "om": "Oman__om.webp",
+    "ye": "Yemen__ye.webp",
+    "kp": "North_Korea__kp.webp",
+    "tj": "Tajikistan__tj.webp",
+    "lk": "Sri_Lanka__lk.webp",
+    "si": "Slovenia__si.webp",
+    "au": "Australia__au.webp",
+    "my": "Malaysia__my.webp",
+    "uy": "Uruguay__uy.webp",
+    "pf": "French_Polynesia__pf.webp",
+    "gy": "Guyana__gy.webp",
+    "lr": "Liberia__lr.webp",
+    "ec": "Ecuador__ec.webp",
+    "ls": "Lesotho__ls.webp",
+    "qa": "Qatar__qa.webp",
+    "rw": "Rwanda__rw.webp",
+    "mk": "North_Macedonia__mk.webp",
+    "sc": "Seychelles__sc.webp",
+    "sl": "Sierra_Leone__sl.webp",
+    "vn": "Vietnam__vn.webp",
+    "tv": "Tuvalu__tv.webp",
+    "ao": "Angola__ao.webp",
+    "ie": "Ireland__ie.webp",
+    "sr": "Suriname__sr.webp"
+  },
+  "poles": {
+    "af": "3x2",
+    "al": "3x2",
+    "dz": "3x2",
+    "ad": "3x2",
+    "ao": "3x2",
+    "ag": "3x2",
+    "ar": "3x2",
+    "am": "2x1",
+    "au": "2x1",
+    "at": "3x2",
+    "az": "2x1",
+    "bs": "2x1",
+    "bh": "5x3",
+    "bd": "5x3",
+    "bb": "3x2",
+    "by": "2x1",
+    "be": "3x2",
+    "bz": "3x2",
+    "bj": "3x2",
+    "bt": "3x2",
+    "bo": "3x2",
+    "ba": "2x1",
+    "bw": "3x2",
+    "br": "3x2",
+    "bn": "2x1",
+    "bg": "3x2",
+    "bf": "3x2",
+    "bi": "3x2",
+    "cv": "3x2",
+    "kh": "3x2",
+    "cm": "3x2",
+    "ca": "2x1",
+    "cf": "3x2",
+    "td": "3x2",
+    "cl": "3x2",
+    "cn": "3x2",
+    "co": "3x2",
+    "km": "3x2",
+    "cg": "3x2",
+    "cr": "5x3",
+    "hr": "2x1",
+    "cu": "2x1",
+    "cy": "5x3",
+    "cz": "3x2",
+    "ci": "3x2",
+    "dk": "3x2",
+    "dj": "3x2",
+    "dm": "2x1",
+    "do": "3x2",
+    "cd": "3x2",
+    "ec": "2x1",
+    "eg": "3x2",
+    "sv": "5x3",
+    "gq": "3x2",
+    "er": "2x1",
+    "ee": "3x2",
+    "sz": "3x2",
+    "et": "5x3",
+    "fj": "2x1",
+    "fi": "5x3",
+    "fr": "3x2",
+    "ga": "3x2",
+    "gm": "3x2",
+    "ge": "3x2",
+    "de": "5x3",
+    "gh": "3x2",
+    "gr": "5x3",
+    "gd": "5x3",
+    "gt": "3x2",
+    "gn": "3x2",
+    "gw": "2x1",
+    "gy": "3x2",
+    "ht": "3x2",
+    "va": "1x1",
+    "hn": "2x1",
+    "hu": "3x2",
+    "is": "3x2",
+    "in": "3x2",
+    "id": "3x2",
+    "ir": "5x3",
+    "iq": "3x2",
+    "ie": "2x1",
+    "il": "3x2",
+    "it": "3x2",
+    "jm": "2x1",
+    "jp": "3x2",
+    "jo": "2x1",
+    "kz": "2x1",
+    "ke": "3x2",
+    "ki": "3x2",
+    "kw": "2x1",
+    "kg": "3x2",
+    "la": "3x2",
+    "lv": "2x1",
+    "lb": "3x2",
+    "ls": "3x2",
+    "lr": "2x1",
+    "ly": "2x1",
+    "li": "3x2",
+    "lt": "3x2",
+    "lu": "5x3",
+    "mg": "3x2",
+    "mw": "3x2",
+    "my": "2x1",
+    "mv": "3x2",
+    "ml": "3x2",
+    "mt": "3x2",
+    "mh": "2x1",
+    "mr": "3x2",
+    "mu": "3x2",
+    "mx": "5x3",
+    "fm": "5x3",
+    "md": "2x1",
+    "mc": "3x2",
+    "mn": "2x1",
+    "me": "2x1",
+    "ma": "3x2",
+    "mz": "3x2",
+    "mm": "5x3",
+    "na": "3x2",
+    "nr": "2x1",
+    "np": "special",
+    "nl": "3x2",
+    "nz": "2x1",
+    "ni": "2x1",
+    "ne": "3x2",
+    "ng": "2x1",
+    "kp": "2x1",
+    "mk": "3x2",
+    "no": "5x3",
+    "om": "2x1",
+    "pk": "3x2",
+    "pw": "3x2",
+    "pa": "3x2",
+    "pg": "3x2",
+    "py": "2x1",
+    "pe": "3x2",
+    "ph": "2x1",
+    "pl": "5x3",
+    "pt": "3x2",
+    "qa": "2x1",
+    "ro": "3x2",
+    "ru": "3x2",
+    "rw": "2x1",
+    "kn": "3x2",
+    "lc": "2x1",
+    "ws": "2x1",
+    "sm": "3x2",
+    "st": "2x1",
+    "sa": "3x2",
+    "sn": "3x2",
+    "rs": "2x1",
+    "sc": "2x1",
+    "sl": "3x2",
+    "sg": "3x2",
+    "sk": "3x2",
+    "si": "2x1",
+    "sb": "3x2",
+    "so": "3x2",
+    "za": "5x3",
+    "kr": "3x2",
+    "ss": "2x1",
+    "es": "3x2",
+    "lk": "2x1",
+    "vc": "3x2",
+    "ps": "2x1",
+    "sd": "2x1",
+    "sr": "3x2",
+    "se": "5x3",
+    "ch": "1x1",
+    "sy": "3x2",
+    "tj": "2x1",
+    "tz": "3x2",
+    "th": "3x2",
+    "tl": "2x1",
+    "tg": "3x2",
+    "to": "2x1",
+    "tt": "5x3",
+    "tn": "3x2",
+    "tr": "3x2",
+    "tm": "3x2",
+    "tv": "2x1",
+    "ug": "5x3",
+    "ua": "3x2",
+    "ae": "2x1",
+    "gb": "2x1",
+    "us": "2x1",
+    "uy": "3x2",
+    "uz": "2x1",
+    "vu": "2x1",
+    "ve": "3x2",
+    "vn": "3x2",
+    "ye": "3x2",
+    "zm": "3x2",
+    "zw": "2x1"
+  }
+}

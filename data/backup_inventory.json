@@ -1,0 +1,49 @@
+{
+  "countries": [
+    "IND",
+    "CHN",
+    "NGA",
+    "PAK",
+    "IDN",
+    "COD",
+    "ETH",
+    "USA",
+    "BGD",
+    "BRA"
+  ],
+  "icons": [
+    "in_male_sikh.webp",
+    "in_female_sari.webp",
+    "cn_male_ancient.webp",
+    "cn_female_minority.webp",
+    "ng_male_traditional.webp",
+    "ng_female_gele.webp",
+    "pk_male_traditional.webp",
+    "pk_female_traditional.webp",
+    "id_male_muslim.webp",
+    "id_female_muslim.webp",
+    "cd_male_professional.webp",
+    "cd_female_headscarf.webp",
+    "et_male_traditional.webp",
+    "et_female_braided.webp",
+    "us_male_cowboy.webp",
+    "bd_male_traditional.webp",
+    "bd_female_traditional.webp",
+    "br_male_athlete.webp",
+    "br_female_aboriginal.webp"
+  ],
+  "flags": [
+    "India__in.webp",
+    "China__cn.webp",
+    "Nigeria__ng.webp",
+    "Pakistan__pk.webp",
+    "Indonesia__id.webp",
+    "DR_Congo__cd.webp",
+    "Ethiopia__et.webp",
+    "United_States__us.webp",
+    "Bangladesh__bd.webp",
+    "Brazil__br.webp"
+  ],
+  "icon_count": 19,
+  "flag_count": 10
+}
