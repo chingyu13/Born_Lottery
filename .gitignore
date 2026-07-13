@@ -6,7 +6,9 @@ __pycache__/
 venv/
 .env
 .env.*
+.dockerignore
 !.env.example
+!.dockerignore.example
 
 # Resolve logs
 data/wiki_resolve*.log
@@ -25,3 +27,6 @@ private/flags/
 # Optional local notes
 *.pem
 *.key
+
+# Personal project overview (for resume drafting — keep local, not public)
+docs/overview_bornlottery.md
